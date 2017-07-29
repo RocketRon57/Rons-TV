@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SkySpMainEv">
+    <display-name lang="en">SkySpMainEv</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1301.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySpMainEvHD">
+    <display-name lang="en">SkySpMainEvHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4002.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp PL">
+    <display-name lang="en">SkySp PL</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1303.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp PL HD">
+    <display-name lang="en">SkySp PL HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4010.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp Fball">
+    <display-name lang="en">SkySp Fball</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3838.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp Fball HD">
+    <display-name lang="en">SkySp Fball HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3939.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySpCricket">
+    <display-name lang="en">SkySpCricket</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1302.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySpCricketHD">
+    <display-name lang="en">SkySpCricketHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4081.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp Golf">
+    <display-name lang="en">SkySp Golf</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1322.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp Golf HD">
+    <display-name lang="en">SkySp Golf HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4026.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp F1">
+    <display-name lang="en">SkySp F1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1306.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp F1 HD">
+    <display-name lang="en">SkySp F1 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3835.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp Action">
+    <display-name lang="en">SkySp Action</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1333.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp ActionHD">
+    <display-name lang="en">SkySp ActionHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4022.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp Arena">
+    <display-name lang="en">SkySp Arena</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3839.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp ArenaHD">
+    <display-name lang="en">SkySp ArenaHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3940.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp News">
+    <display-name lang="en">SkySp News</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1314.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkySp News HD">
+    <display-name lang="en">SkySp News HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4049.png" />
+    <url>http://www.uk-sky.com</url>
+  </channel>
+</tv>
