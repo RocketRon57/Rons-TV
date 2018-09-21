@@ -1,903 +1,1669 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="ITV3">
-    <display-name lang="en">ITV3</display-name>
-    <icon src="http://static.filmon.com/couch/channels/26/big_logo.png" />
-    <url>http://www.filmon.com</url>
+  <channel id="Alibi">
+    <display-name lang="en">Alibi</display-name>
+    <icon src="https://wp16-images-ie-dynamic.horizon.tv/ChannelLogos/02/Alibi.png" />
+    <icon src="https://wp16-images-ie-dynamic.horizon.tv/ChannelLogos/02/Alibi.png" />
+    <url>http://www.horizon.tv</url>
   </channel>
-  <channel id="ITV4">
-    <display-name lang="en">ITV4</display-name>
-    <icon src="http://static.filmon.com/couch/channels/101/big_logo.png" />
-    <url>http://www.filmon.com</url>
-  </channel>
-  <programme start="20180917165500 +0000" stop="20180917180000 +0000" channel="ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">Joe and Rachel try to uncover a drug-smuggling ring, and Gina makes a new friend in her antenatal class - but is this one friend she could do without? And when Bernie's hearse is out of action, Peggy spots a gap in the market(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">17.19.</episode-num>
-  </programme>
-  <programme start="20180917180000 +0000" stop="20180917190000 +0000" channel="ITV3">
-    <title lang="en">Murder, She Wrote</title>
-    <desc lang="en">Murder mystery series about a sleuthing writer. Jessica sets out to prove the innocence of her neighbour and friend Daniel O'Brien, an eccentric inventor, when he is accused of the murder of a former partner with one of his inventions(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8725%2F2%2Ftn-8725-MurderSh-13178075741.21/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-  </programme>
-  <programme start="20180917190000 +0000" stop="20180917200000 +0000" channel="ITV3">
-    <title lang="en">Doc Martin</title>
-    <desc lang="en">Comedy drama series about a GP who relocates to the sleepy Cornish hamlet of Portwenn. An old flame of Joan's sails back into her life and sweeps her off her feet, then Martin discovers that the man is seriously ill. Schoolgirl Melanie develops a crush on the doctor and Martin fears her father's wrath when she keeps showing up at the surgery. There is romance in the air for Al and Elaine(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F230605%2F2%2Ftn-1315857600-230605-DocMartin-13153211310/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-  </programme>
-  <programme start="20180917200000 +0000" stop="20180917210000 +0000" channel="ITV3">
-    <title lang="en">Doc Martin</title>
-    <desc lang="en">Comedy-drama series. Martin does not take kindly to the influx of holidaymakers in Portwenn - and his attempts to point out the dangers of sunbathing to one woman does not go over very well. Gossip spreads about Martin's phobia of blood and he becomes the subject of a practical joke in the pub. One of Louisa's pupils has an accident and an ambulance has to be called to take him to Truro for emergency treatment. On the way there, Martin reveals the reason behind his fear(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F230605%2F2%2Ftn-1315857600-230605-DocMartin-13153211310/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-  </programme>
-  <programme start="20180917210000 +0000" stop="20180917220000 +0000" channel="ITV3">
-    <title lang="en">DCI Banks</title>
-    <desc lang="en">Return of the gritty detective series based on the novels by Peter Robinson. A man and a woman claiming to be social workers come to Katy Heath's house and tell her that they need to take her son Kyle away. Katy complies, but when the boy fails to reappear and the couple prove to be unknown to social services, DCI Alan Banks is drawn into a full-scale search for the child(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F764171%2F2%2Ftn-1349899200-764171-DCIBanks-13492678430/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-  </programme>
-  <programme start="20180917220000 +0000" stop="20180917230500 +0000" channel="ITV3">
-    <title lang="en">DCI Banks</title>
-    <desc lang="en">Gritty detective series based on the novels by Peter Robinson. When the body on the moors is identified as 11-year-old Andre Petri, the team have a murder enquiry on their hands. Kyle Heath is still missing and Banks wonders if there is a connection between Andre's death and Kyle's disappearance(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F764171%2F2%2Ftn-1349899200-764171-DCIBanks-13492678430/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-  </programme>
-  <programme start="20180917230500 +0000" stop="20180918001000 +0000" channel="ITV3">
-    <title lang="en">Scott and Bailey</title>
-    <desc lang="en">Sean surprises Rachel when he tells her that he has been in contact with her estranged mother, who would love to see her. Unable to accept that Janet has ended their affair, Andy punishes her by keeping her out of the heart of the investigation, leading to a painful row. Meanwhile, the team look into the murder of Leon Foster; Leon's death looks like a typical gang killing at first, but the discovery that he was sexually mutilated raises suspicions that this could be a domestic murder(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F802501%2F2%2Ftn-1331586000-802501-Scottand-13309469450/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918001000 +0000" stop="20180918010000 +0000" channel="ITV3">
-    <title lang="en">Scott and Bailey</title>
-    <desc lang="en">A hungover Rachel learns that Nick Savage has been brutally assaulted and that she is top of the list of suspects. Scared and unable to remember what happened, she struggles to convince herself that she did not do it. Meanwhile, thinking that she has made her peace with Andy, Janet is shocked to discover that he has given her misinformation which causes Gill to miss an appointment with the coroner. At the same time, Gill re-opens an accidental death case after some new information emerges(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F802501%2F2%2Ftn-1331586000-802501-Scottand-13309469450/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918010000 +0000" stop="20180918013000 +0000" channel="ITV3">
-    <title lang="en">ITV3 Nightscreen</title>
-    <desc lang="en">Text-based information service(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F234572%2F2%2Ftn-234572-ITV3Night-13110819452.81/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918013000 +0000" stop="20180918050000 +0000" channel="ITV3">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shopping from home(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F199894%2F2%2Ftn-199894-Teleshoppi-13038120380/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918050000 +0000" stop="20180918052500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">The Police let Jack and Jim off and PC Nailor buys the bike for 800 pounds. Alec tells Nigel that the changes to the Rovers are off. Bet is delighted. Mr Simpson the estate agent tells Deirdre that the buyer is offering 30,000 pounds for Number one(n)</desc>
-  </programme>
-  <programme start="20180918052500 +0000" stop="20180918055500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Jenny demands that Rod leaves but he charms her round, Rita is curious about Rod staying. Rita tells Jenny that Rod fancies Flick. Deirdre tells the estate agent that she doesn't want to sell the house until she knows who has made the offer(n)</desc>
-  </programme>
-  <programme start="20180918055500 +0000" stop="20180918065500 +0000" channel="ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">Joe and Rachel try to uncover a drug-smuggling ring, and Gina makes a new friend in her antenatal class - but is this one friend she could do without? And when Bernie's hearse is out of action, Peggy spots a gap in the market(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">17.19.</episode-num>
-  </programme>
-  <programme start="20180918065500 +0000" stop="20180918080000 +0000" channel="ITV3">
-    <title lang="en">The Royal</title>
-    <desc lang="en">Nostalgic medical drama spin-off from Heartbeat. Harper gets a shock after Ken discovers his plans. Mr Rose takes drastic action when a patient has a brain haemorrhage, and Sister Brigid performs a miracle(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F166269%2F2%2Ftn-1307296800-166269-TheRoyal-13065088710/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">2.5.</episode-num>
-  </programme>
-  <programme start="20180918080000 +0000" stop="20180918083000 +0000" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918083000 +0000" stop="20180918085500 +0000" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918085500 +0000" stop="20180918092500 +0000" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918092500 +0000" stop="20180918113500 +0000" channel="ITV3">
-    <title lang="en">Agatha Christie's Poirot</title>
-    <desc lang="en">Another case for the Belgian detective. Fourteen years after the murder of renowned painter Amyas Crale, whose wife Caroline was hanged for the crime, their grown-up daughter Lucy presents Poirot with a letter written by her mother declaring her innocence(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20875%2F2%2Ftn-1370804400-20875-AgathaChr-13699956910/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">9.1.</episode-num>
-  </programme>
-  <programme start="20180918113500 +0000" stop="20180918123500 +0000" channel="ITV3">
-    <title lang="en">The Royal</title>
-    <desc lang="en">Nostalgic medical drama spin-off from Heartbeat. Ormerod has to make a decision about Caroline. Weatherill's patient is determined to keep details of her illness a secret. A married couple face the truth about their future. Ken's organisational skills ensure that the hospital ball goes off with a bang(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F166269%2F2%2Ftn-1307296800-166269-TheRoyal-13065088710/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-  </programme>
-  <programme start="20180918123500 +0000" stop="20180918134000 +0000" channel="ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">Joe shows Geoff how to control a violent outbreak at the bookmakers. The police investigate a debt collector who is an ex-convict. Peggy struggles to encourage David to go to a school reunion(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">17.20.</episode-num>
-  </programme>
-  <programme start="20180918134000 +0000" stop="20180918141500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Deirdre doesn't tell Alec and Bet about the Brewery's plans. Jenny and Flick realise neither of them fancy Rod. Derek catches sight of a naked Steph. Deirdre tells Nigel she's not interested in selling but he offers to pay her 35,000 pounds(n)</desc>
-  </programme>
-  <programme start="20180918141500 +0000" stop="20180918144500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Vera plans a second honeymoon. Mavis discovers Derek looking up to Steph's bedroom and finds out she walks about in the nude. Mark threatens Rod with violence unless he leaves. Tracy overhears Dave inviting Deirdre to move in with him(n)</desc>
-  </programme>
-  <programme start="20180918144500 +0000" stop="20180918165500 +0000" channel="ITV3">
-    <title lang="en">Agatha Christie's Poirot</title>
-    <desc lang="en">Mystery drama with Agatha Christie's famous Belgian detective. Society girl Elinor Carlisle, heiress to the considerable Hunterbury estate, is accused of a double murder. Poirot only has five days to investigate the case before she is hanged(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20875%2F2%2Ftn-1370804400-20875-AgathaChr-13699956910/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">9.3.</episode-num>
-  </programme>
-  <programme start="20180918165500 +0000" stop="20180918180000 +0000" channel="ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">Joe shows Geoff how to control a violent outbreak at the bookmakers. The police investigate a debt collector who is an ex-convict. Peggy struggles to encourage David to go to a school reunion(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">17.20.</episode-num>
-  </programme>
-  <programme start="20180918180000 +0000" stop="20180918190000 +0000" channel="ITV3">
-    <title lang="en">Murder, She Wrote</title>
-    <desc lang="en">Murder mystery series. Jessica takes her nephew and niece on a day out and is asked to solve the seemingly impossible murder of a wealthy and much-disliked amusement park owner(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8725%2F2%2Ftn-8725-MurderSh-13178075741.21/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-  </programme>
-  <programme start="20180918190000 +0000" stop="20180918210000 +0000" channel="ITV3">
-    <title lang="en">Midsomer Murders</title>
-    <desc lang="en">Two couples vanish without trace from the village of Monks Barton, amid rumours of witchcraft and haunted woods. Flamboyant psychic Cyrus LeVanu clashes with pompous cleric Wallace Stone as a body is found, while other villagers seem to be caught up in a stolen antiques racket. Can Barnaby and Jones discover the secret of Barton Woods and find the killer?(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F15523%2F2%2Ftn-15523-MidsomerM-13287185036.65/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">12.4.</episode-num>
-  </programme>
-  <programme start="20180918210000 +0000" stop="20180918220000 +0000" channel="ITV3">
-    <title lang="en">Scott and Bailey</title>
-    <desc lang="en">Return of the drama series following two Manchester police officers. Newly-wed Rachel struggles to adjust to living with Sean. Admitting their marriage is over, Janet and Ade put their house on the market, planning to split when it sells. When she is called to a crime scene, Janet discovers the severed head of 75-year-old Eunice Bevan at the bottom of the stairs in her home(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F802501%2F2%2Ftn-1331586000-802501-Scottand-13309469450/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918220000 +0000" stop="20180918230500 +0000" channel="ITV3">
-    <title lang="en">Scott and Bailey</title>
-    <desc lang="en">Drama series following two Manchester police officers. The story flashes back to the events of last year, when Rachel found herself implicated as the brains behind the attack on Nick Savage. The Police Complaints Commission pick up the baton, and Rachel is once again under scrutiny. Struggling to cope, she finds comfort in the ever-faithful Sean and agrees to marry him. Amid the wedding celebrations Janet and Ade admit defeat about their marriage(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F802501%2F2%2Ftn-1331586000-802501-Scottand-13309469450/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918230500 +0000" stop="20180919010000 +0000" channel="ITV3">
-    <title lang="en">A Touch of Frost</title>
-    <desc lang="en">Frost has to deal with a hit and run accident involving the son of an MP and a missing Police officer following a casino robbery on the same night(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8728%2F2%2Ftn-1223841600-8728-ATouchof-12232915510/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-  </programme>
-  <programme start="20180919010000 +0000" stop="20180919013000 +0000" channel="ITV3">
-    <title lang="en">ITV3 Nightscreen</title>
-    <desc lang="en">Text-based information service(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F234572%2F2%2Ftn-234572-ITV3Night-13110819452.81/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919013000 +0000" stop="20180919050000 +0000" channel="ITV3">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shopping from home(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F199894%2F2%2Ftn-199894-Teleshoppi-13038120380/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919050000 +0000" stop="20180919052500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Deirdre doesn't tell Alec and Bet about the Brewery's plans. Jenny and Flick realise neither of them fancy Rod. Derek catches sight of a naked Steph. Deirdre tells Nigel she's not interested in selling but he offers to pay her 35,000 pounds(n)</desc>
-  </programme>
-  <programme start="20180919052500 +0000" stop="20180919055500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Vera plans a second honeymoon. Mavis discovers Derek looking up to Steph's bedroom and finds out she walks about in the nude. Mark threatens Rod with violence unless he leaves. Tracy overhears Dave inviting Deirdre to move in with him(n)</desc>
-  </programme>
-  <programme start="20180919055500 +0000" stop="20180919065500 +0000" channel="ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">Joe shows Geoff how to control a violent outbreak at the bookmakers. The police investigate a debt collector who is an ex-convict. Peggy struggles to encourage David to go to a school reunion(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">17.20.</episode-num>
-  </programme>
-  <programme start="20180919065500 +0000" stop="20180919080000 +0000" channel="ITV3">
-    <title lang="en">The Royal</title>
-    <desc lang="en">Nostalgic medical drama spin-off from Heartbeat. Ormerod has to make a decision about Caroline. Weatherill's patient is determined to keep details of her illness a secret. A married couple face the truth about their future. Ken's organisational skills ensure that the hospital ball goes off with a bang(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F166269%2F2%2Ftn-1307296800-166269-TheRoyal-13065088710/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-  </programme>
-  <programme start="20180919080000 +0000" stop="20180919082500 +0000" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919082500 +0000" stop="20180919085500 +0000" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919085500 +0000" stop="20180919092000 +0000" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919092000 +0000" stop="20180919113500 +0000" channel="ITV3">
-    <title lang="en">Agatha Christie's Poirot</title>
-    <desc lang="en">Mystery drama with Agatha Christie's famous Belgian detective. Society girl Elinor Carlisle, heiress to the considerable Hunterbury estate, is accused of a double murder. Poirot only has five days to investigate the case before she is hanged(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20875%2F2%2Ftn-1370804400-20875-AgathaChr-13699956910/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">9.3.</episode-num>
-  </programme>
-  <programme start="20180919113500 +0000" stop="20180919123500 +0000" channel="ITV3">
-    <title lang="en">The Royal</title>
-    <desc lang="en">Nostalgic medical drama spin-off from Heartbeat. A new nurse arrives at the Royal and makes an immediate impact, while Ken and Alun cope with a farming family in trouble and Lizzie's crash diet has disastrous consequences(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F166269%2F2%2Ftn-1307296800-166269-TheRoyal-13065088710/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-  </programme>
-  <programme start="20180919123500 +0000" stop="20180919134000 +0000" channel="ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">After an explosion in the woods, rumours spread that a meteorite has landed in Aidensfield, but Miller and Rachel have other ideas, and Joe goes undercover to find out more. Meanwhile, Peggy sees commercial possibilities in the sudden interest in outer space(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">17.21.</episode-num>
-  </programme>
-  <programme start="20180919134000 +0000" stop="20180919141500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Mark tells Kevin that the girls threw him out. Flick apologises to Mark for throwing him out. Ivy tells Vera that she's thinking of applying for the job as supervisor. Tracy tells Ken that Deirdre is moving in with Dave(n)</desc>
-  </programme>
-  <programme start="20180919141500 +0000" stop="20180919144500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Ken tells Deirdre she'll be setting Tracy a bad example if she moves in with Dave. Mike refuses to give Ivy a reference because of the travel bags. Curly and Kim plan a romantic evening but Vera plays gooseberry(n)</desc>
-  </programme>
-  <programme start="20180919144500 +0000" stop="20180919165500 +0000" channel="ITV3">
-    <title lang="en">Agatha Christie's Poirot</title>
-    <desc lang="en">Socialite Lady Lucy Angkatell worries about her family guests arriving for the weekend, because they all loathe each other. She invites Hercule Poirot as a distraction, but he soon finds himself at work when philanderer John Christow is discovered dying by the swimming pool, with his wife holding a gun. But who shot him? It is not long before Poirot realises that he is up against one of his trickiest adversaries yet(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20875%2F2%2Ftn-1370804400-20875-AgathaChr-13699956910/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">9.5.</episode-num>
-  </programme>
-  <programme start="20180919165500 +0000" stop="20180919180000 +0000" channel="ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">After an explosion in the woods, rumours spread that a meteorite has landed in Aidensfield, but Miller and Rachel have other ideas, and Joe goes undercover to find out more. Meanwhile, Peggy sees commercial possibilities in the sudden interest in outer space(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">17.21.</episode-num>
-  </programme>
-  <programme start="20180919180000 +0000" stop="20180919190000 +0000" channel="ITV3">
-    <title lang="en">Murder, She Wrote</title>
-    <desc lang="en">Another adventure for the sleuthing mystery writer. Jessica helps solve the backstage murder of a young dancer when she attends a special presentation of the famous Rostov Ballet(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8725%2F2%2Ftn-8725-MurderSh-13178075741.21/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-  </programme>
-  <programme start="20180919190000 +0000" stop="20180919210000 +0000" channel="ITV3">
-    <title lang="en">Agatha Christie's Poirot</title>
-    <desc lang="en">Poirot attends a dinner party hosted by his friend, retired actor Sir Charles Cartwright, and finds himself a witness to murder. A local clergyman chokes to death on his cocktail, but Poirot cannot determine how foul play occurred, since almost any one of the guests might have taken the lethal glass. He cannot find a trace of poison or an obvious motive for murder among the guests, who include an enigmatic ingenue, an inquisitive playwright and doctor Sir Bartholomew Strange(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20875%2F2%2Ftn-1370804400-20875-AgathaChr-13699956910/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">12.2.</episode-num>
-  </programme>
-  <programme start="20180919210000 +0000" stop="20180919222000 +0000" channel="ITV3">
-    <title lang="en">The Street</title>
-    <desc lang="en">Award-winning drama series from acclaimed writer Jimmy McGovern. As injured soldier Private Nick Calshaw returns from Afghanistan, his family are preparing a welcome home party on the street. When he emerges from the taxi outside his family home, the full extent of his facial disfigurement is revealed to his shocked parents and sister, but in spite of being surrounded by those who love him, Nick becomes increasingly depressed and withdrawn as he struggles to deal with a haunting memory(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F162150%2F2%2Ftn-1250539200-162150-TheStreet-12498955010/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919222000 +0000" stop="20180919234000 +0000" channel="ITV3">
-    <title lang="en">The Street</title>
-    <desc lang="en">Award-winning drama series from acclaimed writer Jimmy McGovern. Bigoted and cantankerous head chef Kieran Corrigan has had enough of foreign workers flooding into this country; if anyone can stand to listen to him, he is ready to give his ignorant racist diatribe. According to Kieran, the Polish cannot speak English properly and the bus drivers do not know their routes, but when a house fire brings a beautiful Polish woman into his life, Kieran valiantly offers her a roof over her head(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F162150%2F2%2Ftn-1250539200-162150-TheStreet-12498955010/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919234000 +0000" stop="20180920012000 +0000" channel="ITV3">
-    <title lang="en">Lewis</title>
-    <desc lang="en">When an Oxford housewife is found hanged in her home, Lewis and Hathaway unearth a far darker case than the initial suicide verdict suggests(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F536632%2F2%2Ftn-1357592400-536632-Lewis-13560919850/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-  </programme>
-  <programme start="20180920012000 +0000" stop="20180920013000 +0000" channel="ITV3">
-    <title lang="en">ITV3 Nightscreen</title>
-    <desc lang="en">Text-based information service(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F234572%2F2%2Ftn-234572-ITV3Night-13110819452.81/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920013000 +0000" stop="20180920050000 +0000" channel="ITV3">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shopping from home(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F199894%2F2%2Ftn-199894-Teleshoppi-13038120380/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920050000 +0000" stop="20180920052500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Mark tells Kevin that the girls threw him out. Flick apologises to Mark for throwing him out. Ivy tells Vera that she's thinking of applying for the job as supervisor. Tracy tells Ken that Deirdre is moving in with Dave(n)</desc>
-  </programme>
-  <programme start="20180920052500 +0000" stop="20180920055500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Ken tells Deirdre she'll be setting Tracy a bad example if she moves in with Dave. Mike refuses to give Ivy a reference because of the travel bags. Curly and Kim plan a romantic evening but Vera plays gooseberry(n)</desc>
-  </programme>
-  <programme start="20180920055500 +0000" stop="20180920065500 +0000" channel="ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">After an explosion in the woods, rumours spread that a meteorite has landed in Aidensfield, but Miller and Rachel have other ideas, and Joe goes undercover to find out more. Meanwhile, Peggy sees commercial possibilities in the sudden interest in outer space(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">17.21.</episode-num>
-  </programme>
-  <programme start="20180920065500 +0000" stop="20180920080000 +0000" channel="ITV3">
-    <title lang="en">The Royal</title>
-    <desc lang="en">Nostalgic medical drama spin-off from Heartbeat. A new nurse arrives at the Royal and makes an immediate impact, while Ken and Alun cope with a farming family in trouble and Lizzie's crash diet has disastrous consequences(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F166269%2F2%2Ftn-1307296800-166269-TheRoyal-13065088710/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-  </programme>
-  <programme start="20180920080000 +0000" stop="20180920082500 +0000" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920082500 +0000" stop="20180920085500 +0000" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920085500 +0000" stop="20180920092000 +0000" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920092000 +0000" stop="20180920113000 +0000" channel="ITV3">
-    <title lang="en">Agatha Christie's Poirot</title>
-    <desc lang="en">Socialite Lady Lucy Angkatell worries about her family guests arriving for the weekend, because they all loathe each other. She invites Hercule Poirot as a distraction, but he soon finds himself at work when philanderer John Christow is discovered dying by the swimming pool, with his wife holding a gun. But who shot him? It is not long before Poirot realises that he is up against one of his trickiest adversaries yet(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20875%2F2%2Ftn-1370804400-20875-AgathaChr-13699956910/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">9.5.</episode-num>
-  </programme>
-  <programme start="20180920113000 +0000" stop="20180920123500 +0000" channel="ITV3">
-    <title lang="en">The Royal</title>
-    <desc lang="en">Nostalgic medical drama series. Serious allegations are made against staff at The Royal, and there's more trouble when a suspected drunk driver is brought in(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F166269%2F2%2Ftn-1307296800-166269-TheRoyal-13065088710/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-  </programme>
-  <programme start="20180920123500 +0000" stop="20180920134000 +0000" channel="ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">A veteran pop manager decides that the Aidensfield Arms will be the location for his wedding reception. Oscar suspects that something is up and when he is found dead, investigations show that he may have been murdered. Peggy is caught with stolen goods, causing her to suddenly suffer from memory loss(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">17.22.</episode-num>
-  </programme>
-  <programme start="20180920134000 +0000" stop="20180920141500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Bet and Alec are getting worked up about the possibility of Deirdre selling out to Newton and Ridley. Ivy gets her reference from Mike and gets the supervisor's job at Ingrams. Mark's still trying unsuccessfully to get Flick to go out with him(n)</desc>
-  </programme>
-  <programme start="20180920141500 +0000" stop="20180920144500 +0000" channel="ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">When Alec appeals for support against the brewery, Percy promises immediate action. Kimberley is planning a night in with Curly, but she's already regretting her decision to go against her principles(n)</desc>
-  </programme>
-  <programme start="20180920144500 +0000" stop="20180920165500 +0000" channel="ITV3">
-    <title lang="en">Agatha Christie's Poirot</title>
-    <desc lang="en">While holidaying on a Nile cruise ship, Hercule Poirot is asked to investigate the death of a honeymooning heiress who stole her best friend's fiance. She had also crossed most of the other passengers at some time in the past - giving them all a motive for murder(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20875%2F2%2Ftn-1370804400-20875-AgathaChr-13699956910/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">9.4.</episode-num>
-  </programme>
-  <programme start="20180920165500 +0000" stop="20180920180000 +0000" channel="ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">A veteran pop manager decides that the Aidensfield Arms will be the location for his wedding reception. Oscar suspects that something is up and when he is found dead, investigations show that he may have been murdered. Peggy is caught with stolen goods, causing her to suddenly suffer from memory loss(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">17.22.</episode-num>
-  </programme>
-  <programme start="20180920180000 +0000" stop="20180920190000 +0000" channel="ITV3">
-    <title lang="en">Murder, She Wrote</title>
-    <desc lang="en">Murder mystery series. A flamboyant hypnotist is stabbed in the back behind locked and guarded doors in front of an audience of journalists he had placed in a trance(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F8725%2F2%2Ftn-8725-MurderSh-13178075741.21/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-  </programme>
-  <programme start="20180920190000 +0000" stop="20180920210000 +0000" channel="ITV3">
-    <title lang="en">Vera</title>
-    <desc lang="en">Crime drama series. DCI Vera Stanhope is called to the University of Northumberland when Jamie Marshall - a young and promising journalism student - plummets to his death from the top of a disused faculty building. Vera's investigation delves further into Jamie's academic and personal life as it becomes apparent that all is not as it seems. In writing part-time for the local newspaper, could this bright and popular student have made enemies that would want to silence him?(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F798244%2F2%2Ftn-1304276400-798244-Vera-13033833640/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">7.3.</episode-num>
-  </programme>
-  <programme start="20180920210000 +0000" stop="20180920230000 +0000" channel="ITV3">
-    <title lang="en">Lewis</title>
-    <desc lang="en">When a maintenance engineer is found dead in the basement of the Bodleian Library, Lewis and Hathaway investigate a link between the murder and an intruder at a local professor's home earlier in the night. Suspicion grows when they visit the engineer's house and discover rare nineteenth-century books, which were taken from the library in which he worked(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F536632%2F2%2Ftn-1357592400-536632-Lewis-13560919850/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-  </programme>
-  <programme start="20180920230000 +0000" stop="20180921000500 +0000" channel="ITV3">
-    <title lang="en">The Good Karma Hospital</title>
-    <desc lang="en">Medical drama series set in tropical southern India. As Holi festival fever hits the Good Karma Hospital, an abandoned baby strikes a personal chord with Ruby. Meanwhile, Lydia is reacquainted with an ageing ex-pat artist whose alternative life choices may be about to catch up with him(n)</desc>
-  </programme>
-  <programme start="20180917160500 +0000" stop="20180917171000 +0000" channel="ITV4">
-    <title lang="en">The Avengers</title>
-    <desc lang="en">60s style action adventure, with the bowler-hatted sleuth Steed and a slinky succession of glamorous female sidekicks.All clues point to notorious foreign agent Boris Kartovski when secret agents start being murdered. The only problem is that Steed killed Kartovski five years ago(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/20860/2/tn-20860-TheAvenge-12257194410/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.20.</episode-num>
-  </programme>
-  <programme start="20180917171000 +0000" stop="20180917173500 +0000" channel="ITV4">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">Reality series. Over in Hemet, Brandi struggles to focus Jarrod on the auctions. Elsewhere, Dan and Laura Dotson find themselves facing a deadly scenario(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F795897%2F2%2Ftn-1317936600-795897-StorageWa-13172175830/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.26.</episode-num>
-  </programme>
-  <programme start="20180917173500 +0000" stop="20180917180500 +0000" channel="ITV4">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">Reality series. While Ivy makes a splash in Montclair, Brandi has a bone to pick with a hungover Jarrod(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F795897%2F2%2Ftn-1317936600-795897-StorageWa-13172175830/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.22.</episode-num>
-  </programme>
-  <programme start="20180917180500 +0000" stop="20180917183500 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">The guys feast their eyes on a street-legal pirate ship parade float and a fantastic World War II bomber jacket that's survived 29 missions, including D-Day(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.32.</episode-num>
-  </programme>
-  <programme start="20180917183500 +0000" stop="20180917190000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">Corey and Chumlee go looney over a Bugs Bunny poster signed by voice of Bugs, Mel Blanc. The guys also get the chance to buy a golf club owned by Dean Martin(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.34.</episode-num>
-  </programme>
-  <programme start="20180917190000 +0000" stop="20180917200000 +0000" channel="ITV4">
-    <title lang="en">Our Everest Challenge with Ben Fogle and Victoria Pendleton</title>
-    <desc lang="en">Ben Fogle and Victoria Pendleton attempt to scale the world's highest peak(n)</desc>
-  </programme>
-  <programme start="20180917200000 +0000" stop="20180917210000 +0000" channel="ITV4">
-    <title lang="en">Benidorm</title>
-    <desc lang="en">A previously unobserved religious festival means no fun or alcohol is to be had anywhere in Benidorm(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F530460%2F2%2Ftn-43130-Benidorm-13679241620/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180917210000 +0000" stop="20180917220000 +0000" channel="ITV4">
-    <title lang="en">Better Late Than Never</title>
-    <desc lang="en">The guys head to Africa, where William Shatner organises a desert trek in Morocco. They also visit a local market and enjoy a special dinner together(n)</desc>
-  </programme>
-  <programme start="20180917220000 +0000" stop="20180917230000 +0000" channel="ITV4">
-    <title lang="en">8 Mile</title>
-    <desc lang="en">Aspiring hip-hop artist Jimmy views his home, Detroit's 8 Mile district, as a psychological line that separates him from where and who he wants to be. As he struggles to make a name for himself, he discovers both friends and foes alike only make his journey harder(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F183944%2F2%2Ftn-1229127000-183944-8Mile-12283903970/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180917230000 +0000" stop="20180917230500 +0000" channel="ITV4">
-    <title lang="en">FYI Daily</title>
-    <desc lang="en">Latest news from the world of entertainment(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F780090%2F2%2Ftn-780090-FYIDaily-13002131623.61/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180917230500 +0000" stop="20180918001500 +0000" channel="ITV4">
-    <title lang="en">8 Mile</title>
-    <desc lang="en">Aspiring hip-hop artist Jimmy views his home, Detroit's 8 Mile district, as a psychological line that separates him from where and who he wants to be. As he struggles to make a name for himself, he discovers both friends and foes alike only make his journey harder(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F183944%2F2%2Ftn-1229127000-183944-8Mile-12283903970/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918001500 +0000" stop="20180918011500 +0000" channel="ITV4">
-    <title lang="en">Motorsport UK</title>
-    <desc lang="en">Richard John Neil presents from Rockingham, with action from Round 18 of the Ginetta Juniors and Round 14 of the Renault Clio Cup UK(n)</desc>
-  </programme>
-  <programme start="20180918011500 +0000" stop="20180918014000 +0000" channel="ITV4">
-    <title lang="en">The Protectors</title>
-    <desc lang="en">Crime drama series. The team agree to assist with investigations into a plot to overthrow the government of a Mediterranean island. They are joined by Jim Palmer, another member of the organisation - and Caroline's ex. Caroline goes along with Palmer's suspicions that businessman Adam Markos is the man behind the plot, and evidence mounts against him when arms are discovered during raids on his nightclubs, but Harry pursues his own investigation and soon learns the identity of the true culprit(n)</desc>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-  </programme>
-  <programme start="20180918014000 +0000" stop="20180918020000 +0000" channel="ITV4">
-    <title lang="en">ITV4 Nightscreen</title>
-    <desc lang="en">Text-based information service(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F495496%2F2%2Ftn-495496-ITV4Night-13110856363.81/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918020000 +0000" stop="20180918050000 +0000" channel="ITV4">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shopping from home(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F199894%2F2%2Ftn-199894-Teleshoppi-13038120380/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918050000 +0000" stop="20180918055000 +0000" channel="ITV4">
-    <title lang="en">The Chase</title>
-    <desc lang="en">Four more contestants face The Chaser. Can they outwit one of the finest quiz brains in the country and win thousands of pounds?(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F708264%2F2%2Ftn-1319907600-708264-TheChase-13191947280/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918055000 +0000" stop="20180918061000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">The guys feast their eyes on a street-legal pirate ship parade float and a fantastic World War II bomber jacket that's survived 29 missions, including D-Day(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.32.</episode-num>
-  </programme>
-  <programme start="20180918061000 +0000" stop="20180918063000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">Corey and Chumlee go looney over a Bugs Bunny poster signed by voice of Bugs, Mel Blanc. The guys also get the chance to buy a golf club owned by Dean Martin(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.34.</episode-num>
-  </programme>
-  <programme start="20180918063000 +0000" stop="20180918073000 +0000" channel="ITV4">
-    <title lang="en">Kojak</title>
-    <desc lang="en">An eyewitness to a brutal bombing is unwilling to talk. The man, a police informant, suddenly disappears when Kojak attempts to confront him(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F29612%2F2%2Ftn-29612-Kojak-13753509280/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">2.10.</episode-num>
-  </programme>
-  <programme start="20180918073000 +0000" stop="20180918083000 +0000" channel="ITV4">
-    <title lang="en">Quincy, M.E.</title>
-    <desc lang="en">Crime drama. The discovery of a skull in the desert uncovers a world of violent secrets and threats(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/95987/2/tn-95987-QuincyM-12037001836.24/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.15.</episode-num>
-  </programme>
-  <programme start="20180918083000 +0000" stop="20180918093500 +0000" channel="ITV4">
-    <title lang="en">Minder</title>
-    <desc lang="en">Comedy drama series. Arthur's latest flight of fancy takes him into the world of darts, but has he hit the bullseye with Welsh wizard Dafydd?(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20855%2F2%2Ftn-20855-Minder-12324452540/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.10.</episode-num>
-  </programme>
-  <programme start="20180918093500 +0000" stop="20180918104000 +0000" channel="ITV4">
-    <title lang="en">The Saint</title>
-    <desc lang="en">The Saint is persuaded to follow a defecting civil servant who has been tricked into smuggling secret papers to East Germany(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F30274%2F2%2Ftn-30274-TheSaint-13110863394.82/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.11.</episode-num>
-  </programme>
-  <programme start="20180918104000 +0000" stop="20180918114500 +0000" channel="ITV4">
-    <title lang="en">The Avengers</title>
-    <desc lang="en">60s style action adventure, with the bowler-hatted sleuth Steed and a slinky succession of glamorous female sidekicks.All clues point to notorious foreign agent Boris Kartovski when secret agents start being murdered. The only problem is that Steed killed Kartovski five years ago(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/20860/2/tn-20860-TheAvenge-12257194410/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.20.</episode-num>
-  </programme>
-  <programme start="20180918114500 +0000" stop="20180918125000 +0000" channel="ITV4">
-    <title lang="en">Kojak</title>
-    <desc lang="en">A scheming private investigator attempts to cash in on a client's suicide with an insidious plot to defraud the dead man's insurance company(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F29612%2F2%2Ftn-29612-Kojak-13753509280/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">2.11.</episode-num>
-  </programme>
-  <programme start="20180918125000 +0000" stop="20180918135500 +0000" channel="ITV4">
-    <title lang="en">Quincy, M.E.</title>
-    <desc lang="en">Tensions rise when Quincy performs an autopsy on Sam's cousin, ignoring the strict beliefs of Buddhism(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/95987/2/tn-95987-QuincyM-12037001836.24/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.10.</episode-num>
-  </programme>
-  <programme start="20180918135500 +0000" stop="20180918150000 +0000" channel="ITV4">
-    <title lang="en">Minder</title>
-    <desc lang="en">Comedy drama series about a roguish entrepreneur and his bodyguard. Terry is left minding the fort when Arthur is called up for jury service(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20855%2F2%2Ftn-20855-Minder-12324452540/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.11.</episode-num>
-  </programme>
-  <programme start="20180918150000 +0000" stop="20180918160500 +0000" channel="ITV4">
-    <title lang="en">The Saint</title>
-    <desc lang="en">Suave freelance troubleshooter Simon Templar embarks on another adventure. The Saint joins the hunt for a Nazi war criminal living in South America(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F30274%2F2%2Ftn-30274-TheSaint-13110863394.82/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.12.</episode-num>
-  </programme>
-  <programme start="20180918160500 +0000" stop="20180918171000 +0000" channel="ITV4">
-    <title lang="en">The Avengers</title>
-    <desc lang="en">60s style action adventure, with the bowler-hatted sleuth Steed and a slinky succession of glamorous female sidekicks.Two Russian spies escape from the prison Oldhill Monastery, with the help of some lizard vodka, and eliminate their targets. The third is about to escape as well and his target is Steed(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/20860/2/tn-20860-TheAvenge-12257194410/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.21.</episode-num>
-  </programme>
-  <programme start="20180918171000 +0000" stop="20180918173500 +0000" channel="ITV4">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">Reality series. Jarrod and Brandi are determined not to let Dave distract them from a good score while Darrell wants to find out more about the elusive Mogul(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F795897%2F2%2Ftn-1317936600-795897-StorageWa-13172175830/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.23.</episode-num>
-  </programme>
-  <programme start="20180918173500 +0000" stop="20180918180500 +0000" channel="ITV4">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">Reality series. Darrell and Brandon are made up when they return to their West Covina hotspot, but Dave is the one to strike gold(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F795897%2F2%2Ftn-1317936600-795897-StorageWa-13172175830/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.24.</episode-num>
-  </programme>
-  <programme start="20180918180500 +0000" stop="20180918183000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">Chumlee shares his top tips for running a pawn business with eager security guard Antwan. Plus, a rare WWII bombsight turns up at the shop(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.33.</episode-num>
-  </programme>
-  <programme start="20180918183000 +0000" stop="20180918190000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">A man comes in touting a gambling set, complete with knife and pistol for when the going gets rough. Later, Chumlee questions the value of a Snoop Dogg doll(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.36.</episode-num>
-  </programme>
-  <programme start="20180918190000 +0000" stop="20180918200000 +0000" channel="ITV4">
-    <title lang="en">World Superbike Highlights</title>
-    <desc lang="en">Best bits from Round 10 - the Nolan Portuguese Round at Algarve International Circuit(n)</desc>
-  </programme>
-  <programme start="20180918200000 +0000" stop="20180918210000 +0000" channel="ITV4">
-    <title lang="en">Firefox</title>
-    <desc lang="en">Cold War-era action-adventure starring Clint Eastwood, 1982. A pilot is sent on a top-secret mission into the Soviet Union to steal a hi-tech prototype jet fighter(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F19110%2F2%2Ftn-19110-Firefox-13794356040/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918210000 +0000" stop="20180918210500 +0000" channel="ITV4">
-    <title lang="en">FYI Daily</title>
-    <desc lang="en">Latest news from the world of entertainment(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F780090%2F2%2Ftn-780090-FYIDaily-13002131623.61/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918210500 +0000" stop="20180918224500 +0000" channel="ITV4">
-    <title lang="en">Firefox</title>
-    <desc lang="en">Cold War-era action-adventure starring Clint Eastwood, 1982. A pilot is sent on a top-secret mission into the Soviet Union to steal a hi-tech prototype jet fighter(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F19110%2F2%2Ftn-19110-Firefox-13794356040/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180918224500 +0000" stop="20180918231500 +0000" channel="ITV4">
-    <title lang="en">River Monsters</title>
-    <desc lang="en">Jeremy Wade travels to Germany, where he meets victims of a beast seen raising its snout above the surface of freshwaters in Europe for the past 700 years(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F698463%2F2%2Ftn-1367951400-698463-RiverMons-13669679360/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-  </programme>
-  <programme start="20180918231500 +0000" stop="20180918234500 +0000" channel="ITV4">
-    <title lang="en">River Monsters</title>
-    <desc lang="en">Jeremy Wade investigates a fatal incident in Alaska's remote wilderness where fishermen have vanished without trace - is an unidentified killer at large?(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F698463%2F2%2Ftn-1367951400-698463-RiverMons-13669679360/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-  </programme>
-  <programme start="20180918234500 +0000" stop="20180919005000 +0000" channel="ITV4">
-    <title lang="en">Minder</title>
-    <desc lang="en">Comedy drama series about a roguish entrepreneur and his bodyguard. Terry is left minding the fort when Arthur is called up for jury service(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20855%2F2%2Ftn-20855-Minder-12324452540/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.11.</episode-num>
-  </programme>
-  <programme start="20180919005000 +0000" stop="20180919012000 +0000" channel="ITV4">
-    <title lang="en">The Protectors</title>
-    <desc lang="en">Crime drama series. The Protectors are engaged by the wife of a foreign president to safeguard her husband when he arrives in the Mediterranean for medical treatment. Hiring a double of the president, and with Caroline masquerading as his wife, Harry arranges an elaborate deception at the airport to fool the president's enemies - allowing the real president to be smuggled to safety. But the plan is foiled when the president's ambulance is ambushed and the abductors escape with him to sea(n)</desc>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-  </programme>
-  <programme start="20180919012000 +0000" stop="20180919020000 +0000" channel="ITV4">
-    <title lang="en">Ax Men</title>
-    <desc lang="en">Reality series following lumberjacks at work. The Chapman crew pull an all-nighter to catch up on the log count, and Shelby finds himself in trouble with the law(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F649400%2F2%2Ftn-1258142400-661438-AxeMen-12575059860/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919020000 +0000" stop="20180919050000 +0000" channel="ITV4">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shopping from home(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F199894%2F2%2Ftn-199894-Teleshoppi-13038120380/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919050000 +0000" stop="20180919055000 +0000" channel="ITV4">
-    <title lang="en">The Chase</title>
-    <desc lang="en">Four more contestants face The Chaser. Can they outwit one of the finest quiz brains in the country and win thousands of pounds?(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F708264%2F2%2Ftn-1319907600-708264-TheChase-13191947280/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919055000 +0000" stop="20180919061000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">Chumlee shares his top tips for running a pawn business with eager security guard Antwan. Plus, a rare WWII bombsight turns up at the shop(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.33.</episode-num>
-  </programme>
-  <programme start="20180919061000 +0000" stop="20180919063000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">A man comes in touting a gambling set, complete with knife and pistol for when the going gets rough. Later, Chumlee questions the value of a Snoop Dogg doll(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.36.</episode-num>
-  </programme>
-  <programme start="20180919063000 +0000" stop="20180919073000 +0000" channel="ITV4">
-    <title lang="en">Kojak</title>
-    <desc lang="en">A scheming private investigator attempts to cash in on a client's suicide with an insidious plot to defraud the dead man's insurance company(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F29612%2F2%2Ftn-29612-Kojak-13753509280/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">2.11.</episode-num>
-  </programme>
-  <programme start="20180919073000 +0000" stop="20180919083500 +0000" channel="ITV4">
-    <title lang="en">Quincy, M.E.</title>
-    <desc lang="en">Tensions rise when Quincy performs an autopsy on Sam's cousin, ignoring the strict beliefs of Buddhism(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/95987/2/tn-95987-QuincyM-12037001836.24/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.10.</episode-num>
-  </programme>
-  <programme start="20180919083500 +0000" stop="20180919094000 +0000" channel="ITV4">
-    <title lang="en">Minder</title>
-    <desc lang="en">Comedy drama series about a roguish entrepreneur and his bodyguard. Terry is left minding the fort when Arthur is called up for jury service(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20855%2F2%2Ftn-20855-Minder-12324452540/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.11.</episode-num>
-  </programme>
-  <programme start="20180919094000 +0000" stop="20180919104000 +0000" channel="ITV4">
-    <title lang="en">The Saint</title>
-    <desc lang="en">Suave freelance troubleshooter Simon Templar embarks on another adventure. The Saint joins the hunt for a Nazi war criminal living in South America(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F30274%2F2%2Ftn-30274-TheSaint-13110863394.82/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.12.</episode-num>
-  </programme>
-  <programme start="20180919104000 +0000" stop="20180919115000 +0000" channel="ITV4">
-    <title lang="en">The Avengers</title>
-    <desc lang="en">60s style action adventure, with the bowler-hatted sleuth Steed and a slinky succession of glamorous female sidekicks.Two Russian spies escape from the prison Oldhill Monastery, with the help of some lizard vodka, and eliminate their targets. The third is about to escape as well and his target is Steed(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/20860/2/tn-20860-TheAvenge-12257194410/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.21.</episode-num>
-  </programme>
-  <programme start="20180919115000 +0000" stop="20180919125000 +0000" channel="ITV4">
-    <title lang="en">Kojak</title>
-    <desc lang="en">A rookie officer assigned to Kojak by a police instructor inadvertently touches off a war between two gangs(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F29612%2F2%2Ftn-29612-Kojak-13753509280/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-  </programme>
-  <programme start="20180919125000 +0000" stop="20180919135500 +0000" channel="ITV4">
-    <title lang="en">Quincy, M.E.</title>
-    <desc lang="en">Crime drama. Quincy finds resistance at every turn as he tries to have a young American football player pulled from the championship game(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/95987/2/tn-95987-QuincyM-12037001836.24/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.8.</episode-num>
-  </programme>
-  <programme start="20180919135500 +0000" stop="20180919150000 +0000" channel="ITV4">
-    <title lang="en">Minder</title>
-    <desc lang="en">Terry's pleasure at seeing 'Oily' Wragg again is cut short by the appearance of some less friendly faces from the past(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20855%2F2%2Ftn-20855-Minder-12324452540/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.12.</episode-num>
-  </programme>
-  <programme start="20180919150000 +0000" stop="20180919160500 +0000" channel="ITV4">
-    <title lang="en">The Saint</title>
-    <desc lang="en">Sinister agents kidnap the sister of an ex-RAF pilot, aiming to force him into stealing a top-secret jet. Can the Saint save the girl and the plane?(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F30274%2F2%2Ftn-30274-TheSaint-13110863394.82/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.13.</episode-num>
-  </programme>
-  <programme start="20180919160500 +0000" stop="20180919171000 +0000" channel="ITV4">
-    <title lang="en">The Avengers</title>
-    <desc lang="en">60s style action adventure, with the bowler-hatted sleuth Steed and a slinky succession of glamorous female sidekicks.Steed and Emma are called in when an electronics expert from the Ministry of Science is murdered(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/20860/2/tn-20860-TheAvenge-12257194410/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.22.</episode-num>
-  </programme>
-  <programme start="20180919171000 +0000" stop="20180919173500 +0000" channel="ITV4">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">Reality series. The auctions of Costa Mesa, California, call Dan Dotson back - but the buyers are more interested in beating Dave Hester on his home turf(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F795897%2F2%2Ftn-1317936600-795897-StorageWa-13172175830/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.28.</episode-num>
-  </programme>
-  <programme start="20180919173500 +0000" stop="20180919180500 +0000" channel="ITV4">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">Reality series. The buyers visit Murietta, where a tense auction and Dave's antics combine to push Darrell to the edge(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F795897%2F2%2Ftn-1317936600-795897-StorageWa-13172175830/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.29.</episode-num>
-  </programme>
-  <programme start="20180919180500 +0000" stop="20180919183000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">The Pawn Stars are presented with a drum from the Civil War and a motorcycle club uniform. Meanwhile, Chumlee temporarily takes over from Antwaun, the shop security guard(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.35.</episode-num>
-  </programme>
-  <programme start="20180919183000 +0000" stop="20180919190000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">Halloween hits the store as customers bring in a spooky 19th-century vampire-killing kit and a set of creepy equipment used in paranormal investigations(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.37.</episode-num>
-  </programme>
-  <programme start="20180919190000 +0000" stop="20180919200000 +0000" channel="ITV4">
-    <title lang="en">British Superbike Championship Highlights</title>
-    <desc lang="en">James Haydon presents highlights of Round 10 at Oulton Park. The Cheshire circuit is the first stop in the Showdown, so a good performance from each of the top six is crucial(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F558921%2F2%2Ftn-558921-BritishSu-13056286165.89/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919200000 +0000" stop="20180919213000 +0000" channel="ITV4">
-    <title lang="en">Rocky</title>
-    <desc lang="en">Oscar-winning boxing drama starring Sylvester Stallone and Talia Shire, 1976. A small-time boxer gets a chance at glory when he is challenged by heavyweight champion Apollo Creed(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F5594%2F2%2Ftn-1259096400-5594-Rocky-12584583480/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919213000 +0000" stop="20180919213500 +0000" channel="ITV4">
-    <title lang="en">FYI Daily</title>
-    <desc lang="en">Latest news from the world of entertainment(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F780090%2F2%2Ftn-780090-FYIDaily-13002131623.61/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919213500 +0000" stop="20180919223500 +0000" channel="ITV4">
-    <title lang="en">Rocky</title>
-    <desc lang="en">Oscar-winning boxing drama starring Sylvester Stallone and Talia Shire, 1976. A small-time boxer gets a chance at glory when he is challenged by heavyweight champion Apollo Creed(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F5594%2F2%2Ftn-1259096400-5594-Rocky-12584583480/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919223500 +0000" stop="20180919233500 +0000" channel="ITV4">
-    <title lang="en">The Departed</title>
-    <desc lang="en">Oscar-winning crime drama starring Leonardo DiCaprio and Matt Damon, 2006. An undercover policeman and a police mole cross paths while infiltrating an Irish gang in Boston(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F593521%2F2%2Ftn-1192307400000-593521-TheDeparted-1191406170385/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919233500 +0000" stop="20180919234000 +0000" channel="ITV4">
-    <title lang="en">FYI Daily</title>
-    <desc lang="en">Latest news from the world of entertainment(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F780090%2F2%2Ftn-780090-FYIDaily-13002131623.61/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180919234000 +0000" stop="20180920013000 +0000" channel="ITV4">
-    <title lang="en">The Departed</title>
-    <desc lang="en">Oscar-winning crime drama starring Leonardo DiCaprio and Matt Damon, 2006. An undercover policeman and a police mole cross paths while infiltrating an Irish gang in Boston(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F593521%2F2%2Ftn-1192307400000-593521-TheDeparted-1191406170385/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920013000 +0000" stop="20180920015500 +0000" channel="ITV4">
-    <title lang="en">The Protectors</title>
-    <desc lang="en">Crime drama series. The team agree to assist with investigations into a plot to overthrow the government of a Mediterranean island. They are joined by Jim Palmer, another member of the organisation - and Caroline's ex. Caroline goes along with Palmer's suspicions that businessman Adam Markos is the man behind the plot, and evidence mounts against him when arms are discovered during raids on his nightclubs, but Harry pursues his own investigation and soon learns the identity of the true culprit(n)</desc>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-  </programme>
-  <programme start="20180920015500 +0000" stop="20180920020000 +0000" channel="ITV4">
-    <title lang="en">ITV4 Nightscreen</title>
-    <desc lang="en">Text-based information service(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F495496%2F2%2Ftn-495496-ITV4Night-13110856363.81/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920020000 +0000" stop="20180920050000 +0000" channel="ITV4">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shopping from home(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F199894%2F2%2Ftn-199894-Teleshoppi-13038120380/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920050000 +0000" stop="20180920054500 +0000" channel="ITV4">
-    <title lang="en">The Chase</title>
-    <desc lang="en">Quiz show hosted by Bradley Walsh. Four contestants must pit their wits against the Chaser, a ruthless quiz genius determined to stop them winning the cash prize(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F708264%2F2%2Ftn-1319907600-708264-TheChase-13191947280/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920054500 +0000" stop="20180920061000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">The Pawn Stars are presented with a drum from the Civil War and a motorcycle club uniform. Meanwhile, Chumlee temporarily takes over from Antwaun, the shop security guard(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.35.</episode-num>
-  </programme>
-  <programme start="20180920061000 +0000" stop="20180920063000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">Halloween hits the store as customers bring in a spooky 19th-century vampire-killing kit and a set of creepy equipment used in paranormal investigations(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">4.37.</episode-num>
-  </programme>
-  <programme start="20180920063000 +0000" stop="20180920073000 +0000" channel="ITV4">
-    <title lang="en">Kojak</title>
-    <desc lang="en">A rookie officer assigned to Kojak by a police instructor inadvertently touches off a war between two gangs(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F29612%2F2%2Ftn-29612-Kojak-13753509280/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-  </programme>
-  <programme start="20180920073000 +0000" stop="20180920083500 +0000" channel="ITV4">
-    <title lang="en">Quincy, M.E.</title>
-    <desc lang="en">Crime drama. Quincy finds resistance at every turn as he tries to have a young American football player pulled from the championship game(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/95987/2/tn-95987-QuincyM-12037001836.24/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.8.</episode-num>
-  </programme>
-  <programme start="20180920083500 +0000" stop="20180920093500 +0000" channel="ITV4">
-    <title lang="en">Minder</title>
-    <desc lang="en">Terry's pleasure at seeing 'Oily' Wragg again is cut short by the appearance of some less friendly faces from the past(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20855%2F2%2Ftn-20855-Minder-12324452540/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.12.</episode-num>
-  </programme>
-  <programme start="20180920093500 +0000" stop="20180920104000 +0000" channel="ITV4">
-    <title lang="en">The Saint</title>
-    <desc lang="en">Sinister agents kidnap the sister of an ex-RAF pilot, aiming to force him into stealing a top-secret jet. Can the Saint save the girl and the plane?(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F30274%2F2%2Ftn-30274-TheSaint-13110863394.82/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.13.</episode-num>
-  </programme>
-  <programme start="20180920104000 +0000" stop="20180920115000 +0000" channel="ITV4">
-    <title lang="en">The Avengers</title>
-    <desc lang="en">60s style action adventure, with the bowler-hatted sleuth Steed and a slinky succession of glamorous female sidekicks.Steed and Emma are called in when an electronics expert from the Ministry of Science is murdered(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/20860/2/tn-20860-TheAvenge-12257194410/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.22.</episode-num>
-  </programme>
-  <programme start="20180920115000 +0000" stop="20180920125000 +0000" channel="ITV4">
-    <title lang="en">Kojak</title>
-    <desc lang="en">A hospital out-patient believes he is protecting a fellow patient by killing off an aggressive suitor(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F29612%2F2%2Ftn-29612-Kojak-13753509280/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">2.13.</episode-num>
-  </programme>
-  <programme start="20180920125000 +0000" stop="20180920135500 +0000" channel="ITV4">
-    <title lang="en">Quincy, M.E.</title>
-    <desc lang="en">Crime drama. A woman's death leads Quincy to investigate her husband, resulting in a race against time(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/95987/2/tn-95987-QuincyM-12037001836.24/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.17.</episode-num>
-  </programme>
-  <programme start="20180920135500 +0000" stop="20180920150000 +0000" channel="ITV4">
-    <title lang="en">Minder</title>
-    <desc lang="en">Comedy drama series about the shady dealings of a loveable rogue. Terry has to track down some tough Scots when Arthur lands himself in trouble with the police(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F20855%2F2%2Ftn-20855-Minder-12324452540/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">3.13.</episode-num>
-  </programme>
-  <programme start="20180920150000 +0000" stop="20180920160500 +0000" channel="ITV4">
-    <title lang="en">The Saint</title>
-    <desc lang="en">The Saint is sent to jail, but his sentence is part of a police plan to smash a large-scale prison escape organisation run by callous killers(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F30274%2F2%2Ftn-30274-TheSaint-13110863394.82/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.14.</episode-num>
-  </programme>
-  <programme start="20180920160500 +0000" stop="20180920171000 +0000" channel="ITV4">
-    <title lang="en">The Avengers</title>
-    <desc lang="en">60s style action adventure, with the bowler-hatted sleuth Steed and a slinky succession of glamorous female sidekicks.When Mrs. Peel's friend Major Croft goes missing, she traces him to the picture postcard village of Little Storping. Unfortunately the entire population are assassins for hire who lure their victims to the village, kill them and then claim that they have never been there. Croft has been killed, along with his valet to prevent them from exposing the sinister secret and Mrs. Peel is next on the hit list unless Steed can save her(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/20860/2/tn-20860-TheAvenge-12257194410/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.23.</episode-num>
-  </programme>
-  <programme start="20180920171000 +0000" stop="20180920173500 +0000" channel="ITV4">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">Documentary series. Fierce competition greets Rene and Casey as they return to the auctions. Dave unearths a fantastic piece of board game history(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F795897%2F2%2Ftn-1317936600-795897-StorageWa-13172175830/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">6.1.</episode-num>
-  </programme>
-  <programme start="20180920173500 +0000" stop="20180920180500 +0000" channel="ITV4">
-    <title lang="en">Storage Wars</title>
-    <desc lang="en">Reality series. Darrell and Brandon are optimistic as they return to the scene of their biggest score, while the others take on the self-proclaimed King of Montebello(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F795897%2F2%2Ftn-1317936600-795897-StorageWa-13172175830/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">6.3.</episode-num>
-  </programme>
-  <programme start="20180920180500 +0000" stop="20180920183000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">The team prepares to fight for a good price on a Cold War fighter jet and ponders the value of a bat and glove signed by 'Sultan of Swat' Babe Ruth(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.1.</episode-num>
-  </programme>
-  <programme start="20180920183000 +0000" stop="20180920190000 +0000" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <desc lang="en">Staff at the pawn shop ponder the value of a 1940s' mandolin. They also come across a signed print of Abraham Lincoln. But can they trust its authenticity?(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/1128620/2/tn-998040-PawnStars-14168232920/poster-150x150.jpg" />
-    <episode-num system="xmltv_ns">5.5.</episode-num>
-  </programme>
-  <programme start="20180920190000 +0000" stop="20180920200000 +0000" channel="ITV4">
-    <title lang="en">The Chase: Celebrity Special</title>
-    <desc lang="en">Bradley Walsh hosts as four celebrities take on the challenge of trying to outwit the Chaser. TV host Gregg Wallace, Olympic champion Denise Lewis, sports presenter Mark Pougatch and comedian Gina Yashere come together to work as a team in the hope of winning thousands of pounds for their charities(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F933262%2F2%2Ftn-933262-TheChase-13826303740/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920200000 +0000" stop="20180920213000 +0000" channel="ITV4">
-    <title lang="en">Rocky II</title>
-    <desc lang="en">Although working-class Philadelphia boxer Rocky Balboa lost his high-profile bout with the cocky world champion Apollo Creed, his Cinderella story caught the national sports media's attention, and he now has the opportunity to capitalise on his sudden fame. Meanwhile, Creed is still smarting from nearly losing to some fighter no one has ever heard of, and arrogantly prods his newfound nemesis into getting back into the ring(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F41914%2F2%2Ftn-41914-RockyII-14205389470/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920213000 +0000" stop="20180920213500 +0000" channel="ITV4">
-    <title lang="en">FYI Daily</title>
-    <desc lang="en">Latest news from the world of entertainment(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F780090%2F2%2Ftn-780090-FYIDaily-13002131623.61/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920213500 +0000" stop="20180920223500 +0000" channel="ITV4">
-    <title lang="en">Rocky II</title>
-    <desc lang="en">Although working-class Philadelphia boxer Rocky Balboa lost his high-profile bout with the cocky world champion Apollo Creed, his Cinderella story caught the national sports media's attention, and he now has the opportunity to capitalise on his sudden fame. Meanwhile, Creed is still smarting from nearly losing to some fighter no one has ever heard of, and arrogantly prods his newfound nemesis into getting back into the ring(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F41914%2F2%2Ftn-41914-RockyII-14205389470/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920223500 +0000" stop="20180920233500 +0000" channel="ITV4">
-    <title lang="en">Jaws 4: The Revenge</title>
-    <desc lang="en">The fourth film in the series of action adventure films about malevolent great white sharks. When her younger son is killed in the water, the widow of the man who killed the first Amity great white shark begins to believe that her entire family is being targeted by another monster of the deep(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/190041/2/tn-190041-Jaws4Th-13414211110/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920233500 +0000" stop="20180920234000 +0000" channel="ITV4">
-    <title lang="en">FYI Daily</title>
-    <desc lang="en">Latest news from the world of entertainment(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image%2F780090%2F2%2Ftn-780090-FYIDaily-13002131623.61/poster-150x150.jpg" />
-  </programme>
-  <programme start="20180920234000 +0000" stop="20180921002500 +0000" channel="ITV4">
-    <title lang="en">Jaws 4: The Revenge</title>
-    <desc lang="en">The fourth film in the series of action adventure films about malevolent great white sharks. When her younger son is killed in the water, the widow of the man who killed the first Amity great white shark begins to believe that her entire family is being targeted by another monster of the deep(n)</desc>
-    <icon src="https://static.filmon.com/assets/tvguide/image/190041/2/tn-190041-Jaws4Th-13414211110/poster-150x150.jpg" />
+  <programme start="20180921000000 +0000" stop="20180921005500 +0000" channel="Alibi">
+    <title lang="en">Rizzoli and Isles</title>
+    <sub-title lang="en">Money for Nothing</sub-title>
+    <desc lang="en">US mystery series. The duo's differing backgrounds become an issue when they investigate the death at sea of a member of a wealthy Boston family(c)</desc>
+    <credits>
+      <director>Nelson McCormick</director>
+      <actor>Angie Harmon</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Jordan Bridges</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp27-images-ie-dynamic.horizon.tv/images/32886257.p.538439c6c181b964fdf10bb5cd4134e0a1a253af.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <star-rating>
+      <value>8.1(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921005500 +0000" stop="20180921015500 +0000" channel="Alibi">
+    <title lang="en">Quantico</title>
+    <sub-title lang="en">Clear</sub-title>
+    <desc lang="en">US drama series following trainees at the FBI Academy. Alex must break the law to save Natalie's life(c)</desc>
+    <credits>
+      <director>Jamie Barber</director>
+      <actor>Priyanka Chopra</actor>
+      <actor>Josh Hopkins</actor>
+      <actor>Jake McLaughlin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-ie-dynamic.horizon.tv/images/199945826.p.d7810b52ed97a9ea333067768bb3cfdfee62f805.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>6.5(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921015500 +0000" stop="20180921030000 +0000" channel="Alibi">
+    <title lang="en">Quantico</title>
+    <sub-title lang="en">Answer</sub-title>
+    <desc lang="en">US drama series. Tensions between Drew and Liam reach boiling point(c)</desc>
+    <credits>
+      <director>Jennifer Lynch</director>
+      <actor>Priyanka Chopra</actor>
+      <actor>Josh Hopkins</actor>
+      <actor>Jake McLaughlin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ie-dynamic.horizon.tv/images/199945826.p.d7810b52ed97a9ea333067768bb3cfdfee62f805.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>6.2(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921030000 +0000" stop="20180921050000 +0000" channel="Alibi">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Shopping from home(c)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-ie-dynamic.horizon.tv/images/46191724.p.4edd92b6b995f7dc0e6051e37441ee768a38b343.jpg" />
+  </programme>
+  <programme start="20180921050000 +0000" stop="20180921061500 +0000" channel="Alibi">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Shopping from home(c)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-ie-dynamic.horizon.tv/images/46191724.p.4edd92b6b995f7dc0e6051e37441ee768a38b343.jpg" />
+  </programme>
+  <programme start="20180921061500 +0000" stop="20180921070000 +0000" channel="Alibi">
+    <title lang="en">Sue Thomas: F.B.Eye</title>
+    <sub-title lang="en">The Body Shop</sub-title>
+    <desc lang="en">Drama series about hard-of-hearing FBI agent Sue Thomas. Sue and the team deal with a case involving fake visas and human organ trafficking(n)</desc>
+    <credits>
+      <director>Bruce Pittman</director>
+      <actor>Deanne Bray</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Rick Peters</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-ie-dynamic.horizon.tv/images/14680975.p.bfb0028c26e8591f4486cad0ab3c728e9eb5d81b.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <star-rating>
+      <value>8.4(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921070000 +0000" stop="20180921080000 +0000" channel="Alibi">
+    <title lang="en">Miss Fisher's Murder Mysteries</title>
+    <sub-title lang="en">Raisins and Almonds</sub-title>
+    <desc lang="en">Australian crime drama series set in the Jazz Age. The glamorous Phryne investigates a poisoning in Melbourne's Jewish community involving radical politics, religion and an illicit romance. Though the police make a quick arrest, Phryne is convinced that the key to the mystery lies in an ancient Hebrew text(c)</desc>
+    <credits>
+      <director>David Caesar</director>
+      <actor>Essie Davis</actor>
+      <actor>Nathan Page</actor>
+      <actor>Hugo Johnstone-Burt</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp8-images-ie-dynamic.horizon.tv/images/51309537.p.1b0e354ae1861d3081852dfea48bdecbd5fc8c94.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <star-rating>
+      <value>7.5(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921080000 +0000" stop="20180921090000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Raised on Robbery</sub-title>
+    <desc lang="en">Canadian mystery series set in the 1900s. Murdoch is trapped inside a bank as a robbery takes place(c)</desc>
+    <credits>
+      <director>Eleanor Lindo</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+    <star-rating>
+      <value>8.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921090000 +0000" stop="20180921100000 +0000" channel="Alibi">
+    <title lang="en">The Guardian</title>
+    <sub-title lang="en">Lawyers, Guns and Money</sub-title>
+    <desc lang="en">Drama series about a high-flying lawyer who is brought down to earth when he is sentenced to community service for drug offences. Nick finds himself in a quandary before his upcoming probation hearing. His probation officer has threatened to submit a negative report if he refuses to help him with a business contract(c)</desc>
+    <credits>
+      <director>Jerry Levine</director>
+      <actor>Simon Baker</actor>
+      <actor>Alan Rosenberg</actor>
+      <actor>Wendy Moniz</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-ie-dynamic.horizon.tv/images/16350875.p.fd4231fd48c8a939787d015b3b06774e1500184e.jpg" />
+    <episode-num system="onscreen">E19</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921100000 +0000" stop="20180921110000 +0000" channel="Alibi">
+    <title lang="en">Sue Thomas: F.B.Eye</title>
+    <sub-title lang="en">The Body Shop</sub-title>
+    <desc lang="en">Drama series about hard-of-hearing FBI agent Sue Thomas. Sue and the team deal with a case involving fake visas and human organ trafficking(n)</desc>
+    <credits>
+      <director>Bruce Pittman</director>
+      <actor>Deanne Bray</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Rick Peters</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-ie-dynamic.horizon.tv/images/14680975.p.bfb0028c26e8591f4486cad0ab3c728e9eb5d81b.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <star-rating>
+      <value>8.4(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921110000 +0000" stop="20180921120000 +0000" channel="Alibi">
+    <title lang="en">Castle</title>
+    <sub-title lang="en">Disciple</sub-title>
+    <desc lang="en">Crime drama series about a novelist who shadows a New York detective for inspiration. Castle fears his nemesis may have returned when he hunts for a serial killer targeting cops(c)</desc>
+    <credits>
+      <director>Rob Bowman</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-ie-dynamic.horizon.tv/images/20897580.p.1e4c74d959c7ba0c988ea68dd30890461a21a4be.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>9.1(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921120000 +0000" stop="20180921130000 +0000" channel="Alibi">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Sins of the Father</sub-title>
+    <desc lang="en">Drama series based on the stories of GK Chesterton. Father Brown investigates when the son of a local aeronautics magnate is murdered, while Lady Felicia loses her singing voice(c)</desc>
+    <credits>
+      <director>Paul Gibson</director>
+      <actor>Mark Williams</actor>
+      <actor>Sorcha Cusack</actor>
+      <actor>Nancy Carroll</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-ie-dynamic.horizon.tv/images/105873513.p.ab6d4b12b3db88c35e6cedb68a050b43de2245dd.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating>
+      <value>PG(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.3(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921130000 +0000" stop="20180921140000 +0000" channel="Alibi">
+    <title lang="en">Death in Paradise</title>
+    <desc lang="en">Detective drama series set on a Caribbean island. The team enter the shady world of island politics when the outgoing governor of Saint Marie is poisoned at her leaving party. Meanwhile, DI Goodman dives into the even murkier world of online dating(c)</desc>
+    <credits>
+      <director>Edward Bennett</director>
+      <actor>Kris Marshall</actor>
+      <actor>Danny John-Jules</actor>
+      <actor>Josephine Jobert</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-ie-dynamic.horizon.tv/images/48816326.p.68a147ca61df1acc4ef05545a6179e48ce9833b0.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating>
+      <value>12(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921140000 +0000" stop="20180921150000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Downstairs, Upstairs</sub-title>
+    <desc lang="en">Yannick Bisson stars in the mystery series set in the 19th century. When the master of a wealthy household is found face down in his morning porridge, Murdoch soon realises that both his family and servants had reason to murder the malevolent and lecherous old man(c)</desc>
+    <credits>
+      <director>Harvey Crossland</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921150000 +0000" stop="20180921160000 +0000" channel="Alibi">
+    <title lang="en">Rosewood</title>
+    <sub-title lang="en">Vandals and Vitamins</sub-title>
+    <desc lang="en">US crime drama series about a mystery-solving pathologist based in Miami. Rosewood and Villa investigate a brilliant physician who may also be a psychopath(c)</desc>
+    <credits>
+      <director>Eriq La Salle</director>
+      <director>Timothy Busfield</director>
+      <director>Richard Shepard</director>
+      <director>Domenick Lombardozzi</director>
+      <actor>Morris Chestnut</actor>
+      <actor>Jaina Ortiz</actor>
+      <actor>Gabrielle Dennis</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp8-images-ie-dynamic.horizon.tv/images/207485307.p.3fac3e015316f99f62220e70a7d73a742f94f8fe.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20180921160000 +0000" stop="20180921170000 +0000" channel="Alibi">
+    <title lang="en">Rizzoli and Isles</title>
+    <sub-title lang="en">I'm Your Boogie Man</sub-title>
+    <desc lang="en">US mystery series. A serial killer who once attacked Jane appears to be on the loose again when a body is found in a park(c)</desc>
+    <credits>
+      <director>Mark Haber</director>
+      <actor>Angie Harmon</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Jordan Bridges</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-ie-dynamic.horizon.tv/images/32886257.p.538439c6c181b964fdf10bb5cd4134e0a1a253af.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <star-rating>
+      <value>8.2(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921170000 +0000" stop="20180921180000 +0000" channel="Alibi">
+    <title lang="en">The Guardian</title>
+    <sub-title lang="en">Lawyers, Guns and Money</sub-title>
+    <desc lang="en">Drama series about a high-flying lawyer who is brought down to earth when he is sentenced to community service for drug offences. Nick finds himself in a quandary before his upcoming probation hearing. His probation officer has threatened to submit a negative report if he refuses to help him with a business contract(c)</desc>
+    <credits>
+      <director>Jerry Levine</director>
+      <actor>Simon Baker</actor>
+      <actor>Alan Rosenberg</actor>
+      <actor>Wendy Moniz</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-ie-dynamic.horizon.tv/images/16350875.p.fd4231fd48c8a939787d015b3b06774e1500184e.jpg" />
+    <episode-num system="onscreen">E19</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921180000 +0000" stop="20180921190000 +0000" channel="Alibi">
+    <title lang="en">Death in Paradise</title>
+    <desc lang="en">Detective drama series set on a Caribbean island. The team enter the shady world of island politics when the outgoing governor of Saint Marie is poisoned at her leaving party. Meanwhile, DI Goodman dives into the even murkier world of online dating(c)</desc>
+    <credits>
+      <director>Edward Bennett</director>
+      <actor>Kris Marshall</actor>
+      <actor>Danny John-Jules</actor>
+      <actor>Josephine Jobert</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-ie-dynamic.horizon.tv/images/48816326.p.68a147ca61df1acc4ef05545a6179e48ce9833b0.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating>
+      <value>12(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921190000 +0000" stop="20180921200000 +0000" channel="Alibi">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Sins of the Father</sub-title>
+    <desc lang="en">Drama series based on the stories of GK Chesterton. Father Brown investigates when the son of a local aeronautics magnate is murdered, while Lady Felicia loses her singing voice(c)</desc>
+    <credits>
+      <director>Paul Gibson</director>
+      <actor>Mark Williams</actor>
+      <actor>Sorcha Cusack</actor>
+      <actor>Nancy Carroll</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-ie-dynamic.horizon.tv/images/105873513.p.ab6d4b12b3db88c35e6cedb68a050b43de2245dd.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating>
+      <value>PG(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.3(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921200000 +0000" stop="20180921210000 +0000" channel="Alibi">
+    <title lang="en">Death in Paradise</title>
+    <desc lang="en">Detective drama series set on a Caribbean island. The president of the Saint Marie cricket club is found shot dead in the middle of the team's ground. As the sun rises over the island, suspicion falls on his teammates(c)</desc>
+    <credits>
+      <director>Jermain Julien</director>
+      <actor>Danny John-Jules</actor>
+      <actor>Elisabeth Bourgine</actor>
+      <actor>Kris Marshall</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp11-images-ie-dynamic.horizon.tv/images/48816326.p.68a147ca61df1acc4ef05545a6179e48ce9833b0.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <star-rating>
+      <value>7.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921210000 +0000" stop="20180921220000 +0000" channel="Alibi">
+    <title lang="en">The Guardian</title>
+    <sub-title lang="en">Mothers of the Disappeared</sub-title>
+    <desc lang="en">Drama series about a high-flying lawyer who is brought down to earth when he is sentenced to community service for drug offences. A woman asks Nick to have her missing daughter declared dead only to discover that the girl is alive(c)</desc>
+    <credits>
+      <director>Steven Robman</director>
+      <actor>Simon Baker</actor>
+      <actor>Alan Rosenberg</actor>
+      <actor>Wendy Moniz</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ie-dynamic.horizon.tv/images/16350875.p.fd4231fd48c8a939787d015b3b06774e1500184e.jpg" />
+    <episode-num system="onscreen">E18</episode-num>
+    <star-rating>
+      <value>8.4(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921220000 +0000" stop="20180921230000 +0000" channel="Alibi">
+    <title lang="en">The Guardian</title>
+    <sub-title lang="en">Lawyers, Guns and Money</sub-title>
+    <desc lang="en">Drama series about a high-flying lawyer who is brought down to earth when he is sentenced to community service for drug offences. Nick finds himself in a quandary before his upcoming probation hearing. His probation officer has threatened to submit a negative report if he refuses to help him with a business contract(c)</desc>
+    <credits>
+      <director>Jerry Levine</director>
+      <actor>Simon Baker</actor>
+      <actor>Alan Rosenberg</actor>
+      <actor>Wendy Moniz</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-ie-dynamic.horizon.tv/images/16350875.p.fd4231fd48c8a939787d015b3b06774e1500184e.jpg" />
+    <episode-num system="onscreen">E19</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180921230000 +0000" stop="20180922000000 +0000" channel="Alibi">
+    <title lang="en">Sue Thomas: F.B.Eye</title>
+    <desc lang="en">Drama series about hard of hearing FBI agent Sue Thomas. Sue and Jack go undercover to investigate a possible Mob connection to a murder(n)</desc>
+    <credits>
+      <director>Holly Dale</director>
+      <actor>Deanne Bray</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Rick Peters</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-ie-dynamic.horizon.tv/images/14680975.p.bfb0028c26e8591f4486cad0ab3c728e9eb5d81b.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <star-rating>
+      <value>8.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922000000 +0000" stop="20180922005500 +0000" channel="Alibi">
+    <title lang="en">Rizzoli and Isles</title>
+    <sub-title lang="en">I Kissed a Girl</sub-title>
+    <desc lang="en">US mystery series. Maura attempts to get Jane into yoga as they investigate the case of a woman killed leaving a bar(c)</desc>
+    <credits>
+      <director>Michael Zinberg</director>
+      <actor>Angie Harmon</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Jordan Bridges</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-ie-dynamic.horizon.tv/images/32886257.p.538439c6c181b964fdf10bb5cd4134e0a1a253af.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <star-rating>
+      <value>8.4(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922005500 +0000" stop="20180922015500 +0000" channel="Alibi">
+    <title lang="en">Quantico</title>
+    <sub-title lang="en">Turn</sub-title>
+    <desc lang="en">US drama series following students at the FBI academy in Virginia. The school is besieged by armed gunmen(c)</desc>
+    <credits>
+      <director>David McWhirter</director>
+      <actor>Priyanka Chopra</actor>
+      <actor>Josh Hopkins</actor>
+      <actor>Jake McLaughlin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-ie-dynamic.horizon.tv/images/199945826.p.d7810b52ed97a9ea333067768bb3cfdfee62f805.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>6.7(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922015500 +0000" stop="20180922030000 +0000" channel="Alibi">
+    <title lang="en">Quantico</title>
+    <sub-title lang="en">Clue</sub-title>
+    <desc lang="en">US drama series following students at the FBI academy in Virginia. Alex must work with Hannah to stop another terrorist attack(c)</desc>
+    <credits>
+      <director>Steve Robin</director>
+      <actor>Priyanka Chopra</actor>
+      <actor>Josh Hopkins</actor>
+      <actor>Jake McLaughlin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-ie-dynamic.horizon.tv/images/199945826.p.d7810b52ed97a9ea333067768bb3cfdfee62f805.jpg" />
+    <episode-num system="onscreen">E16</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>6.2(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922030000 +0000" stop="20180922050000 +0000" channel="Alibi">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Shopping from home(c)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-ie-dynamic.horizon.tv/images/46191724.p.4edd92b6b995f7dc0e6051e37441ee768a38b343.jpg" />
+  </programme>
+  <programme start="20180922050000 +0000" stop="20180922061000 +0000" channel="Alibi">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Shopping from home(c)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp28-images-ie-dynamic.horizon.tv/images/46191724.p.4edd92b6b995f7dc0e6051e37441ee768a38b343.jpg" />
+  </programme>
+  <programme start="20180922061000 +0000" stop="20180922070000 +0000" channel="Alibi">
+    <title lang="en">Sue Thomas: F.B.Eye</title>
+    <sub-title lang="en">Secret Agent Man</sub-title>
+    <desc lang="en">Drama series about hard of hearing FBI agent Sue Thomas. An investigation into an amnesia victim's identity uncovers his connection to a prominent international drug trafficker(n)</desc>
+    <credits>
+      <director>Dave Alan Johnson</director>
+      <actor>Deanne Bray</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Rick Peters</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-ie-dynamic.horizon.tv/images/14680975.p.bfb0028c26e8591f4486cad0ab3c728e9eb5d81b.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <star-rating>
+      <value>8.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922070000 +0000" stop="20180922080000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">The Black Hand</sub-title>
+    <desc lang="en">Yannick Bisson stars in the mesmerising mystery series set in 19th century Toronto. Murdoch's English ex-lover, Anna, visits Toronto on her way to Niagara Falls to be married. Murdoch learns that Anna's fiance, a businessman from New York City, has vanished and begins to suspect that a criminal organisation are involved(c)</desc>
+    <credits>
+      <director>Don McCutcheon</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922080000 +0000" stop="20180922090000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Stroll on the Wild Side, Part 1</sub-title>
+    <desc lang="en">The detective drama series set in 19th century Toronto. Murdoch's investigation into the disappearance of a quiet librarian leads to a reunion with former love Anna Fulford and the discovery of a seamy underworld. Murdoch also reconnects with Dr. Ogden after she's arrested because of her progressive ideas(c)</desc>
+    <credits>
+      <director>Michael DeCarlo</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Helene Joy</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20180922090000 +0000" stop="20180922100000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Stroll on the Wild Side - Part Two</sub-title>
+    <desc lang="en">The detective drama series set in 19th century Toronto. During his investigation into the murder of a shy librarian with a secret life, Murdoch encounters a seductive young woman. Lisa Faulkner guest stars(c)</desc>
+    <credits>
+      <director>Michael DeCarlo</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Helene Joy</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <star-rating>
+      <value>8.3(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922100000 +0000" stop="20180922110000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Downstairs, Upstairs</sub-title>
+    <desc lang="en">Yannick Bisson stars in the mystery series set in the 19th century. When the master of a wealthy household is found face down in his morning porridge, Murdoch soon realises that both his family and servants had reason to murder the malevolent and lecherous old man(c)</desc>
+    <credits>
+      <director>Harvey Crossland</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922110000 +0000" stop="20180922120000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Tattered and Torn</sub-title>
+    <desc lang="en">Victorian mystery series. Murdoch clashes with Julia's replacement, Dr. Francis, when a dismembered body is found encased in concrete(c)</desc>
+    <credits>
+      <director>Don McCutcheon</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <star-rating>
+      <value>8.1(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922120000 +0000" stop="20180922130000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Winston's Lost Night</sub-title>
+    <desc lang="en">Canadian mystery series set in the 1900s. When a veteran of a brutal North African battle is slain with a sword, Detective Murdoch's prime suspect is the victim's fellow soldier, a hungover young man named Winston Churchill(c)</desc>
+    <credits>
+      <director>Don McCutcheon</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <star-rating>
+      <value>7.8(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922130000 +0000" stop="20180922140000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">On the Waterfront - Part One</sub-title>
+    <desc lang="en">Canadian mystery series set in the 1900s. Murdoch investigates when a businessman is assassinated by two masked men(c)</desc>
+    <credits>
+      <director>Laurie Lynd</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <star-rating>
+      <value>8.2(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922140000 +0000" stop="20180922150000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">On the Waterfront - Part Two</sub-title>
+    <desc lang="en">Canadian mystery series set in the 1900s. Murdoch investigates when a businessman is assassinated by two masked men(c)</desc>
+    <credits>
+      <director>Laurie Lynd</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <star-rating>
+      <value>8.3(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922150000 +0000" stop="20180922160000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Marked Twain</sub-title>
+    <desc lang="en">Canadian mystery series set in the 1900s. When Mark Twain arrives in Toronto, Murdoch investigates death threats towards the famous writer(c)</desc>
+    <credits>
+      <director>TW Peacocke</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922160000 +0000" stop="20180922170000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Up From the Ashes</sub-title>
+    <desc lang="en">Crime drama series set in Edwardian Toronto. A jailed Murdoch must prove his innocence amidst police and government corruption after the constables are ambushed, Ogden is kidnapped, and Brackenreid goes missing(c)</desc>
+    <credits>
+      <director>Don McCutcheon</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <star-rating>
+      <value>8.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922170000 +0000" stop="20180922180000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">8 Footsteps</sub-title>
+    <desc lang="en">Canadian drama series. In the 1890s, William Murdoch uses radical forensic techniques for the time, including fingerprinting and trace evidence, to solve some of the city's most gruesome murders. A recording device made by Alexander Graham Bell assists in the investigation of a murder at a dinner honouring Helen Keller(c)</desc>
+    <date>2017</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20180922180000 +0000" stop="20180922190000 +0000" channel="Alibi">
+    <title lang="en">Death in Paradise</title>
+    <desc lang="en">Detective drama series set on a Caribbean island. The president of the Saint Marie cricket club is found shot dead in the middle of the team's ground. As the sun rises over the island, suspicion falls on his teammates(c)</desc>
+    <credits>
+      <director>Jermain Julien</director>
+      <actor>Danny John-Jules</actor>
+      <actor>Elisabeth Bourgine</actor>
+      <actor>Kris Marshall</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp11-images-ie-dynamic.horizon.tv/images/48816326.p.68a147ca61df1acc4ef05545a6179e48ce9833b0.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <star-rating>
+      <value>7.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922190000 +0000" stop="20180922210000 +0000" channel="Alibi">
+    <title lang="en">Sherlock</title>
+    <sub-title lang="en">The Blind Banker</sub-title>
+    <desc lang="en">Contemporary crime drama, based on the stories by Arthur Conan Doyle. A mysterious cipher is being scrawled on the walls around London. The first person to see the cipher is dead within hours of reading it. Sherlock plunges into a world of codes and symbols, consulting with London's best graffiti artists. He soon learns that the city is in the grip a gang of international smugglers, a secret society called the Black Lotus(c)</desc>
+    <credits>
+      <director>Euros Lyn</director>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Martin Freeman</actor>
+      <actor>Una Stubbs</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp8-images-ie-dynamic.horizon.tv/images/36786980.p.3a043d8acbf4ae57f9efed0c7eccf0438d71f09b.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating>
+      <value>12(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>8.1(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922210000 +0000" stop="20180922230000 +0000" channel="Alibi">
+    <title lang="en">Inspector George Gently</title>
+    <sub-title lang="en">Gently with the Innocents</sub-title>
+    <desc lang="en">Crime drama. During their investigation of the murder of a lonely old man in his dilapidated mansion, Gently and Bacchus stumble upon a world which is beyond their comprehension(c)</desc>
+    <credits>
+      <director>Daniel O'Hara</director>
+      <actor>Martin Shaw</actor>
+      <actor>Lee Ingleby</actor>
+      <actor>Jill Halfpenny</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-ie-dynamic.horizon.tv/images/10705432.p.cd7d9c1fbf9d4269c06128db09f0a874334a8292.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <star-rating>
+      <value>8.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180922230000 +0000" stop="20180923000000 +0000" channel="Alibi">
+    <title lang="en">Unforgettable</title>
+    <desc lang="en">Crime drama following former police detective Carrie Wells who has a rare condition that makes her memory flawless. When Carrie receives an anonymous call from a killer telling her of his impending actions, the case takes a personal and chilling twist for the detective(c)</desc>
+    <credits>
+      <director>Aaron Lipstadt</director>
+      <actor>Poppy Montgomery</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Michael Gaston</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-ie-dynamic.horizon.tv/images/94274318.p.48dbfc9a64ad7aedff878a0527daebb340a695cd.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>8.2(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923000000 +0000" stop="20180923011000 +0000" channel="Alibi">
+    <title lang="en">New Tricks</title>
+    <sub-title lang="en">Wild Justice</sub-title>
+    <desc lang="en">Miller is faced with a dilemma when the investigation of a corrupt senior officer calls into question the conviction of Edward Monroe - who she believes to be guilty of murdering her old work partner. Pre-empting an appeal, UCOS must carry out preliminary investigative work for Strickland. As things begin to look like someone else could be guilty of the crime in question, can Miller hide a key fact from the team or will she do the right thing?(c)</desc>
+    <credits>
+      <director>Brian Grant</director>
+      <actor>Denis Lawson</actor>
+      <actor>Nicholas Lyndhurst</actor>
+      <actor>Tamzin Outhwaite</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp11-images-ie-dynamic.horizon.tv/images/6286611.p.dea32c64287d2172a46939c518971208c4b21d76.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923011000 +0000" stop="20180923020000 +0000" channel="Alibi">
+    <title lang="en">Quantico</title>
+    <sub-title lang="en">Care</sub-title>
+    <desc lang="en">US drama series following students at the FBI academy in Virginia. For an assignment the recruits must cross the border into Canada without passports(c)</desc>
+    <credits>
+      <director>Felix Enriquez Alcala</director>
+      <actor>Priyanka Chopra</actor>
+      <actor>Josh Hopkins</actor>
+      <actor>Jake McLaughlin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-ie-dynamic.horizon.tv/images/199945826.p.d7810b52ed97a9ea333067768bb3cfdfee62f805.jpg" />
+    <episode-num system="onscreen">E17</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>6.4(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923020000 +0000" stop="20180923030000 +0000" channel="Alibi">
+    <title lang="en">Quantico</title>
+    <sub-title lang="en">Soon</sub-title>
+    <desc lang="en">US crime drama following trainees at the FBI academy in Virginia. The recruits uncover surprising secrets about each other as their pasts are probed for high level security screening(c)</desc>
+    <credits>
+      <director>PJ Pesce</director>
+      <actor>Priyanka Chopra</actor>
+      <actor>Josh Hopkins</actor>
+      <actor>Jake McLaughlin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-ie-dynamic.horizon.tv/images/199945826.p.d7810b52ed97a9ea333067768bb3cfdfee62f805.jpg" />
+    <episode-num system="onscreen">E18</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>6.3(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923030000 +0000" stop="20180923050000 +0000" channel="Alibi">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Shopping from home(c)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-ie-dynamic.horizon.tv/images/46191724.p.4edd92b6b995f7dc0e6051e37441ee768a38b343.jpg" />
+  </programme>
+  <programme start="20180923050000 +0000" stop="20180923061000 +0000" channel="Alibi">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Shopping from home(c)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-ie-dynamic.horizon.tv/images/46191724.p.4edd92b6b995f7dc0e6051e37441ee768a38b343.jpg" />
+  </programme>
+  <programme start="20180923061000 +0000" stop="20180923070000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Up From the Ashes</sub-title>
+    <desc lang="en">Crime drama series set in Edwardian Toronto. A jailed Murdoch must prove his innocence amidst police and government corruption after the constables are ambushed, Ogden is kidnapped, and Brackenreid goes missing(c)</desc>
+    <credits>
+      <director>Don McCutcheon</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <star-rating>
+      <value>8.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923070000 +0000" stop="20180923080000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">8 Footsteps</sub-title>
+    <desc lang="en">Canadian drama series. In the 1890s, William Murdoch uses radical forensic techniques for the time, including fingerprinting and trace evidence, to solve some of the city's most gruesome murders. A recording device made by Alexander Graham Bell assists in the investigation of a murder at a dinner honouring Helen Keller(c)</desc>
+    <date>2017</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20180923080000 +0000" stop="20180923090000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">On the Waterfront - Part One</sub-title>
+    <desc lang="en">Canadian mystery series set in the 1900s. Murdoch investigates when a businessman is assassinated by two masked men(c)</desc>
+    <credits>
+      <director>Laurie Lynd</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <star-rating>
+      <value>8.2(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923090000 +0000" stop="20180923100000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">On the Waterfront - Part Two</sub-title>
+    <desc lang="en">Canadian mystery series set in the 1900s. Murdoch investigates when a businessman is assassinated by two masked men(c)</desc>
+    <credits>
+      <director>Laurie Lynd</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <star-rating>
+      <value>8.3(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923100000 +0000" stop="20180923110000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Marked Twain</sub-title>
+    <desc lang="en">Canadian mystery series set in the 1900s. When Mark Twain arrives in Toronto, Murdoch investigates death threats towards the famous writer(c)</desc>
+    <credits>
+      <director>TW Peacocke</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923110000 +0000" stop="20180923130000 +0000" channel="Alibi">
+    <title lang="en">Sherlock</title>
+    <sub-title lang="en">The Blind Banker</sub-title>
+    <desc lang="en">Contemporary crime drama, based on the stories by Arthur Conan Doyle. A mysterious cipher is being scrawled on the walls around London. The first person to see the cipher is dead within hours of reading it. Sherlock plunges into a world of codes and symbols, consulting with London's best graffiti artists. He soon learns that the city is in the grip a gang of international smugglers, a secret society called the Black Lotus(c)</desc>
+    <credits>
+      <director>Euros Lyn</director>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Martin Freeman</actor>
+      <actor>Una Stubbs</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp8-images-ie-dynamic.horizon.tv/images/36786980.p.3a043d8acbf4ae57f9efed0c7eccf0438d71f09b.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating>
+      <value>12(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>8.1(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923130000 +0000" stop="20180923140000 +0000" channel="Alibi">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Daughters of Jerusalem</sub-title>
+    <desc lang="en">Drama series based on the stories of GK Chesterton. Father Brown finds himself immobilised with a broken leg when a member of Kembleford's WI dies in mysterious circumstances. Can he crack the case armed only with a telescope and the gang to help?(c)</desc>
+    <credits>
+      <director>Matt Carter</director>
+      <actor>Nancy Carroll</actor>
+      <actor>Mark Williams</actor>
+      <actor>Sorcha Cusack</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-ie-dynamic.horizon.tv/images/105873513.p.ab6d4b12b3db88c35e6cedb68a050b43de2245dd.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating>
+      <value>PG(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.8(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923140000 +0000" stop="20180923150000 +0000" channel="Alibi">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Eagle and the Daw</sub-title>
+    <desc lang="en">Drama series based on the novels of GK Chesterton. When an old foe tells him that she has arranged the death of her former lover, Father Brown soon finds himself blamed for the murder(c)</desc>
+    <credits>
+      <director>Gary Williams</director>
+      <actor>Mark Williams</actor>
+      <actor>Sorcha Cusack</actor>
+      <actor>Jack Deam</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ie-dynamic.horizon.tv/images/105873513.p.ab6d4b12b3db88c35e6cedb68a050b43de2245dd.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923150000 +0000" stop="20180923170000 +0000" channel="Alibi">
+    <title lang="en">Inspector George Gently</title>
+    <sub-title lang="en">Gently with the Innocents</sub-title>
+    <desc lang="en">Crime drama. During their investigation of the murder of a lonely old man in his dilapidated mansion, Gently and Bacchus stumble upon a world which is beyond their comprehension(c)</desc>
+    <credits>
+      <director>Daniel O'Hara</director>
+      <actor>Martin Shaw</actor>
+      <actor>Lee Ingleby</actor>
+      <actor>Jill Halfpenny</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-ie-dynamic.horizon.tv/images/10705432.p.cd7d9c1fbf9d4269c06128db09f0a874334a8292.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <star-rating>
+      <value>8.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923170000 +0000" stop="20180923190000 +0000" channel="Alibi">
+    <title lang="en">Judge John Deed</title>
+    <sub-title lang="en">My Daughter, Right or Wrong</sub-title>
+    <desc lang="en">Drama series about a High Court judge. An explosion in a laboratory kills an eminent scientist, and an animal rights activist, Henry Free, is put on trial for his murder. Charlie Deed is appointed as lead defence barrister in the case. Jo Mills reluctantly assists the novice Charlie, whose enthusiasm for Henry's cause leads her into unprofessional outbursts in court. Her investigations lead her to some surprising conclusions about the identity of the prosecution's mysterious informer(c)</desc>
+    <credits>
+      <actor>Martin Shaw</actor>
+      <actor>Jenny Seagrove</actor>
+      <actor>Mary Woodvine</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-ie-dynamic.horizon.tv/images/6263587.p.6c311e91f7b7e1a7f6b96ba0a943049dd351fcaa.jpg" />
+    <star-rating>
+      <value>7.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923190000 +0000" stop="20180923200000 +0000" channel="Alibi">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Daughters of Jerusalem</sub-title>
+    <desc lang="en">Drama series based on the stories of GK Chesterton. Father Brown finds himself immobilised with a broken leg when a member of Kembleford's WI dies in mysterious circumstances. Can he crack the case armed only with a telescope and the gang to help?(c)</desc>
+    <credits>
+      <director>Matt Carter</director>
+      <actor>Nancy Carroll</actor>
+      <actor>Mark Williams</actor>
+      <actor>Sorcha Cusack</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-ie-dynamic.horizon.tv/images/105873513.p.ab6d4b12b3db88c35e6cedb68a050b43de2245dd.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating>
+      <value>PG(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.8(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923200000 +0000" stop="20180923210000 +0000" channel="Alibi">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Eagle and the Daw</sub-title>
+    <desc lang="en">Drama series based on the novels of GK Chesterton. When an old foe tells him that she has arranged the death of her former lover, Father Brown soon finds himself blamed for the murder(c)</desc>
+    <credits>
+      <director>Gary Williams</director>
+      <actor>Mark Williams</actor>
+      <actor>Sorcha Cusack</actor>
+      <actor>Jack Deam</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ie-dynamic.horizon.tv/images/105873513.p.ab6d4b12b3db88c35e6cedb68a050b43de2245dd.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180923210000 +0000" stop="20180923220000 +0000" channel="Alibi">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Smallest of Things</sub-title>
+    <desc lang="en">Drama series based on the novels of GK Chesterton. Past and present collide when Father Brown investigates the macabre world of dollhouse crime scenes(c)</desc>
+    <credits>
+      <director>Bob Tomson</director>
+      <actor>Mark Williams</actor>
+      <actor>Sorcha Cusack</actor>
+      <actor>Jack Deam</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-ie-dynamic.horizon.tv/images/105873513.p.ab6d4b12b3db88c35e6cedb68a050b43de2245dd.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20180923220000 +0000" stop="20180923230000 +0000" channel="Alibi">
+    <title lang="en">Harrow</title>
+    <sub-title lang="en">Mens Rea</sub-title>
+    <desc lang="en">Australian crime drama series. While Harrow deals with his most bizarre autopsy yet, Dass and Simon finally close in on the truth about who killed Robert Quinn(c)</desc>
+    <credits>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Mirrah Foulkes</actor>
+      <actor>Remy Hii</actor>
+    </credits>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-ie-dynamic.horizon.tv/images/295401790.p.b050792ab73f2e9da498448d8e12b00434bc07a4.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20180923230000 +0000" stop="20180924000000 +0000" channel="Alibi">
+    <title lang="en">WPC 56</title>
+    <sub-title lang="en">Sink or Swim</sub-title>
+    <desc lang="en">Drama following WPC 56 Gina Dawson, the first woman police constable to serve in her West Midlands hometown in 1956. Determined to prove her mettle, WPC Dawson's resolve is tested on her first day when she encounters thieves, runaways, neglected children and a Brinford branding. Meanwhile, Brinford Police Station is rocked by a shocking discovery in an abandoned mine, and DI Burns and Sergeant Fenton investigate a serious attack on a young woman - but have they arrested the right man?(c)</desc>
+    <credits>
+      <director>Ian Barber</director>
+      <actor>Kieran Bew</actor>
+      <actor>Mark Rice-Oxley</actor>
+      <actor>Jennie Jacques</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-ie-dynamic.horizon.tv/images/110527537.p.a8f3730c478bf41bde57c578d7a750dd3af16bac.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <star-rating>
+      <value>6.8(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924000000 +0000" stop="20180924012500 +0000" channel="Alibi">
+    <title lang="en">New Tricks</title>
+    <sub-title lang="en">Bermondsey Boy</sub-title>
+    <desc lang="en">Drama about a team of retired detectives investigating unsolved crimes. Family ties affect both Gerry Standing and Sasha Miller. While Sasha is forced to work with ex-husband Ned as he fills in for Strickland, Gerry returns to his roots in Bermondsey to help arrange his daughter's wedding. As a consequence he is thrown into a case involving the possible murder of an architecture student, the grandson of an old friend. Meanwhile, Danny Griffin has been on an FBI course in reading body language(c)</desc>
+    <credits>
+      <director>Andy Hay</director>
+      <actor>Denis Lawson</actor>
+      <actor>Nicholas Lyndhurst</actor>
+      <actor>Tamzin Outhwaite</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-ie-dynamic.horizon.tv/images/6286611.p.dea32c64287d2172a46939c518971208c4b21d76.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating>
+      <value>12(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.5(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924012500 +0000" stop="20180924021000 +0000" channel="Alibi">
+    <title lang="en">Quantico</title>
+    <sub-title lang="en">Fast</sub-title>
+    <desc lang="en">US drama following trainees at the FBI academy in Virginia. Alex wrestles with a moral dilemma when she learns a fellow student has a serious medical condition(c)</desc>
+    <credits>
+      <director>J Miller Tobin</director>
+      <actor>Priyanka Chopra</actor>
+      <actor>Josh Hopkins</actor>
+      <actor>Jake McLaughlin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-ie-dynamic.horizon.tv/images/199945826.p.d7810b52ed97a9ea333067768bb3cfdfee62f805.jpg" />
+    <episode-num system="onscreen">E19</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>6.1(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924021000 +0000" stop="20180924030000 +0000" channel="Alibi">
+    <title lang="en">Quantico</title>
+    <sub-title lang="en">Drive</sub-title>
+    <desc lang="en">US drama series following trainees at the FBI academy in Virginia. Disturbing information about Ryan is revealed to Alex(c)</desc>
+    <credits>
+      <director>Robert Underwood</director>
+      <actor>Priyanka Chopra</actor>
+      <actor>Josh Hopkins</actor>
+      <actor>Jake McLaughlin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-ie-dynamic.horizon.tv/images/199945826.p.d7810b52ed97a9ea333067768bb3cfdfee62f805.jpg" />
+    <episode-num system="onscreen">E20</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>6.3(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924030000 +0000" stop="20180924050000 +0000" channel="Alibi">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Shopping from home(c)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-ie-dynamic.horizon.tv/images/46191724.p.4edd92b6b995f7dc0e6051e37441ee768a38b343.jpg" />
+  </programme>
+  <programme start="20180924050000 +0000" stop="20180924061000 +0000" channel="Alibi">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Shopping from home(c)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-ie-dynamic.horizon.tv/images/46191724.p.4edd92b6b995f7dc0e6051e37441ee768a38b343.jpg" />
+  </programme>
+  <programme start="20180924061000 +0000" stop="20180924070000 +0000" channel="Alibi">
+    <title lang="en">Sue Thomas: F.B.Eye</title>
+    <sub-title lang="en">Skin Deep</sub-title>
+    <desc lang="en">Drama series based on a true story following no-nonsense FBI agent Sue Thomas. The team tries to stop a group of eco-terrorists from carrying out dangerous attacks(n)</desc>
+    <credits>
+      <director>Stephan Fanfara</director>
+      <actor>Deanne Bray</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Rick Peters</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-ie-dynamic.horizon.tv/images/14680975.p.bfb0028c26e8591f4486cad0ab3c728e9eb5d81b.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <star-rating>
+      <value>8.2(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924070000 +0000" stop="20180924080000 +0000" channel="Alibi">
+    <title lang="en">Miss Fisher's Murder Mysteries</title>
+    <sub-title lang="en">Ruddy Gore</sub-title>
+    <desc lang="en">Australian crime drama series set in 1920s Melbourne. Phryne investigates Chinese opium dealers, thespian rivalry and a phantom of the operetta when the star of Gilbert and Sullivan's Ruddigore drops dead on stage on the opening night(c)</desc>
+    <credits>
+      <director>David Caesar</director>
+      <actor>Essie Davis</actor>
+      <actor>Nathan Page</actor>
+      <actor>Hugo Johnstone-Burt</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-ie-dynamic.horizon.tv/images/51309537.p.1b0e354ae1861d3081852dfea48bdecbd5fc8c94.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <star-rating>
+      <value>7.7(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924080000 +0000" stop="20180924090000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">The Big Chill</sub-title>
+    <desc lang="en">Canadian mystery series set in the 1900s. Murdoch investigates the death of an Arctic explorer(c)</desc>
+    <credits>
+      <director>Eleanor Lindo</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <star-rating>
+      <value>8.2(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924090000 +0000" stop="20180924100000 +0000" channel="Alibi">
+    <title lang="en">The Guardian</title>
+    <sub-title lang="en">Shelter</sub-title>
+    <desc lang="en">Drama series about a high-flying lawyer who is brought down to earth when he is sentenced to community service for drug offences. Two homeless teens ask Lulu to argue that they should be allowed to live together with their newborn son(c)</desc>
+    <credits>
+      <director>Steve Gomer</director>
+      <actor>Simon Baker</actor>
+      <actor>Alan Rosenberg</actor>
+      <actor>Wendy Moniz</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-ie-dynamic.horizon.tv/images/16350875.p.fd4231fd48c8a939787d015b3b06774e1500184e.jpg" />
+    <episode-num system="onscreen">E20</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924100000 +0000" stop="20180924110000 +0000" channel="Alibi">
+    <title lang="en">Sue Thomas: F.B.Eye</title>
+    <sub-title lang="en">Skin Deep</sub-title>
+    <desc lang="en">Drama series based on a true story following no-nonsense FBI agent Sue Thomas. The team tries to stop a group of eco-terrorists from carrying out dangerous attacks(n)</desc>
+    <credits>
+      <director>Stephan Fanfara</director>
+      <actor>Deanne Bray</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Rick Peters</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-ie-dynamic.horizon.tv/images/14680975.p.bfb0028c26e8591f4486cad0ab3c728e9eb5d81b.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <star-rating>
+      <value>8.2(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924110000 +0000" stop="20180924120000 +0000" channel="Alibi">
+    <title lang="en">Castle</title>
+    <sub-title lang="en">The Good, the Bad and the Baby</sub-title>
+    <desc lang="en">Crime drama series about a novelist who shadows a New York detective for inspiration. Castle and Beckett are left holding the baby when investigating the case of a man who left an infant in a church and then dropped dead(c)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-ie-dynamic.horizon.tv/images/20897580.p.1e4c74d959c7ba0c988ea68dd30890461a21a4be.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+      <value>15(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>8.4(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924120000 +0000" stop="20180924130000 +0000" channel="Alibi">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Wrath of Baron Samdi</sub-title>
+    <desc lang="en">Drama series based on the stories of GK Chesterton. Father Brown encounters a voodoo priest who is intent on winning back the woman he loves - no matter the cost(c)</desc>
+    <credits>
+      <director>James Larkin</director>
+      <actor>Mark Williams</actor>
+      <actor>Sorcha Cusack</actor>
+      <actor>Michelle Asante</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-ie-dynamic.horizon.tv/images/105873513.p.ab6d4b12b3db88c35e6cedb68a050b43de2245dd.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+      <value>PG(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.3(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924130000 +0000" stop="20180924140000 +0000" channel="Alibi">
+    <title lang="en">Death in Paradise</title>
+    <desc lang="en">Detective drama series set on a Caribbean island. DI Goodman finds himself embroiled in the highly strung world of modelling when a young star is strangled in the middle of a fashion show. JP bumps into an old flame(c)</desc>
+    <credits>
+      <director>Audrey Cooke</director>
+      <actor>Kris Marshall</actor>
+      <actor>Danny John-Jules</actor>
+      <actor>Josephine Jobert</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-ie-dynamic.horizon.tv/images/48816326.p.68a147ca61df1acc4ef05545a6179e48ce9833b0.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating>
+      <value>12(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924140000 +0000" stop="20180924150000 +0000" channel="Alibi">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">Monsieur Murdoch</sub-title>
+    <desc lang="en">Yannick Bisson stars in the mesmerising mystery series set in the 19th century. Murdoch investigates the disappearance of a young woman from Paris and meets Detective Marcel Guillaume, the man who inspired the creation of the fictional Inspector Maigret(c)</desc>
+    <credits>
+      <director>John L'Ecuyer</director>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-ie-dynamic.horizon.tv/images/15731788.p.c92b084cb5cb28aeac96ac80d7dbe8af59df80d3.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <star-rating>
+      <value>8.2(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924150000 +0000" stop="20180924160000 +0000" channel="Alibi">
+    <title lang="en">Rosewood</title>
+    <sub-title lang="en">Necrosis and New Beginnings</sub-title>
+    <desc lang="en">US crime drama series about a mystery-solving pathologist based in Miami. Rosewood and Villa investigate the death of a criminal associated with a street gang from Little Haiti(c)</desc>
+    <credits>
+      <director>Eric Laneuville</director>
+      <actor>Morris Chestnut</actor>
+      <actor>Jaina Ortiz</actor>
+      <actor>Gabrielle Dennis</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-ie-dynamic.horizon.tv/images/207485307.p.3fac3e015316f99f62220e70a7d73a742f94f8fe.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <star-rating>
+      <value>8.1(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924160000 +0000" stop="20180924170000 +0000" channel="Alibi">
+    <title lang="en">Rizzoli and Isles</title>
+    <sub-title lang="en">The Beast in Me</sub-title>
+    <desc lang="en">US crime drama. Jane and Maura's investigations into a murder lead them towards Boston's Irish mafia(c)</desc>
+    <credits>
+      <director>Adam Arkin</director>
+      <actor>Angie Harmon</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Jordan Bridges</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-ie-dynamic.horizon.tv/images/32886257.p.538439c6c181b964fdf10bb5cd4134e0a1a253af.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+    <star-rating>
+      <value>8.3(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924170000 +0000" stop="20180924180000 +0000" channel="Alibi">
+    <title lang="en">The Guardian</title>
+    <sub-title lang="en">Shelter</sub-title>
+    <desc lang="en">Drama series about a high-flying lawyer who is brought down to earth when he is sentenced to community service for drug offences. Two homeless teens ask Lulu to argue that they should be allowed to live together with their newborn son(c)</desc>
+    <credits>
+      <director>Steve Gomer</director>
+      <actor>Simon Baker</actor>
+      <actor>Alan Rosenberg</actor>
+      <actor>Wendy Moniz</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-ie-dynamic.horizon.tv/images/16350875.p.fd4231fd48c8a939787d015b3b06774e1500184e.jpg" />
+    <episode-num system="onscreen">E20</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924180000 +0000" stop="20180924190000 +0000" channel="Alibi">
+    <title lang="en">Death in Paradise</title>
+    <desc lang="en">Detective drama series set on a Caribbean island. DI Goodman finds himself embroiled in the highly strung world of modelling when a young star is strangled in the middle of a fashion show. JP bumps into an old flame(c)</desc>
+    <credits>
+      <director>Audrey Cooke</director>
+      <actor>Kris Marshall</actor>
+      <actor>Danny John-Jules</actor>
+      <actor>Josephine Jobert</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-ie-dynamic.horizon.tv/images/48816326.p.68a147ca61df1acc4ef05545a6179e48ce9833b0.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating>
+      <value>12(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.6(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924190000 +0000" stop="20180924200000 +0000" channel="Alibi">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Wrath of Baron Samdi</sub-title>
+    <desc lang="en">Drama series based on the stories of GK Chesterton. Father Brown encounters a voodoo priest who is intent on winning back the woman he loves - no matter the cost(c)</desc>
+    <credits>
+      <director>James Larkin</director>
+      <actor>Mark Williams</actor>
+      <actor>Sorcha Cusack</actor>
+      <actor>Michelle Asante</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-ie-dynamic.horizon.tv/images/105873513.p.ab6d4b12b3db88c35e6cedb68a050b43de2245dd.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+      <value>PG(system=IE)</value>
+    </rating>
+    <star-rating>
+      <value>7.3(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924200000 +0000" stop="20180924210000 +0000" channel="Alibi">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Smallest of Things</sub-title>
+    <desc lang="en">Drama series based on the novels of GK Chesterton. Past and present collide when Father Brown investigates the macabre world of dollhouse crime scenes(c)</desc>
+    <credits>
+      <director>Bob Tomson</director>
+      <actor>Mark Williams</actor>
+      <actor>Sorcha Cusack</actor>
+      <actor>Jack Deam</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-ie-dynamic.horizon.tv/images/105873513.p.ab6d4b12b3db88c35e6cedb68a050b43de2245dd.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20180924210000 +0000" stop="20180924220000 +0000" channel="Alibi">
+    <title lang="en">Miss Fisher's Murder Mysteries</title>
+    <sub-title lang="en">Ruddy Gore</sub-title>
+    <desc lang="en">Australian crime drama series set in 1920s Melbourne. Phryne investigates Chinese opium dealers, thespian rivalry and a phantom of the operetta when the star of Gilbert and Sullivan's Ruddigore drops dead on stage on the opening night(c)</desc>
+    <credits>
+      <director>David Caesar</director>
+      <actor>Essie Davis</actor>
+      <actor>Nathan Page</actor>
+      <actor>Hugo Johnstone-Burt</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-ie-dynamic.horizon.tv/images/51309537.p.1b0e354ae1861d3081852dfea48bdecbd5fc8c94.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <star-rating>
+      <value>7.7(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924220000 +0000" stop="20180924230000 +0000" channel="Alibi">
+    <title lang="en">The Guardian</title>
+    <sub-title lang="en">Shelter</sub-title>
+    <desc lang="en">Drama series about a high-flying lawyer who is brought down to earth when he is sentenced to community service for drug offences. Two homeless teens ask Lulu to argue that they should be allowed to live together with their newborn son(c)</desc>
+    <credits>
+      <director>Steve Gomer</director>
+      <actor>Simon Baker</actor>
+      <actor>Alan Rosenberg</actor>
+      <actor>Wendy Moniz</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-ie-dynamic.horizon.tv/images/16350875.p.fd4231fd48c8a939787d015b3b06774e1500184e.jpg" />
+    <episode-num system="onscreen">E20</episode-num>
+    <star-rating>
+      <value>7.9(system=IMDb)</value>
+    </star-rating>
+  </programme>
+  <programme start="20180924230000 +0000" stop="20180925000000 +0000" channel="Alibi">
+    <title lang="en">Rizzoli and Isles</title>
+    <sub-title lang="en">Born to Run</sub-title>
+    <desc lang="en">US mystery series. Maura and Jane must go undercover as runners when a psychopath targets the Boston marathon(c)</desc>
+    <credits>
+      <director>Matthew Penn</director>
+      <actor>Angie Harmon</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Jordan Bridges</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-ie-dynamic.horizon.tv/images/32886257.p.538439c6c181b964fdf10bb5cd4134e0a1a253af.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <star-rating>
+      <value>8.4(system=IMDb)</value>
+    </star-rating>
   </programme>
 </tv>
