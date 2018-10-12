@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ITV3">
+    <display-name lang="en">ITV3</display-name>
+    <icon src="http://static.filmon.com/couch/channels/26/big_logo.png" />
+    <icon src="http://static.filmon.com/couch/channels/26/big_logo.png" />
+    <url>http://www.filmon.com</url>
+  </channel>
+  <programme start="20181011210000 +0000" stop="20181011220000 +0000" channel="ITV3">
+    <title lang="en">Law and Order: UK</title>
+    <desc lang="en">The body of former vice cop Frank McCallum is found beaten to death in an underpass in Paddington. The murder has all the symptoms of a prostitute killing, but DS Ronnie Brooks and DS Matt Devlin soon realise they have to broaden their search. Their investigation forces them to look deeper into Frank McCallum's life - could his boss, Josh Pritchard, know more about Frank's death than he's letting on..(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F692301%2F2%2Ftn-1373832000-692301-LawandOr-13734635670/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20181011220000 +0000" stop="20181011230500 +0000" channel="ITV3">
+    <title lang="en">Law and Order: UK</title>
+    <desc lang="en">DS Ronnie Brooks and DS Matt Devlin are forced to reopen a contentious murder case, and their investigations threaten to unravel James Steel's prosecution of Luke Slade eight years before. Slade, who has been studying law during his time in prison, is given leave to appeal. When he opts to represent himself in court, the case becomes less of a legal appeal and more of a personal vendetta between Slade and Steel. As Slade begins to get the upper hand in court, it seems as if James's career may be on the line.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F692301%2F2%2Ftn-1373832000-692301-LawandOr-13734635670/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+  </programme>
+  <programme start="20181011230500 +0000" stop="20181012000500 +0000" channel="ITV3">
+    <title lang="en">Grantchester</title>
+    <desc lang="en">Drama series set in the 1950s and adapted from the novels by James Runcie. When Theo Graham confesses to Sidney and Geordie that he attacked and killed his landlord Eric Whittaker, they rush to the boarding house and find the alleged victim alive and well, along with his teenage daughter Joan and her stepmother Vivian. However, Eric is killed in a hit and run just hours later. As Sidney is drawn deeper into the twisted emotional world of the boarding house, just who is Vivian trying to protect?(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F990844%2F2%2Ftn-1412625600-990844-Grantchest-14119896290/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181012000500 +0000" stop="20181012010000 +0000" channel="ITV3">
+    <title lang="en">Grantchester</title>
+    <desc lang="en">Drama series set in the 1950s and adapted from the novels by James Runcie. As the trial of local teen Gary Bell approaches, Sidney and Geordie find themselves at loggerheads regarding his guilt. Meanwhile, Sidney is asked by Reggie Lawson to perform an exorcism at his home and stable yards as he is convinced that the spirit of his dead wife Anna haunts the place. That night, Geordie summons Sidney back - Reggie has hanged himself in the same spot as Anna. Why would Reggie take his own life?(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F990844%2F2%2Ftn-1412625600-990844-Grantchest-14119896290/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181012010000 +0000" stop="20181012013000 +0000" channel="ITV3">
+    <title lang="en">ITV3 Nightscreen</title>
+    <desc lang="en">Text-based information service.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F234572%2F2%2Ftn-234572-ITV3Night-13110819452.81/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181012013000 +0000" stop="20181012050000 +0000" channel="ITV3">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Shopping from home.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F199894%2F2%2Ftn-199894-Teleshoppi-13038120380/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181012050000 +0000" stop="20181012052500 +0000" channel="ITV3">
+    <title lang="en">Classic Coronation Street</title>
+    <desc lang="en">Alec is pleased that Tina has won the Brewery's barmaid of the month competition. Vera rows with Steph. Ingram tells Mike he's going to fire him. Ivy finds out about Don's bet.(n)</desc>
+  </programme>
+  <programme start="20181012052500 +0000" stop="20181012055500 +0000" channel="ITV3">
+    <title lang="en">Classic Coronation Street</title>
+    <desc lang="en">Tina is adamant she won't receive the award as it's her night off. Vera and Steph have to be separated when Vera stops Des parking outside her house. Ingram tells Mike he doesn't trust him.(n)</desc>
+  </programme>
+  <programme start="20181012055500 +0000" stop="20181012070000 +0000" channel="ITV3">
+    <title lang="en">Heartbeat</title>
+    <desc lang="en">When an ex-army schoolteacher takes his strict discipline too far, Joe races to find a missing gun and a schoolboy bent on revenge. Meanwhile, the villagers prepare for a trip to London, but Oscar's itinerary sparks divisions.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">18.13.</episode-num>
+  </programme>
+  <programme start="20181012070000 +0000" stop="20181012080000 +0000" channel="ITV3">
+    <title lang="en">The Royal</title>
+    <desc lang="en">Medical drama series. An innocent case of food poisoning turns out to be something more sinister. Frankie does his utmost to ensure that a little girl injured in a cliff fall can still be the Festival Queen.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F166269%2F2%2Ftn-1307296800-166269-TheRoyal-13065088710/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">4.4.</episode-num>
+  </programme>
+  <programme start="20181012080000 +0000" stop="20181012083000 +0000" channel="ITV3">
+    <title lang="en">Judge Judy</title>
+    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181012083000 +0000" stop="20181012090000 +0000" channel="ITV3">
+    <title lang="en">Judge Judy</title>
+    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181012090000 +0000" stop="20181012092500 +0000" channel="ITV3">
+    <title lang="en">Judge Judy</title>
+    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181012092500 +0000" stop="20181012113000 +0000" channel="ITV3">
+    <title lang="en">Agatha Christie's Miss Marple</title>
+    <desc lang="en">When business magnate Rex Fortescue, his young wife and their maid are found murdered, Miss Marple notices that the circumstances recall the nursery rhyme Sing a Song of Sixpence. It is not long before she discovers that secrets run deep in the Fortescue family, but the significance of the song itself is harder to unravel. Then a scandal looms out of the shadowy past, and Miss Marple begins to wonder if there is any rhyme or reason to the deaths at all.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F122123%2F2%2Ftn-122123-AgathaChr-13805538920/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+  </programme>
+  <programme start="20181012113000 +0000" stop="20181012123500 +0000" channel="ITV3">
+    <title lang="en">The Royal</title>
+    <desc lang="en">Medical drama series. Dr Weatherill gets embroiled in an ethical battle when the parents of a dangerously ill newborn oppose treatment. A new face at the Royal sets Mr Harper's heart aflutter. Samantha gets some shocking news.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F166269%2F2%2Ftn-1307296800-166269-TheRoyal-13065088710/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">4.5.</episode-num>
+  </programme>
+  <programme start="20181012123500 +0000" stop="20181012134000 +0000" channel="ITV3">
+    <title lang="en">Heartbeat</title>
+    <desc lang="en">A gangster's accountant is on the run from his underworld bosses. David finds an old jeep with a surprising history.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">18.14.</episode-num>
+  </programme>
+  <programme start="20181012134000 +0000" stop="20181012141500 +0000" channel="ITV3">
+    <title lang="en">Classic Coronation Street</title>
+    <desc lang="en">Ingram is in intensive care after having a heart attack. Alec refuses to give Tina a rise. Vera accuses the Barnes' of pulling her stone cladding off.(n)</desc>
+  </programme>
+  <programme start="20181012141500 +0000" stop="20181012144500 +0000" channel="ITV3">
+    <title lang="en">Classic Coronation Street</title>
+    <desc lang="en">Mavis finds a piece of stone cladding in the lounge. The Duckworths celebrate their wedding anniversary. Mike moves his desk onto the shop floor to Ivy's annoyance. Bet wonders who Tina's new boyfriend is.(n)</desc>
+  </programme>
+  <programme start="20181012144500 +0000" stop="20181012165500 +0000" channel="ITV3">
+    <title lang="en">Agatha Christie's Miss Marple</title>
+    <desc lang="en">On learning that an acquaintance who claimed to have knowledge of several unreported murders in her village has died, Miss Marple visits the village of Wychwood-under-Ashe. She charms her way into village life and befriends Luke Fitzwilliam, a handsome former policeman who is increasingly drawn to a mysterious and beautiful new arrival. When a belligerent local GP and a maid suddenly die soon afterwards, Luke finds himself becoming Miss Marple's confidante and ally in the search for the truth.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F122123%2F2%2Ftn-122123-AgathaChr-13805538920/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">4.2.</episode-num>
+  </programme>
+  <programme start="20181012165500 +0000" stop="20181012180000 +0000" channel="ITV3">
+    <title lang="en">Heartbeat</title>
+    <desc lang="en">A gangster's accountant is on the run from his underworld bosses. David finds an old jeep with a surprising history.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F7381%2F2%2Ftn-1281898800-7381-Heartbeat-12809129740/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">18.14.</episode-num>
+  </programme>
+  <programme start="20181012180000 +0000" stop="20181012190000 +0000" channel="ITV3">
+    <title lang="en">Murder, She Wrote</title>
+    <desc lang="en">Murder mystery series. Crime writer Jessica Fletcher is about to receive a special award at Grenshaw College when she finds the proceedings interrupted by a murder.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F8725%2F2%2Ftn-8725-MurderSh-13178075741.21/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+  </programme>
+  <programme start="20181012190000 +0000" stop="20181012200000 +0000" channel="ITV3">
+    <title lang="en">Home Fires</title>
+    <desc lang="en">Drama series set in a Cheshire village during the Second World War. As war draws closer to home, the women have their own battles to fight. Frances tries to help Pat before it is too late, Alison searches for a way out of her own desperate situation, Miriam hides an important piece of news from Bryn, and as the nation's darkest hour looms, the WI faces its biggest challenge yet.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F1028164%2F2%2Ftn-1430683200-1028164-HomeFires-14298718650/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181012200000 +0000" stop="20181012210000 +0000" channel="ITV3">
+    <title lang="en">Grantchester</title>
+    <desc lang="en">Drama series adapted from the novels by James Runcie. As Gary Bell waits to discover his fate, Sidney is determined to stand by his side. Geordie and Phil arrest violent wife-beater Eddie Jones when stolen goods are found at his house, but he puts up a fight as he is carted off to the cells. Next morning, Geordie's wife Cathy tells Sidney that Geordie did not come home last night. Sidney hurries to the station, where he finds his friend with his knuckles bruised and Eddie dead on a stretcher.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F990844%2F2%2Ftn-1412625600-990844-Grantchest-14119896290/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181012210000 +0000" stop="20181012220000 +0000" channel="ITV3">
+    <title lang="en">Grantchester</title>
+    <desc lang="en">Drama series set in the 1950s and adapted from the novels by James Runcie. Following the difficult events of the past few weeks, Sidney is drinking like never before and seems to have stopped caring about his responsibilities as a clergyman. Meanwhile, Sam Milburn flees after threats are made against his life, but when evidence of a struggle is found, Sidney fears that the worst may have happened. Can Sidney and Georgie work together to investigate the crime and stop a murder being committed?(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F990844%2F2%2Ftn-1412625600-990844-Grantchest-14119896290/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181012220000 +0000" stop="20181012230500 +0000" channel="ITV3">
+    <title lang="en">Killer Women with Piers Morgan</title>
+    <desc lang="en">Piers travels to Homestead Correctional Institution in Florida to meet Amber Wright, who conspired with a group of friends to murder her ex-boyfriend at the age of 15. An innocent teenage boy was beaten, shot and kneecapped before his corpse was burnt and his remains thrown in a quarry. Was this merely an adolescent spat that spiralled into horrific, impulsive violence, or is the striking young woman who sits before Piers actually a cold-hearted killer?(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image/1104025/2/tn-1104025-KillerWom-14619376710/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181012230500 +0000" stop="20181013005500 +0000" channel="ITV3">
+    <title lang="en">Agatha Christie's Poirot</title>
+    <desc lang="en">Detective drama featuring Agatha Christie's celebrated sleuth Hercule Poirot. With the world on the brink of the Second World War, there is more political turmoil when it appears that the famous Peace Party is in fact a cover for the war-mongering organisation Big Four. This complex investigation reunites Poirot with his old friend Japp, as they investigate a case marked by deception, disappearances and death.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F20875%2F2%2Ftn-1370804400-20875-AgathaChr-13699956910/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">14.1.</episode-num>
+  </programme>
+  <programme start="20181013005500 +0000" stop="20181013023000 +0000" channel="ITV3">
+    <title lang="en">Carry on Up the Jungle</title>
+    <desc lang="en">Bawdy British comedy. The Carry On regulars set off on an exotic safari and soon find themselves plunging in and out of the wrong tents and thrashing their way through the middle of the jungle in search of a rare bird. En route, the gang encounters headhunters, a mateless, all-female tribe and a sex-crazed gorilla.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F19131%2F2%2Ftn-19131-CarryonU-13541049310/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181013023000 +0000" stop="20181013032000 +0000" channel="ITV3">
+    <title lang="en">The Ivy</title>
+    <desc lang="en">Exclusive documentary that goes behind the scenes as one of the world's most eminent restaurants undergoes its first major renovation in 25 years. The film follows The Ivy's charismatic director Fernando Peire and executive chef Gary Lee as they oversee every twist and turn on the road to the London institution's re-launch. Featuring interviews with the restaurant's illustrious clientele including Calvin Klein, Dame Joan Collins, Maggi Hambling, Ronald Harwood, Tracey Emin and Julian Fellowes.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image/1083013/2/tn-1461787200-1083013-TheIvy-14610726790/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181013032000 +0000" stop="20181013034500 +0000" channel="ITV3">
+    <title lang="en">Judge Judy</title>
+    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181013034500 +0000" stop="20181013041000 +0000" channel="ITV3">
+    <title lang="en">Judge Judy</title>
+    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181013041000 +0000" stop="20181013043000 +0000" channel="ITV3">
+    <title lang="en">Judge Judy</title>
+    <desc lang="en">The Emmy nominated reality courtroom series, presided over by outspoken family court judge, Judge Judith Sheindlin, invites viewers into the courtroom to witness hard-hitting and compelling disputes between real litigants. Judge Judy is a show about family court cases, marital dissensions and small claims disputes.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F8765%2F2%2Ftn-8765-JudgeJudy-13155671186.34/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181013043000 +0000" stop="20181013050000 +0000" channel="ITV3">
+    <title lang="en">ITV3 Nightscreen</title>
+    <desc lang="en">Text-based information service.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F234572%2F2%2Ftn-234572-ITV3Night-13110819452.81/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181013050000 +0000" stop="20181013054500 +0000" channel="ITV3">
+    <title lang="en">Murder, She Wrote</title>
+    <desc lang="en">Murder mystery series. Jessica has to unravel the secrets and threats at the funeral of a friend in Wyoming.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F8725%2F2%2Ftn-8725-MurderSh-13178075741.21/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+  </programme>
+  <programme start="20181013054500 +0000" stop="20181013075000 +0000" channel="ITV3">
+    <title lang="en">Columbo: Dagger of the Mind</title>
+    <desc lang="en">Columbo heads to London to pay a visit to Scotland Yard, only to become embroiled in the case of a suspicious death during a production of Macbeth.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F936622%2F2%2Ftn-936622-ColumboD-13958530460/poster-150x150.jpg" />
+  </programme>
+  <programme start="20181013075000 +0000" stop="20181013095000 +0000" channel="ITV3">
+    <title lang="en">Agatha Christie's Miss Marple</title>
+    <desc lang="en">Miss Marple is faced with her greatest challenge when she receives instructions from Mr Rafiel - a recently deceased friend - to investigate a possible crime. Miss Marple finds herself on a mystery coach tour with her nephew Raymond West and a number of intriguing passengers.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F122123%2F2%2Ftn-122123-AgathaChr-13805538920/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+  </programme>
+  <programme start="20181013095000 +0000" stop="20181013115000 +0000" channel="ITV3">
+    <title lang="en">Agatha Christie's Miss Marple</title>
+    <desc lang="en">Miss Marple arrives at the luxurious Bertram's Hotel but soon discovers that there are dark secrets lurking below the highly polished veneer. When one of the maids is murdered, she tries to learn the truth before the murderer strikes again, but the truth is far more sinister than even she is prepared for.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F122123%2F2%2Ftn-122123-AgathaChr-13805538920/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+  </programme>
+  <programme start="20181013115000 +0000" stop="20181013135000 +0000" channel="ITV3">
+    <title lang="en">Agatha Christie's Miss Marple</title>
+    <desc lang="en">Miss Marple is overjoyed to be attending the wedding of her old housemaid, only to find a house full of secrets and a family desperately trying to come to terms with the fact that their brother was sent to the gallows for a murder that he did not commit.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F122123%2F2%2Ftn-122123-AgathaChr-13805538920/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">3.2.</episode-num>
+  </programme>
+  <programme start="20181013135000 +0000" stop="20181013160000 +0000" channel="ITV3">
+    <title lang="en">Agatha Christie's Poirot</title>
+    <desc lang="en">Hastings is staying with the Inglethorpes at Styles St Mary, but when their hostess is found murdered, he sends for his old friend Hercule Poirot.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F20875%2F2%2Ftn-1370804400-20875-AgathaChr-13699956910/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+  </programme>
+  <programme start="20181013160000 +0000" stop="20181013180000 +0000" channel="ITV3">
+    <title lang="en">Lewis</title>
+    <desc lang="en">Detective drama. Lewis and Hathaway investigate the strange murder of a beautiful young Eastern European woman whose death comes straight from the pages of a popular fantasy novel written by Oxford tutor Dorian Crane. Is this the work of a crazed fan, or is there something even more sinister going on? Soon it becomes evident that those close to Crane are in danger, and Lewis and Hathaway begin to suspect that actions in a world of fantasy can have very real consequences.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F536632%2F2%2Ftn-1357592400-536632-Lewis-13560919850/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+  </programme>
+  <programme start="20181013180000 +0000" stop="20181013200000 +0000" channel="ITV3">
+    <title lang="en">Midsomer Murders</title>
+    <desc lang="en">Crime drama series. When a body drops out of a plane and is discovered in a reservoir, Barnaby and Nelson find that the world of stunt pilots and aviation heroes hides many dark secrets. Are campaigners against the local airfield behind Bernard King's murder - or does it date back to a tragic story from the Second World War?(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F15523%2F2%2Ftn-15523-MidsomerM-13287185036.65/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">16.4.</episode-num>
+  </programme>
+  <programme start="20181013200000 +0000" stop="20181013220000 +0000" channel="ITV3">
+    <title lang="en">Endeavour</title>
+    <desc lang="en">A murder at an Army base threatens long-held secrets amongst a regiment and a protest at a hair salon exposes growing racial tensions in Oxford.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F833967%2F2%2Ftn-1365966000-833967-Endeavour-13655060190/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">5.4.</episode-num>
+  </programme>
+  <programme start="20181013220000 +0000" stop="20181014001500 +0000" channel="ITV3">
+    <title lang="en">Inspector Morse</title>
+    <desc lang="en">Detective drama series. There is an unexpected culture shock for Morse and Lewis when the search for an ex-supergrass takes them from the dreaming spires of Oxford to the rough-and-ready outback of Australia.(n)</desc>
+    <icon src="https://static.filmon.com/assets/tvguide/image%2F16795%2F2%2Ftn-16795-Inspector-13071109058.18/poster-150x150.jpg" />
+    <episode-num system="xmltv_ns">5.5.</episode-num>
+  </programme>
+</tv>
