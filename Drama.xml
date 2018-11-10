@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Drama">
+    <display-name lang="en">Drama</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/871.png" />
+    <icon src="http://my.tvguide.co.uk/channel_logos/871.png" />
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <programme start="20181110060000 +0000" stop="20181110070000 +0000" channel="Drama">
+    <title lang="en">Teleshopping</title>
+    <category lang="en">Advertisement</category>
+    <category lang="en">Shopping</category>
+    <star-rating system="GB">
+      <value>2.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110070000 +0000" stop="20181110080000 +0000" channel="Drama">
+    <title lang="en">Lovejoy</title>
+    <sub-title lang="en">Poetic Licence</sub-title>
+    <desc lang="en">The dodgy dealer agrees to help Charlotte's friend Mary Gladden save a nursing home by valuing and selling its antiques - only to find himself in the line of fire as someone makes an attempt on his life. Drama, starring Ian McShane, Dudley Sutton, Caroline Langrishe and Susan Fleetwood.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXlovejoygen.jpg" />
+    <episode-num system="xmltv_ns">4.7/14.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110080000 +0000" stop="20181110090000 +0000" channel="Drama">
+    <title lang="en">Lovejoy</title>
+    <sub-title lang="en">The Peking Gun</sub-title>
+    <desc lang="en">Lovejoy finds an unusual Ming Dynasty war cannon being used as a plant pot. His client asks him to get the best price for the item - but the Chinese community objects to any such proposed deal in no uncertain terms and when Charlotte takes the dodgy dealer to London to sell it they are abducted. Burt Kwouk guest stars, with Ian McShane.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXlovejoygen.jpg" />
+    <episode-num system="xmltv_ns">4.8/14.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110090000 +0000" stop="20181110101000 +0000" channel="Drama">
+    <title lang="en">Lovejoy</title>
+    <sub-title lang="en">Goose Bumps</sub-title>
+    <desc lang="en">When faced with a hefty dentist bill, Lovejoy agrees to settle it by investigating the alleged death by drowning of Terence Sullivan, a fellow antiques dealer. It doesn't take long to determine that Sullivan is still alive, having taken up residence with an attractive stewardess. When Charlotte sees Lovejoy's caring side towards the `widow', she feels she may have misjudged his character and finally gives in to his seductive charm. Pete Postlethwaite guest stars, with Ian McShane.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXlovejoygen.jpg" />
+    <episode-num system="xmltv_ns">4.9/14.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110101000 +0000" stop="20181110111000 +0000" channel="Drama">
+    <title lang="en">Lovejoy</title>
+    <sub-title lang="en">Swings and Roundabouts</sub-title>
+    <desc lang="en">A friend who runs a fairground asks Lovejoy to sell silver candlesticks on his behalf, but the police arrive and reveal they are stolen property. Jimmy Jewel and Phil Daniels guest star, with Ian McShane and Dudley Sutton.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXlovejoygen.jpg" />
+    <episode-num system="xmltv_ns">4.10/14.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110111000 +0000" stop="20181110131500 +0000" channel="Drama">
+    <title lang="en">Sharpe</title>
+    <sub-title lang="en">Sharpe's Waterloo</sub-title>
+    <desc lang="en">Learning Napoleon has returned from exile, Sharpe leaves Lucille to look after their farm and returns to service on the Prince of Orange's staff. It isn't long before he's reunited with the remaining Chosen Men for one of the most momentous military engagements of all time - the Battle of Waterloo. Sean Bean, Daragh O'Malley, Hugh Fraser and Cecile Paoli star. Last in the series.(n)</desc>
+    <category lang="en">Adventure</category>
+    <category lang="en">War</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXsharpes5.jpg" />
+    <episode-num system="xmltv_ns">4.2/3.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110131500 +0000" stop="20181110141500 +0000" channel="Drama">
+    <title lang="en">Call the Midwife</title>
+    <desc lang="en">Jenny is placed on the district nursing roster to improve her experience of community practice, and grows close to an ailing veteran soldier (guest star Roy Hudd). Trixie and Cynthia welcome a new patient to the antenatal clinic, a fortysomething woman who is upset by her pregnancy, despite her husband's joy. But at the birth, everyone gets a surprise. Drama, with Jessica Raine, Laura Main, Bryony Hannah and Miranda Hart.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXcallmidwifeep3.jpg" />
+    <episode-num system="xmltv_ns">0.2/6.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110141500 +0000" stop="20181110152000 +0000" channel="Drama">
+    <title lang="en">Call the Midwife</title>
+    <desc lang="en">A baby girl, recently delivered by Jenny, is snatched from her pram, uniting the community in a desperate search for the missing child. A newlywed couple are excited about becoming parents - but when the wife develops a serious medical condition, their chances of happiness are jeopardised. Jessica Raine, Bryony Hannah and Miranda Hart star in the 1950s-set nursing drama, with Thomasin Rand and Tom Goodman-Hill.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXcallmidwifes1ep4.jpg" />
+    <episode-num system="xmltv_ns">0.3/6.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110152000 +0000" stop="20181110164500 +0000" channel="Drama">
+    <title lang="en">Call the Midwife</title>
+    <desc lang="en">Jenny befriends Nonnatus House cleaner Peggy and her brother Frank, who has cancer, and learns all about the siblings' upbringing in the workhouse and the effect it has had on their relationship. Meanwhile, Fred has a new money-making venture - a pig called Evie - but his hopes of bringing home the bacon are scuppered when it turns out the porker is pregnant, so the midwives rally round to deliver the piglets.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXcallmidwifes1ep5.jpg" />
+    <episode-num system="xmltv_ns">0.4/6.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110164500 +0000" stop="20181110190000 +0000" channel="Drama">
+    <title lang="en">Hope and Glory</title>
+    <desc lang="en">London is in upheaval during the Blitz, but for a young boy the devastation presents a fabulous adventure. He is later sent to live with his grandfather, in whom he discovers a wonderfully eccentric and playful friend. Director John Boorman's Oscar-winning semi-autobiographical drama, starring Sebastian Rice-Edwards, Sarah Miles, Susan Wooldridge, Ian Bannen and Sammi Davis.(n)</desc>
+    <date>1987</date>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXhopeandglory.jpg" />
+    <subtitles />
+    <rating system="GB">
+      <value>15</value>
+    </rating>
+    <star-rating system="GB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110190000 +0000" stop="20181110200000 +0000" channel="Drama">
+    <title lang="en">Doctor Who</title>
+    <sub-title lang="en">New Earth</sub-title>
+    <desc lang="en">The Doctor and Rose travel to an alien world in the far future, where mankind has settled after the destruction of Earth. On arrival, they discover a luxury hospital conceals sinister secrets and an old enemy they thought dead is plotting revenge. With Billie Piper and Zoe Wanamaker.(n)</desc>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXdrwho2to4.jpg" />
+    <episode-num system="xmltv_ns">1.0/13.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110200000 +0000" stop="20181110210000 +0000" channel="Drama">
+    <title lang="en">Doctor Who</title>
+    <sub-title lang="en">Tooth and Claw</sub-title>
+    <desc lang="en">The Doctor and Rose travel back to 19th-century Scotland, where they encounter Queen Victoria (Pauline Collins) and discover the sinister plot of an order of warrior monks. Meanwhile, legends of a werewolf prowling the Highlands turn out to be more fact than fiction. Starring David Tennant.(n)</desc>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXdrwho2to4.jpg" />
+    <episode-num system="xmltv_ns">1.1/13.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110210000 +0000" stop="20181110220000 +0000" channel="Drama">
+    <title lang="en">Taggart</title>
+    <sub-title lang="en">The Rapture</sub-title>
+    <desc lang="en">The team is drawn into the world of a strict religious sect when a father and son are murdered with copies of the Bible at their sides. Burke grows increasingly irate as the secretive community closes ranks, refusing to speak to non-members, and he suspects the leader James Hardie knows more about the killings than he is letting on. Meanwhile, Reid investigates the disappearance of an old friend's daughter and uncovers a link to Burke's case. Detective drama, guest starring Sandy Morton, with Alex Norton and Blythe Duff.(n)</desc>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXTaggartSeries.jpg" />
+    <episode-num system="xmltv_ns">26.2.</episode-num>
+    <star-rating system="GB">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110220000 +0000" stop="20181110232000 +0000" channel="Drama">
+    <title lang="en">Shetland</title>
+    <desc lang="en">Perez quickly establishes that Robbie's body was retrieved from inside a shipping container. As such a thing can only be locked externally, the team now seeks a murderer - with Michael Maguire the prime suspect. A search of the ferry reveals that someone forced entry into the deck where the container was parked. Craig is implicated when Robbie's recovered phone reveals several missed calls from him, but Maguire remains heavily in the frame after the team discovers he recently made a sizable cash withdrawal and is about to flee Shetland. Detective drama, starring Douglas Henshall.(n)</desc>
+    <category lang="en">Mystery</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXC1Shetlandep2.jpg" />
+    <episode-num system="xmltv_ns">2.1/6.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110232000 +0000" stop="20181111015500 +0000" channel="Drama">
+    <title lang="en">Waking the Dead</title>
+    <sub-title lang="en">False Flag</sub-title>
+    <desc lang="en">An abandoned car belonging to a former Home Secretary is discovered in a Belfast garage, containing a skeleton and an unexploded bomb. Although the garage owner, missing since 1981, may have had links to the IRA, a more disturbing theory soon emerges - that this was the work of British secret service assassins, carefully staged to look like a terrorist outrage. Feature-length episode, guest starring Timothy West, Frances de la Tour and Christopher Strauli.(n)</desc>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXwakingthedeads4.jpg" />
+    <episode-num system="xmltv_ns">3.1/6.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111015500 +0000" stop="20181111040000 +0000" channel="Drama">
+    <title lang="en">The Brokenwood Mysteries</title>
+    <sub-title lang="en">The Scarecrow</sub-title>
+    <desc lang="en">Philip Henderson is found dead in his field following an altercation the previous day with his neighbour Doug Randall about his failed crop. Suspicion falls on the neighbour and his new wife, who was known to have had ongoing problems with Philip over his unpaid bar tab at her pub. However, as Mike and the team dig further into the mystery more suspects come into play. Neill Rea stars.(n)</desc>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbwoodmyss4.jpg" />
+    <episode-num system="xmltv_ns">3.2/4.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111040000 +0000" stop="20181111060000 +0000" channel="Drama">
+    <title lang="en">Teleshopping</title>
+    <category lang="en">Advertisement</category>
+    <category lang="en">Shopping</category>
+    <star-rating system="GB">
+      <value>2.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111060000 +0000" stop="20181111074500 +0000" channel="Drama">
+    <title lang="en">Teleshopping</title>
+    <category lang="en">Advertisement</category>
+    <category lang="en">Shopping</category>
+    <star-rating system="GB">
+      <value>2.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111074500 +0000" stop="20181111084500 +0000" channel="Drama">
+    <title lang="en">The Bill</title>
+    <sub-title lang="en">Another Country</sub-title>
+    <desc lang="en">Two elderly men are warned not to take the law into their own hands after they get caught roughing up tearaways on the Jasmine Allen estate. When one of them, a Korean War veteran, dies in mysterious circumstances, Carver finds himself facing dark secrets from the past in an effort to discover the truth behind the old soldier's death. John Woodvine guest stars.(n)</desc>
+    <category lang="en">Police</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXthebillw.jpg" />
+    <episode-num system="xmltv_ns">16.53/85.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111084500 +0000" stop="20181111094500 +0000" channel="Drama">
+    <title lang="en">The Bill</title>
+    <sub-title lang="en">Britanniamania - Part One - Going Underground</sub-title>
+    <desc lang="en">First of a four-part story. DC Mickey Webb is assigned to infiltrate the Britannia, a gang of football hooligans led by ex-copper Julian Napper (Karl Howman), and starts by befriending one of his cronies - but ends up getting embroiled in a stabbing at a dog track. Police drama, starring Chris Simmons and Andrew Paul.(n)</desc>
+    <category lang="en">Police</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXthebillw.jpg" />
+    <episode-num system="xmltv_ns">16.54/85.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111094500 +0000" stop="20181111105000 +0000" channel="Drama">
+    <title lang="en">The Bill</title>
+    <sub-title lang="en">Britanniamania - Part Two - To Us and Ours</sub-title>
+    <desc lang="en">Part two of four. Webb succeeds in being accepted by the gang of football hooligans, but McAllister's cover starts to slip, placing his life on the line.(n)</desc>
+    <category lang="en">Police</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXthebillw.jpg" />
+    <episode-num system="xmltv_ns">16.55/85.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111105000 +0000" stop="20181111115000 +0000" channel="Drama">
+    <title lang="en">The Bill</title>
+    <sub-title lang="en">Britanniamania - Part Three - Kick Off</sub-title>
+    <desc lang="en">Part three of four. Webb begins to take his undercover role as a football hooligan a little too seriously, raising a few eyebrows among his fellow coppers, who are surprised at the lengths he is prepared to go in order to appear convincing to his new `mates'. With Chris Simmons, Steven Hartley and Karl Howman.(n)</desc>
+    <category lang="en">Police</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXthebillw.jpg" />
+    <episode-num system="xmltv_ns">16.56/85.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111115000 +0000" stop="20181111125000 +0000" channel="Drama">
+    <title lang="en">The Bill</title>
+    <sub-title lang="en">Britanniamania - Part Four - Stand by Me</sub-title>
+    <desc lang="en">Part four of four. Having had his carefully constructed cover with the football hooligans blown, Webb is left feeling vulnerable and agrees to a police guard. As the troubled DC tries to deal with the fact that maniac gang leader Julian Napper is still on the loose, he finds his worries compounded by Grant Morys, who suggests the copper could have changed sides. Drama, starring Chris Simmons and Karl Howman.(n)</desc>
+    <category lang="en">Police</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXthebillw.jpg" />
+    <episode-num system="xmltv_ns">16.57/85.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111125000 +0000" stop="20181111135500 +0000" channel="Drama">
+    <title lang="en">Monarch of the Glen</title>
+    <desc lang="en">Duncan's romantic hopes are crushed when Golly reveals Jessica is his daughter, and Alison has to tell her the truth before she finds out from someone else. Meanwhile, when Lexie gets an admirer, she is more than happy to use it to her advantage. Richard Briers, Alastair MacKenzie and Susan Hampshire star.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmonarchoftheglen.jpg" />
+    <episode-num system="xmltv_ns">2.3/11.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111135500 +0000" stop="20181111150500 +0000" channel="Drama">
+    <title lang="en">Monarch of the Glen</title>
+    <desc lang="en">The sale of Glenbogle's biggest mountain for a development of holiday cottages causes a major rift between Stella and Archie, but the most sinister threat comes in the form of entrepreneur Stuart McIntosh who has his eye on both the land and Lexie. Richard Briers, Alastair Mackenzie and Susan Hampshire star.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmonarchoftheglen.jpg" />
+    <episode-num system="xmltv_ns">2.4/11.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111150500 +0000" stop="20181111162000 +0000" channel="Drama">
+    <title lang="en">Mapp and Lucia</title>
+    <desc lang="en">Miss Elizabeth Mapp reigns supreme in the picturesque town of Tilling, and has even more reason to gloat than usual when she lets her house for the summer to a very desirable tenant - Mrs Emmeline Lucas, known to her friends as Lucia. However, when the newcomer proves more popular with the locals than expected, Mapp is left out in the cold, leading to a constant battle for supremacy over bridge parties, garden fetes, art competitions and even the odd yoga class. Period comedy, starring Miranda Richardson and Anna Chancellor. Written by co-star Steve Pemberton, based on the comic novels by EF Benson.(n)</desc>
+    <category lang="en">Literary Adaptation</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmapplucias1ep1.jpg" />
+    <episode-num system="xmltv_ns">0.0/3.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>9.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111162000 +0000" stop="20181111174000 +0000" channel="Drama">
+    <title lang="en">Mapp and Lucia</title>
+    <desc lang="en">Mapp is still reeling from Lucia's victory at the summer fete and is left to watch disconsolately as the locals flock to her rival's little dinner parties across the street. Before long, however, she sees her chance for revenge. As the townsfolk busy themselves preparing their entries for the summer art exhibition, one of the highlights of the social calendar, Lucia and Georgie lay out their intentions to submit their sketches - giving Mapp a rather wicked idea to keep them out altogether. But it turns out that subterfuge rarely likes being hidden for long in a place like Tilling. Period comedy, starring Miranda Richardson, Anna Chancellor and Steve Pemberton.(n)</desc>
+    <category lang="en">Literary Adaptation</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmapplucias1.jpg" />
+    <episode-num system="xmltv_ns">0.1/3.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>9.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111174000 +0000" stop="20181111190000 +0000" channel="Drama">
+    <title lang="en">Mapp and Lucia</title>
+    <desc lang="en">Miss Lucia decides to take Tilling's cultural welfare in hand by beginning a series of musical evenings, although Mapp is curious to notice the odd moan from the locals - could they be tiring of her high-handed ways? Mapp is keen to encourage a revolt, convinced her rival is a fraud since learning she traced her sketch for the art exhibition. Now all she needs is a way to show her up once and for all. Meanwhile, Miss Mapp and Diva are engaged in their own skirmish, this time over the season's latest fashions, and the rest of the townsfolk are trying to quell their excitement as news arrives that the Prince of Wales is to pass through the station. Period comedy, starring Miranda Richardson, Anna Chancellor, Steve Pemberton and Frances Barber. Last in the series.(n)</desc>
+    <category lang="en">Literary Adaptation</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmapplucias1.jpg" />
+    <episode-num system="xmltv_ns">0.2/3.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>9.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111190000 +0000" stop="20181111200000 +0000" channel="Drama">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">A Case of the Yips</sub-title>
+    <desc lang="en">The team tackles the case of a murdered golfer, leading Murdoch to take up the sport as part of his investigation - with a warning that Ogden will lose her husband to the sport.(n)</desc>
+    <category lang="en">Mystery</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmurdmysts9ep11.jpg" />
+    <episode-num system="xmltv_ns">8.10/19.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111200000 +0000" stop="20181111220000 +0000" channel="Drama">
+    <title lang="en">The Brokenwood Mysteries</title>
+    <sub-title lang="en">As If Nothing Had Happened</sub-title>
+    <desc lang="en">Alzheimer sufferer Edward Alderston comes under suspicion of involvement when an ex-finance company high-flyer responsible for the loss of many elderly people's life savings is found floating in a swimming pool with a samurai sword in his back. Last in the series.(n)</desc>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbwoodmyss4.jpg" />
+    <episode-num system="xmltv_ns">3.3/4.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111220000 +0000" stop="20181112001000 +0000" channel="Drama">
+    <title lang="en">Silent Witness</title>
+    <sub-title lang="en">Family</sub-title>
+    <desc lang="en">Part one of two. Nikki, Jack, Thomas and Clarissa are just settling down for their respective Christmas Day celebrations when they are called in to investigate a shooting spree at an enormous property owned by Andy McMorris, the CEO of a haulage company. Emilia Fox stars. Last in the series.(n)</desc>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXsilentwitnesgen2a.jpg" />
+    <episode-num system="xmltv_ns">20.4/5.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112001000 +0000" stop="20181112020000 +0000" channel="Drama">
+    <title lang="en">Agatha Christie: A Life in Pictures</title>
+    <desc lang="en">Docu-drama about the best-selling crime novelist of the 20th century, portraying her experiences of nursing in the Great War, marriages to war hero Archie Christie and archaeologist Max Mallowan and her travels in Iran. With Olivia Williams, Anna Massey, Mark Gatiss, Raymond Coulthard and Stephen Boxer.(n)</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXagathaclifepics.jpg" />
+    <star-rating system="GB">
+      <value>7.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 +0000" stop="20181112040000 +0000" channel="Drama">
+    <title lang="en">Sharpe</title>
+    <sub-title lang="en">Sharpe's Waterloo</sub-title>
+    <desc lang="en">Learning Napoleon has returned from exile, Sharpe leaves Lucille to look after their farm and returns to service on the Prince of Orange's staff. It isn't long before he's reunited with the remaining Chosen Men for one of the most momentous military engagements of all time - the Battle of Waterloo. Sean Bean, Daragh O'Malley, Hugh Fraser and Cecile Paoli star. Last in the series.(n)</desc>
+    <category lang="en">Adventure</category>
+    <category lang="en">War</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXsharpes5.jpg" />
+    <episode-num system="xmltv_ns">4.2/3.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040000 +0000" stop="20181112060000 +0000" channel="Drama">
+    <title lang="en">Teleshopping</title>
+    <category lang="en">Advertisement</category>
+    <category lang="en">Shopping</category>
+    <star-rating system="GB">
+      <value>2.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 +0000" stop="20181112071000 +0000" channel="Drama">
+    <title lang="en">Teleshopping</title>
+    <category lang="en">Advertisement</category>
+    <category lang="en">Shopping</category>
+    <star-rating system="GB">
+      <value>2.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112071000 +0000" stop="20181112080000 +0000" channel="Drama">
+    <title lang="en">Lovejoy</title>
+    <sub-title lang="en">One Born Every Minute</sub-title>
+    <desc lang="en">The antiques dealer is asked to track down an itinerant painter who holds the key to a shameful secret. Light-hearted drama, starring Ian McShane.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXlovejoygen.jpg" />
+    <episode-num system="xmltv_ns">1.5/12.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080000 +0000" stop="20181112090000 +0000" channel="Drama">
+    <title lang="en">London's Burning</title>
+    <desc lang="en">Blue Watch rescue a man trapped up a chimney, and avert tragedy when a caravan collapses.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXLondonsBurning.jpg" />
+    <episode-num system="xmltv_ns">9.8/18.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112090000 +0000" stop="20181112100000 +0000" channel="Drama">
+    <title lang="en">Casualty</title>
+    <sub-title lang="en">The Last Call</sub-title>
+    <desc lang="en">A couple of old faces return to Holby as the team gathers for the funeral, on an emotional day that proves draining for most. Ash can't help but feel guilty about his colleague's death, Dixie throws herself into work and Cal worries when Ethan disappears from his hospital bed to attend the funeral. Meanwhile, Lofty treats an OCD sufferer and a new member of staff makes an impression on Noel. Chelsee Healey joins the cast.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXcasualtys29ep6.jpg" />
+    <episode-num system="xmltv_ns">28.5/43.</episode-num>
+    <star-rating system="GB">
+      <value>5.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 +0000" stop="20181112110000 +0000" channel="Drama">
+    <title lang="en">Lovejoy</title>
+    <sub-title lang="en">One Born Every Minute</sub-title>
+    <desc lang="en">The antiques dealer is asked to track down an itinerant painter who holds the key to a shameful secret. Light-hearted drama, starring Ian McShane.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXlovejoygen.jpg" />
+    <episode-num system="xmltv_ns">1.5/12.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112110000 +0000" stop="20181112120000 +0000" channel="Drama">
+    <title lang="en">The Bill</title>
+    <sub-title lang="en">On a Clear Day</sub-title>
+    <desc lang="en">PC Cass Rickman's loyalty to the job is severely tested following the return of her criminal ex-lover, thought to be involved with a South African drugs syndicate being investigated by the National Crime Squad. First of a three-part story, starring Suzanne Maddock as the confused copper, with Richard Mylan, Mark Wingett and Matthew Crompton.(n)</desc>
+    <category lang="en">Police</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXthebillw.jpg" />
+    <episode-num system="xmltv_ns">16.59/85.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 +0000" stop="20181112124000 +0000" channel="Drama">
+    <title lang="en">EastEnders</title>
+    <sub-title lang="en">Classic EastEnders</sub-title>
+    <desc lang="en">The highs and lows of life with the residents of Albert Square, Walford.(n)</desc>
+    <category lang="en">Soap</category>
+    <category lang="en">Melodrama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXeastendersbbc.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112124000 +0000" stop="20181112132000 +0000" channel="Drama">
+    <title lang="en">EastEnders</title>
+    <sub-title lang="en">Classic EastEnders</sub-title>
+    <desc lang="en">The highs and lows of life with the residents of Albert Square, Walford.(n)</desc>
+    <category lang="en">Soap</category>
+    <category lang="en">Melodrama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXeastendersbbc.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112132000 +0000" stop="20181112140000 +0000" channel="Drama">
+    <title lang="en">Last of the Summer Wine</title>
+    <sub-title lang="en">Spores</sub-title>
+    <desc lang="en">Lionel has a habit of being unpredictable, but when he walks off and abandons his wife while out on a drive in the hills, it is left to Clegg, Truly and Billy to console her. Long-running comedy set in Yorkshire, from the pen of Roy Clarke. Roy Hudd guest stars.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXsummerwine.jpg" />
+    <episode-num system="xmltv_ns">24.2/11.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 +0000" stop="20181112143500 +0000" channel="Drama">
+    <title lang="en">Fresh Fields</title>
+    <sub-title lang="en">Business Contacts</sub-title>
+    <desc lang="en">William's secretary calls in sick, so Hester volunteers to run the office in her place. However, when an important new client shows up for an appointment she finds herself having to fill in for her missing husband. Comedy, starring Anton Rogers and Julia McKenzie.(n)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXFreshFieldsS2.jpg" />
+    <episode-num system="xmltv_ns">1.4/6.</episode-num>
+    <star-rating system="GB">
+      <value>0.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112143500 +0000" stop="20181112153500 +0000" channel="Drama">
+    <title lang="en">London's Burning</title>
+    <desc lang="en">Blue Watch rescue a man trapped up a chimney, and avert tragedy when a caravan collapses.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXLondonsBurning.jpg" />
+    <episode-num system="xmltv_ns">9.8/18.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112153500 +0000" stop="20181112164500 +0000" channel="Drama">
+    <title lang="en">Soldier, Soldier</title>
+    <sub-title lang="en">Bombshell</sub-title>
+    <desc lang="en">Joy plans a party for the girls while the men are on their training exercise.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXsoldiersoldier.jpg" />
+    <episode-num system="xmltv_ns">3.11/13.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112164500 +0000" stop="20181112180000 +0000" channel="Drama">
+    <title lang="en">Lovejoy</title>
+    <sub-title lang="en">One Born Every Minute</sub-title>
+    <desc lang="en">The antiques dealer is asked to track down an itinerant painter who holds the key to a shameful secret. Light-hearted drama, starring Ian McShane.(n)</desc>
+    <category lang="en">General Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXlovejoygen.jpg" />
+    <episode-num system="xmltv_ns">1.5/12.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180000 +0000" stop="20181112183500 +0000" channel="Drama">
+    <title lang="en">Fresh Fields</title>
+    <sub-title lang="en">Business Contacts</sub-title>
+    <desc lang="en">William's secretary calls in sick, so Hester volunteers to run the office in her place. However, when an important new client shows up for an appointment she finds herself having to fill in for her missing husband. Comedy, starring Anton Rogers and Julia McKenzie.(n)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXFreshFieldsS2.jpg" />
+    <episode-num system="xmltv_ns">1.4/6.</episode-num>
+    <star-rating system="GB">
+      <value>0.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112183500 +0000" stop="20181112191500 +0000" channel="Drama">
+    <title lang="en">As Time Goes By</title>
+    <sub-title lang="en">Judith's New Romance</sub-title>
+    <desc lang="en">Sandy's evasive remarks suggest Judith's new romance has problems, which Jean is only too keen to help solve - with disastrous results. Bob Larbey's comedy about late-blossoming love, starring Judi Dench and Geoffrey Palmer.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXastimegoesbys4.jpg" />
+    <episode-num system="xmltv_ns">3.8/10.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112191500 +0000" stop="20181112200000 +0000" channel="Drama">
+    <title lang="en">Last of the Summer Wine</title>
+    <sub-title lang="en">Spores</sub-title>
+    <desc lang="en">Lionel has a habit of being unpredictable, but when he walks off and abandons his wife while out on a drive in the hills, it is left to Clegg, Truly and Billy to console her. Long-running comedy set in Yorkshire, from the pen of Roy Clarke. Roy Hudd guest stars.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXsummerwine.jpg" />
+    <episode-num system="xmltv_ns">24.2/11.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200000 +0000" stop="20181112210000 +0000" channel="Drama">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">A Case of the Yips</sub-title>
+    <desc lang="en">The team tackles the case of a murdered golfer, leading Murdoch to take up the sport as part of his investigation - with a warning that Ogden will lose her husband to the sport.(n)</desc>
+    <category lang="en">Mystery</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmurdmysts9ep11.jpg" />
+    <episode-num system="xmltv_ns">8.10/19.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112210000 +0000" stop="20181112220000 +0000" channel="Drama">
+    <title lang="en">Frankie Drake Mysteries</title>
+    <sub-title lang="en">Summer in the City</sub-title>
+    <desc lang="en">A body turns up in the luggage of the son of Frankie's former commander, so the detective and Trudy must join forces with reporter Ernest Hemingway to clear his name.(n)</desc>
+    <category lang="en">Mystery</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfdrakemysser.jpg" />
+    <episode-num system="xmltv_ns">0.2/11.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 +0000" stop="20181112230000 +0000" channel="Drama">
+    <title lang="en">New Tricks</title>
+    <sub-title lang="en">Where There's Smoke</sub-title>
+    <desc lang="en">The team reopens the case of criminal Mark Johnson, who was killed in a fire at London's Union club in 1996. The original investigation was hampered by silence among witnesses and associates, but with new information suggesting the blaze was a targeted arson attack, the detectives hope they will have more success. Drama, guest starring Roy Marsden, Martin Marquez and Tom Watt.(n)</desc>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXnewtricks7.jpg" />
+    <episode-num system="xmltv_ns">6.6/10.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112230000 +0000" stop="20181113010500 +0000" channel="Drama">
+    <title lang="en">Silent Witness</title>
+    <sub-title lang="en">Buried Lies</sub-title>
+    <desc lang="en">Feature-length episode. Forensic pathologist Dr Sam Ryan discovers evidence of physical violence on the body of a girl who supposedly drowned accidentally. Once the child's disturbing family history is known, headstrong Ryan defies police chiefs and sets out on a murder investigation. Drama, starring Amanda Burton, with Lesley Dunlop and Carl Hillsden.(n)</desc>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXsilentwits1.jpg" />
+    <episode-num system="xmltv_ns">0.0/4.</episode-num>
+    <star-rating system="GB">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+</tv>
