@@ -8,7 +8,7 @@
     <display-name lang="en">SuperSport HD 3</display-name>
     <url>http://www.dstv.co.za</url>
   </channel>
-  <programme start="20191204000000 +0000" stop="20191204015500 +0000" channel="SuperSport HD 1">
+  <programme start="20191204000000 +0700" stop="20191204015500 +0700" channel="SuperSport HD 1">
     <title lang="en">Six Nations '19: ITA v FRA</title>
     <sub-title lang="en">Round 5: Italy vs France</sub-title>
     <desc lang="en">'Round 5: Italy vs France'. From Stadio Olimpico - Rome, Italy.(n)</desc>
@@ -17,7 +17,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204015500 +0000" stop="20191204035500 +0000" channel="SuperSport HD 1">
+  <programme start="20191204015500 +0700" stop="20191204035500 +0700" channel="SuperSport HD 1">
     <title lang="en">Six Nations '19: WAL v IRE</title>
     <sub-title lang="en">Round 5: Wales vs Ireland</sub-title>
     <desc lang="en">'Round 5: Wales vs Ireland'. From Principality Stadium - Cardiff, Wales.(n)</desc>
@@ -26,7 +26,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204035500 +0000" stop="20191204055000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204035500 +0700" stop="20191204055000 +0700" channel="SuperSport HD 1">
     <title lang="en">Six Nations '19: ENG v SCO</title>
     <sub-title lang="en">Round 5: England vs Scotland</sub-title>
     <desc lang="en">'Round 5: England vs Scotland'. From Twickenham Stadium - London, England.(n)</desc>
@@ -35,7 +35,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204055000 +0000" stop="20191204060000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204055000 +0700" stop="20191204060000 +0700" channel="SuperSport HD 1">
     <title lang="en">Int Rugby HL '19: WAL v Barbarians</title>
     <sub-title lang="en">International Rugby Blitz Highlights - Wales vs Barbarians</sub-title>
     <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
@@ -44,7 +44,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204060000 +0000" stop="20191204063000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204060000 +0700" stop="20191204063000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
     <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
     <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
@@ -53,7 +53,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204063000 +0000" stop="20191204070000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204063000 +0700" stop="20191204070000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -62,7 +62,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204070000 +0000" stop="20191204084500 +0000" channel="SuperSport HD 1">
+  <programme start="20191204070000 +0700" stop="20191204084500 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 19/20: Connacht v Kings</title>
     <sub-title lang="en">GUINNESS PRO14 - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
     <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
@@ -71,7 +71,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204084500 +0000" stop="20191204085500 +0000" channel="SuperSport HD 1">
+  <programme start="20191204084500 +0700" stop="20191204085500 +0700" channel="SuperSport HD 1">
     <title lang="en">Int Rugby HL '19: WAL v Barbarians</title>
     <sub-title lang="en">International Rugby Blitz Highlights - Wales vs Barbarians</sub-title>
     <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
@@ -80,7 +80,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204085500 +0000" stop="20191204104000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204085500 +0700" stop="20191204104000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -89,7 +89,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204104000 +0000" stop="20191204122500 +0000" channel="SuperSport HD 1">
+  <programme start="20191204104000 +0700" stop="20191204122500 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 19/20: Munster v Edinburgh</title>
     <sub-title lang="en">GUINNESS PRO14 - Round 7: Munster Rugby vs Edinburgh Rugby</sub-title>
     <desc lang="en">From Irish Independent Park - Cork, Ireland.(n)</desc>
@@ -98,7 +98,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204122500 +0000" stop="20191204123000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204122500 +0700" stop="20191204123000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
     <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
     <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
@@ -107,7 +107,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204123000 +0000" stop="20191204123500 +0000" channel="SuperSport HD 1">
+  <programme start="20191204123000 +0700" stop="20191204123500 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -116,7 +116,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204123500 +0000" stop="20191204142500 +0000" channel="SuperSport HD 1">
+  <programme start="20191204123500 +0700" stop="20191204142500 +0700" channel="SuperSport HD 1">
     <title lang="en">Int Rugby '19: WAL v Barbarians</title>
     <sub-title lang="en">International Rugby - Wales vs Barbarians</sub-title>
     <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
@@ -125,7 +125,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204142500 +0000" stop="20191204143000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204142500 +0700" stop="20191204143000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -134,7 +134,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204143000 +0000" stop="20191204150000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204143000 +0700" stop="20191204150000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
     <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
     <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
@@ -143,7 +143,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204150000 +0000" stop="20191204153000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204150000 +0700" stop="20191204153000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -152,7 +152,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204153000 +0000" stop="20191204160000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204153000 +0700" stop="20191204160000 +0700" channel="SuperSport HD 1">
     <title lang="en">What a Weekend</title>
     <sub-title lang="en">19/47</sub-title>
     <desc lang="en">Missed anything from the past weekend's sports action? We've got all the trending moments and highlights for you right here.(n)</desc>
@@ -162,7 +162,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204160000 +0000" stop="20191204170000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204160000 +0700" stop="20191204170000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Story of Rugby</title>
     <sub-title lang="en">The Professional Game</sub-title>
     <desc lang="en">An epic six-part global documentary series that takes a cinematic exploration of the fastest growing major team sport in the word - rugby.(n)</desc>
@@ -172,7 +172,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204170000 +0000" stop="20191204173000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204170000 +0700" stop="20191204173000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Cheetah Chase</title>
     <sub-title lang="en">19/105</sub-title>
     <desc lang="en">A behind-the-scenes look at the Toyota Free State Cheetahs.(n)</desc>
@@ -182,7 +182,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204173000 +0000" stop="20191204180000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204173000 +0700" stop="20191204180000 +0700" channel="SuperSport HD 1">
     <title lang="en">Sharkbite TV</title>
     <sub-title lang="en">19/12</sub-title>
     <desc lang="en">A behind-the-scenes look at the Natal Sharks.(n)</desc>
@@ -192,7 +192,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204180000 +0000" stop="20191204190000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204180000 +0700" stop="20191204190000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Springboks: Glory in Japan</title>
     <sub-title lang="en">Glory in Japan</sub-title>
     <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
@@ -201,7 +201,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204190000 +0000" stop="20191204193000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204190000 +0700" stop="20191204193000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
     <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
     <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
@@ -210,7 +210,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204193000 +0000" stop="20191204200000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204193000 +0700" stop="20191204200000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -219,7 +219,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204200000 +0000" stop="20191204230000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204200000 +0700" stop="20191204230000 +0700" channel="SuperSport HD 1">
     <title lang="en">PGA 19/20: Hero World Challenge D1</title>
     <sub-title lang="en">PGA Tour - Hero World Challenge Day 1</sub-title>
     <desc lang="en">LIVE from Albany - New Providence, Bahamas.(n)</desc>
@@ -228,7 +228,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204230000 +0000" stop="20191205000000 +0000" channel="SuperSport HD 1">
+  <programme start="20191204230000 +0700" stop="20191205000000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Springboks: Glory in Japan</title>
     <sub-title lang="en">Glory in Japan</sub-title>
     <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
@@ -237,7 +237,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205000000 +0000" stop="20191205010000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205000000 +0700" stop="20191205010000 +0700" channel="SuperSport HD 1">
     <title lang="en">Schalk Burger</title>
     <sub-title lang="en">Documentary</sub-title>
     <desc lang="en">'Documentary'. Schalk Burger, the legendary Springbok, tells his story.(n)</desc>
@@ -246,7 +246,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205010000 +0000" stop="20191205013000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205010000 +0700" stop="20191205013000 +0700" channel="SuperSport HD 1">
     <title lang="en">RWC HL '19 QF1: ENG v AUS</title>
     <sub-title lang="en">Rugby World Cup Highlights - Quarter-final 1: England vs Australia</sub-title>
     <desc lang="en">From Oita Stadium - Oita, Japan.(n)</desc>
@@ -255,7 +255,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205013000 +0000" stop="20191205020000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205013000 +0700" stop="20191205020000 +0700" channel="SuperSport HD 1">
     <title lang="en">RWC HL '19 QF2: NZL v IRE</title>
     <sub-title lang="en">Rugby World Cup Highlights - Quarter-final 2: New Zealand vs Ireland</sub-title>
     <desc lang="en">From Tokyo Stadium - Tokyo, Japan.(n)</desc>
@@ -264,7 +264,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205020000 +0000" stop="20191205023000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205020000 +0700" stop="20191205023000 +0700" channel="SuperSport HD 1">
     <title lang="en">RWC HL '19 QF3: WAL v FRA</title>
     <sub-title lang="en">Rugby World Cup Highlights - Quarter-final 3: Wales vs France</sub-title>
     <desc lang="en">From Oita Stadium - Oita, Japan.(n)</desc>
@@ -273,7 +273,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205023000 +0000" stop="20191205030000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205023000 +0700" stop="20191205030000 +0700" channel="SuperSport HD 1">
     <title lang="en">RWC HL '19 QF4: JPN v RSA</title>
     <sub-title lang="en">Rugby World Cup Highlights - Quarter-final 4: Japan vs South Africa</sub-title>
     <desc lang="en">From Tokyo Stadium - Tokyo, Japan.(n)</desc>
@@ -282,7 +282,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205030000 +0000" stop="20191205033000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205030000 +0700" stop="20191205033000 +0700" channel="SuperSport HD 1">
     <title lang="en">RWC HL '19 SF1: ENG v NZL</title>
     <sub-title lang="en">Rugby World Cup Highlights - Semi-final 1: England vs New Zealand</sub-title>
     <desc lang="en">From International Stadium Yokohama - Yokohama, Japan.(n)</desc>
@@ -291,7 +291,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205033000 +0000" stop="20191205040000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205033000 +0700" stop="20191205040000 +0700" channel="SuperSport HD 1">
     <title lang="en">RWC HL '19 SF2: WAL v RSA</title>
     <sub-title lang="en">Rugby World Cup Highlights - Semi-final 2: Wales vs South Africa</sub-title>
     <desc lang="en">From International Stadium Yokohama - Yokohama, Japan.(n)</desc>
@@ -300,7 +300,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205040000 +0000" stop="20191205043000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205040000 +0700" stop="20191205043000 +0700" channel="SuperSport HD 1">
     <title lang="en">RWC HL '19 Bronze Final: NZL v WAL</title>
     <sub-title lang="en">Rugby World Cup Highlights - Bronze Final: New Zealand vs Wales</sub-title>
     <desc lang="en">From Tokyo Stadium - Tokyo, Japan.(n)</desc>
@@ -309,7 +309,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205043000 +0000" stop="20191205050000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205043000 +0700" stop="20191205050000 +0700" channel="SuperSport HD 1">
     <title lang="en">RWC HL '19 Final: ENG v RSA</title>
     <sub-title lang="en">Rugby World Cup Highlights - Final: England vs South Africa</sub-title>
     <desc lang="en">From International Stadium Yokohama - Yokohama, Japan.(n)</desc>
@@ -318,7 +318,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205050000 +0000" stop="20191205060000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205050000 +0700" stop="20191205060000 +0700" channel="SuperSport HD 1">
     <title lang="en">Cheslin Kolbe</title>
     <sub-title lang="en">Documentary</sub-title>
     <desc lang="en">'Documentary'. Cheslin Kolbe's heartwarming story and journey to the Springboks.(n)</desc>
@@ -327,7 +327,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205060000 +0000" stop="20191205070000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205060000 +0700" stop="20191205070000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Springboks: Glory in Japan</title>
     <sub-title lang="en">Glory in Japan</sub-title>
     <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
@@ -336,7 +336,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205070000 +0000" stop="20191205073000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205070000 +0700" stop="20191205073000 +0700" channel="SuperSport HD 1">
     <title lang="en">Sharkbite TV</title>
     <sub-title lang="en">19/12</sub-title>
     <desc lang="en">A behind-the-scenes look at the Natal Sharks.(n)</desc>
@@ -346,7 +346,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205073000 +0000" stop="20191205080000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205073000 +0700" stop="20191205080000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
     <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
     <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
@@ -355,7 +355,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205080000 +0000" stop="20191205083000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205080000 +0700" stop="20191205083000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -364,7 +364,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205083000 +0000" stop="20191205102000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205083000 +0700" stop="20191205102000 +0700" channel="SuperSport HD 1">
     <title lang="en">Int Rugby '19: WAL v Barbarians</title>
     <sub-title lang="en">International Rugby - Wales vs Barbarians</sub-title>
     <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
@@ -373,7 +373,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205102000 +0000" stop="20191205102500 +0000" channel="SuperSport HD 1">
+  <programme start="20191205102000 +0700" stop="20191205102500 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
     <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
     <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
@@ -382,7 +382,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205102500 +0000" stop="20191205103000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205102500 +0700" stop="20191205103000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -391,7 +391,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205103000 +0000" stop="20191205110000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205103000 +0700" stop="20191205110000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Cheetah Chase</title>
     <sub-title lang="en">19/105</sub-title>
     <desc lang="en">A behind-the-scenes look at the Toyota Free State Cheetahs.(n)</desc>
@@ -401,7 +401,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205110000 +0000" stop="20191205120000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205110000 +0700" stop="20191205120000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Springboks: Glory in Japan</title>
     <sub-title lang="en">Glory in Japan</sub-title>
     <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
@@ -410,7 +410,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205120000 +0000" stop="20191205123000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205120000 +0700" stop="20191205123000 +0700" channel="SuperSport HD 1">
     <title lang="en">RWC HL '19 Final: ENG v RSA</title>
     <sub-title lang="en">Rugby World Cup Highlights - Final: England vs South Africa</sub-title>
     <desc lang="en">From International Stadium Yokohama - Yokohama, Japan.(n)</desc>
@@ -419,7 +419,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205123000 +0000" stop="20191205124000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205123000 +0700" stop="20191205124000 +0700" channel="SuperSport HD 1">
     <title lang="en">Int Rugby HL '19: WAL v Barbarians</title>
     <sub-title lang="en">International Rugby Blitz Highlights - Wales vs Barbarians</sub-title>
     <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
@@ -428,7 +428,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205124000 +0000" stop="20191205131000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205124000 +0700" stop="20191205131000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: ESP v IRE</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Spain vs Ireland</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -437,7 +437,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205131000 +0000" stop="20191205133200 +0000" channel="SuperSport HD 1">
+  <programme start="20191205131000 +0700" stop="20191205133200 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: AUS v FIJ</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Australia vs Fiji</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -446,7 +446,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205133200 +0000" stop="20191205135600 +0000" channel="SuperSport HD 1">
+  <programme start="20191205133200 +0700" stop="20191205135600 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: CAN v RUS</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Canada vs Russia</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -455,7 +455,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205135600 +0000" stop="20191205141800 +0000" channel="SuperSport HD 1">
+  <programme start="20191205135600 +0700" stop="20191205141800 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: USA v BRA</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: USA vs Brazil</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -464,7 +464,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205141800 +0000" stop="20191205144000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205141800 +0700" stop="20191205144000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: FRA v ENG</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: France vs England</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -473,7 +473,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205144000 +0000" stop="20191205150200 +0000" channel="SuperSport HD 1">
+  <programme start="20191205144000 +0700" stop="20191205150200 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: NZL v JPN</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: New Zealand vs Japan</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -482,7 +482,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205150200 +0000" stop="20191205152600 +0000" channel="SuperSport HD 1">
+  <programme start="20191205150200 +0700" stop="20191205152600 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: SAM v CAN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Samoa vs Canada</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -491,7 +491,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205152600 +0000" stop="20191205154800 +0000" channel="SuperSport HD 1">
+  <programme start="20191205152600 +0700" stop="20191205154800 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: NZL v WAL</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: New Zealand vs Wales</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -500,7 +500,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205154800 +0000" stop="20191205161000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205154800 +0700" stop="20191205161000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: AUS v SCO</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Australia vs Scotland</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -509,7 +509,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205161000 +0000" stop="20191205163800 +0000" channel="SuperSport HD 1">
+  <programme start="20191205161000 +0700" stop="20191205163800 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: USA v IRE</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: USA vs Ireland</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -518,7 +518,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205163800 +0000" stop="20191205170000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205163800 +0700" stop="20191205170000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: FRA v ARG</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: France vs Argentina</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -527,7 +527,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205170000 +0000" stop="20191205173000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205170000 +0700" stop="20191205173000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: FIJ v JPN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Fiji vs Japan</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -536,7 +536,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205173000 +0000" stop="20191205175200 +0000" channel="SuperSport HD 1">
+  <programme start="20191205173000 +0700" stop="20191205175200 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: ENG v ESP</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: England vs Spain</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -545,7 +545,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205175200 +0000" stop="20191205183000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205175200 +0700" stop="20191205183000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -554,7 +554,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205183000 +0000" stop="20191205193000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205183000 +0700" stop="20191205193000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Springboks: Glory in Japan</title>
     <sub-title lang="en">Glory in Japan</sub-title>
     <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
@@ -563,7 +563,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205193000 +0000" stop="20191205195500 +0000" channel="SuperSport HD 1">
+  <programme start="20191205193000 +0700" stop="20191205195500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -572,7 +572,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205195500 +0000" stop="20191205200000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205195500 +0700" stop="20191205200000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -581,7 +581,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205200000 +0000" stop="20191205210000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205200000 +0700" stop="20191205210000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Story of Rugby</title>
     <sub-title lang="en">The Professional Game</sub-title>
     <desc lang="en">An epic six-part global documentary series that takes a cinematic exploration of the fastest growing major team sport in the word - rugby.(n)</desc>
@@ -591,7 +591,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205210000 +0000" stop="20191205212500 +0000" channel="SuperSport HD 1">
+  <programme start="20191205210000 +0700" stop="20191205212500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -600,7 +600,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205212500 +0000" stop="20191205222500 +0000" channel="SuperSport HD 1">
+  <programme start="20191205212500 +0700" stop="20191205222500 +0700" channel="SuperSport HD 1">
     <title lang="en">The Springboks: Glory in Japan</title>
     <sub-title lang="en">Glory in Japan</sub-title>
     <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
@@ -609,7 +609,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205222500 +0000" stop="20191205223000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205222500 +0700" stop="20191205223000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -618,7 +618,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205223000 +0000" stop="20191205230000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205223000 +0700" stop="20191205230000 +0700" channel="SuperSport HD 1">
     <title lang="en">Sharkbite TV</title>
     <sub-title lang="en">19/12</sub-title>
     <desc lang="en">A behind-the-scenes look at the Natal Sharks.(n)</desc>
@@ -628,7 +628,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205230000 +0000" stop="20191206000000 +0000" channel="SuperSport HD 1">
+  <programme start="20191205230000 +0700" stop="20191206000000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Story of Rugby</title>
     <sub-title lang="en">The Professional Game</sub-title>
     <desc lang="en">An epic six-part global documentary series that takes a cinematic exploration of the fastest growing major team sport in the word - rugby.(n)</desc>
@@ -638,7 +638,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206000000 +0000" stop="20191206014500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206000000 +0700" stop="20191206014500 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 19/20: Connacht v Kings</title>
     <sub-title lang="en">GUINNESS PRO14 - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
     <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
@@ -647,7 +647,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206014500 +0000" stop="20191206015000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206014500 +0700" stop="20191206015000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -656,7 +656,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206015000 +0000" stop="20191206033500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206015000 +0700" stop="20191206033500 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -665,7 +665,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206033500 +0000" stop="20191206034000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206033500 +0700" stop="20191206034000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -674,7 +674,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206034000 +0000" stop="20191206052500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206034000 +0700" stop="20191206052500 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 19/20: Munster v Edinburgh</title>
     <sub-title lang="en">GUINNESS PRO14 - Round 7: Munster Rugby vs Edinburgh Rugby</sub-title>
     <desc lang="en">From Irish Independent Park - Cork, Ireland.(n)</desc>
@@ -683,7 +683,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206052500 +0000" stop="20191206055000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206052500 +0700" stop="20191206055000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -692,7 +692,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206055000 +0000" stop="20191206055500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206055000 +0700" stop="20191206055500 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
     <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
     <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
@@ -701,7 +701,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206055500 +0000" stop="20191206060000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206055500 +0700" stop="20191206060000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -710,7 +710,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206060000 +0000" stop="20191206060500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206060000 +0700" stop="20191206060500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -719,7 +719,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206060500 +0000" stop="20191206061500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206060500 +0700" stop="20191206061500 +0700" channel="SuperSport HD 1">
     <title lang="en">Int Rugby HL '19: WAL v Barbarians</title>
     <sub-title lang="en">International Rugby Blitz Highlights - Wales vs Barbarians</sub-title>
     <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
@@ -728,7 +728,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206061500 +0000" stop="20191206062000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206061500 +0700" stop="20191206062000 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
     <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
     <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
@@ -737,7 +737,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206062000 +0000" stop="20191206062500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206062000 +0700" stop="20191206062500 +0700" channel="SuperSport HD 1">
     <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
     <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
     <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
@@ -746,7 +746,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206062500 +0000" stop="20191206065000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206062500 +0700" stop="20191206065000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -755,7 +755,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206065000 +0000" stop="20191206072000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206065000 +0700" stop="20191206072000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: ESP v FIJ</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Spain vs Fiji</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -764,7 +764,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206072000 +0000" stop="20191206074200 +0000" channel="SuperSport HD 1">
+  <programme start="20191206072000 +0700" stop="20191206074200 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: AUS v IRE</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Australia vs Ireland</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -773,7 +773,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206074200 +0000" stop="20191206080400 +0000" channel="SuperSport HD 1">
+  <programme start="20191206074200 +0700" stop="20191206080400 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: CAN v BRA</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Canada vs Brazil</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -782,7 +782,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206080400 +0000" stop="20191206082600 +0000" channel="SuperSport HD 1">
+  <programme start="20191206080400 +0700" stop="20191206082600 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: USA v RUS</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: USA vs Russia</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -791,7 +791,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206082600 +0000" stop="20191206084800 +0000" channel="SuperSport HD 1">
+  <programme start="20191206082600 +0700" stop="20191206084800 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: FRA v JPN</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: France vs Japan</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -800,7 +800,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206084800 +0000" stop="20191206091000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206084800 +0700" stop="20191206091000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: NZL v ENG</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: New Zealand vs England</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -809,7 +809,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206091000 +0000" stop="20191206093400 +0000" channel="SuperSport HD 1">
+  <programme start="20191206091000 +0700" stop="20191206093400 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: SAM v WAL</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Samoa vs Wales</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -818,7 +818,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206093400 +0000" stop="20191206095600 +0000" channel="SuperSport HD 1">
+  <programme start="20191206093400 +0700" stop="20191206095600 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: NZL v CAN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: New Zealand vs Canada</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -827,7 +827,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206095600 +0000" stop="20191206101800 +0000" channel="SuperSport HD 1">
+  <programme start="20191206095600 +0700" stop="20191206101800 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: AUS v IRE</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Australia vs Ireland</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -836,7 +836,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206101800 +0000" stop="20191206104000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206101800 +0700" stop="20191206104000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: USA v SCO</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: USA vs Scotland</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -845,7 +845,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206104000 +0000" stop="20191206110200 +0000" channel="SuperSport HD 1">
+  <programme start="20191206104000 +0700" stop="20191206110200 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: FRA v JPN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: France vs Japan</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -854,7 +854,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206110200 +0000" stop="20191206112400 +0000" channel="SuperSport HD 1">
+  <programme start="20191206110200 +0700" stop="20191206112400 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: FIJ v ARG</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Fiji vs Argentina</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -863,7 +863,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206112400 +0000" stop="20191206114600 +0000" channel="SuperSport HD 1">
+  <programme start="20191206112400 +0700" stop="20191206114600 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: ENG v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: England vs Kenya</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -872,7 +872,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206114600 +0000" stop="20191206121000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206114600 +0700" stop="20191206121000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -881,7 +881,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206121000 +0000" stop="20191206123200 +0000" channel="SuperSport HD 1">
+  <programme start="20191206121000 +0700" stop="20191206123200 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: IRE v FIJ</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Ireland vs Fiji</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -890,7 +890,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206123200 +0000" stop="20191206125400 +0000" channel="SuperSport HD 1">
+  <programme start="20191206123200 +0700" stop="20191206125400 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: AUS v ESP</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Australia vs Spain</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -899,7 +899,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206125400 +0000" stop="20191206131600 +0000" channel="SuperSport HD 1">
+  <programme start="20191206125400 +0700" stop="20191206131600 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: RUS v BRA</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Russia vs Brazil</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -908,7 +908,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206131600 +0000" stop="20191206133800 +0000" channel="SuperSport HD 1">
+  <programme start="20191206131600 +0700" stop="20191206133800 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: USA v CAN</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: USA vs Canada</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -917,7 +917,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206133800 +0000" stop="20191206140000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206133800 +0700" stop="20191206140000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: ENG v JPN</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: England vs Japan</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -926,7 +926,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206140000 +0000" stop="20191206143000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206140000 +0700" stop="20191206143000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai: NZL v FRA</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: New Zealand vs France</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -935,7 +935,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206143000 +0000" stop="20191206145500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206143000 +0700" stop="20191206145500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -944,7 +944,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206145500 +0000" stop="20191206150000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206145500 +0700" stop="20191206150000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: ENG v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: England vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -953,7 +953,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206150000 +0000" stop="20191206152600 +0000" channel="SuperSport HD 1">
+  <programme start="20191206150000 +0700" stop="20191206152600 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: CAN v WAL</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Canada vs Wales</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -962,7 +962,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206152600 +0000" stop="20191206154800 +0000" channel="SuperSport HD 1">
+  <programme start="20191206152600 +0700" stop="20191206154800 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: NZL v SAM</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: New Zealand vs Samoa</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -971,7 +971,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206154800 +0000" stop="20191206161000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206154800 +0700" stop="20191206161000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: SCO v IRE</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Scotland vs Ireland</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -980,7 +980,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206161000 +0000" stop="20191206163800 +0000" channel="SuperSport HD 1">
+  <programme start="20191206161000 +0700" stop="20191206163800 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: USA v AUS</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: USA vs Australia</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -989,7 +989,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206163800 +0000" stop="20191206170000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206163800 +0700" stop="20191206170000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: ARG v JPN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Argentina vs Japan</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -998,7 +998,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206170000 +0000" stop="20191206172500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206170000 +0700" stop="20191206172500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: FIJ v FRA</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Fiji vs France</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1007,7 +1007,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206172500 +0000" stop="20191206173000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206172500 +0700" stop="20191206173000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v ESP</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Spain</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1016,7 +1016,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206173000 +0000" stop="20191206175200 +0000" channel="SuperSport HD 1">
+  <programme start="20191206173000 +0700" stop="20191206175200 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: ESP v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Spain vs Kenya</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1025,7 +1025,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206175200 +0000" stop="20191206183000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206175200 +0700" stop="20191206183000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v ENG</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs England</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1034,7 +1034,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206183000 +0000" stop="20191206190000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206183000 +0700" stop="20191206190000 +0700" channel="SuperSport HD 1">
     <title lang="en">World Rugby Show</title>
     <sub-title lang="en">19/253</sub-title>
     <desc lang="en">Keep up to date with all the latest rugby news from World Rugby.(n)</desc>
@@ -1044,7 +1044,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206190000 +0000" stop="20191206192500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206190000 +0700" stop="20191206192500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1053,7 +1053,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206192500 +0000" stop="20191206195000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206192500 +0700" stop="20191206195000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1062,7 +1062,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206195000 +0000" stop="20191206201500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206195000 +0700" stop="20191206201500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v ENG</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs England</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1071,7 +1071,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206201500 +0000" stop="20191206202000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206201500 +0700" stop="20191206202000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: ENG v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: England vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1080,7 +1080,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206202000 +0000" stop="20191206202500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206202000 +0700" stop="20191206202500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: ESP v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: Spain vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1089,7 +1089,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206202500 +0000" stop="20191206205000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206202500 +0700" stop="20191206205000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1098,7 +1098,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206205000 +0000" stop="20191206211500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206205000 +0700" stop="20191206211500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1107,7 +1107,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206211500 +0000" stop="20191206214000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206211500 +0700" stop="20191206214000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v ENG</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs England</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1116,7 +1116,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206214000 +0000" stop="20191206234500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206214000 +0700" stop="20191206234500 +0700" channel="SuperSport HD 1">
     <title lang="en">HCC 19/20: Bath v Clermont</title>
     <sub-title lang="en">Heineken Champions Cup - Round 3: Bath Rugby vs ASM Clermont Auvergne</sub-title>
     <desc lang="en">LIVE from Recreation Ground - Bath, England.(n)</desc>
@@ -1125,7 +1125,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206234500 +0000" stop="20191206235000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206234500 +0700" stop="20191206235000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1134,7 +1134,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206235000 +0000" stop="20191206235500 +0000" channel="SuperSport HD 1">
+  <programme start="20191206235000 +0700" stop="20191206235500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v ESP</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Spain</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1143,7 +1143,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206235500 +0000" stop="20191207000000 +0000" channel="SuperSport HD 1">
+  <programme start="20191206235500 +0700" stop="20191207000000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v ENG</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs England</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1152,7 +1152,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207000000 +0000" stop="20191207015000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207000000 +0700" stop="20191207015000 +0700" channel="SuperSport HD 1">
     <title lang="en">Int Rugby '19: WAL v Barbarians</title>
     <sub-title lang="en">International Rugby - Wales vs Barbarians</sub-title>
     <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
@@ -1161,7 +1161,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207015000 +0000" stop="20191207015500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207015000 +0700" stop="20191207015500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1170,7 +1170,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207015500 +0000" stop="20191207020000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207015500 +0700" stop="20191207020000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: ENG v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: England vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1179,7 +1179,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207020000 +0000" stop="20191207020500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207020000 +0700" stop="20191207020500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: ESP v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: Spain vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1188,7 +1188,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207020500 +0000" stop="20191207023000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207020500 +0700" stop="20191207023000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1197,7 +1197,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207023000 +0000" stop="20191207025500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207023000 +0700" stop="20191207025500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1206,7 +1206,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207025500 +0000" stop="20191207032000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207025500 +0700" stop="20191207032000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v ENG</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs England</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1215,7 +1215,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207032000 +0000" stop="20191207042000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207032000 +0700" stop="20191207042000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Springboks: Glory in Japan</title>
     <sub-title lang="en">Glory in Japan</sub-title>
     <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
@@ -1224,7 +1224,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207042000 +0000" stop="20191207044500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207042000 +0700" stop="20191207044500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1233,7 +1233,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207044500 +0000" stop="20191207051000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207044500 +0700" stop="20191207051000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: ENG v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: England vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1242,7 +1242,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207051000 +0000" stop="20191207053500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207051000 +0700" stop="20191207053500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: ESP v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Spain vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1251,7 +1251,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207053500 +0000" stop="20191207060000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207053500 +0700" stop="20191207060000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1260,7 +1260,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207060000 +0000" stop="20191207062500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207060000 +0700" stop="20191207062500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1269,7 +1269,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207062500 +0000" stop="20191207065000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207062500 +0700" stop="20191207065000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai: RSA v ENG</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs England</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1278,7 +1278,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207065000 +0000" stop="20191207072000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207065000 +0700" stop="20191207072000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai 11th P/O</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai 11th Place Play-off</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1287,7 +1287,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207072000 +0000" stop="20191207074200 +0000" channel="SuperSport HD 1">
+  <programme start="20191207072000 +0700" stop="20191207074200 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai 9th P/O</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai 9th Place Play-off</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1296,7 +1296,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207074200 +0000" stop="20191207080400 +0000" channel="SuperSport HD 1">
+  <programme start="20191207074200 +0700" stop="20191207080400 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai Cup QF1</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Quarter-final 1</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1305,7 +1305,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207080400 +0000" stop="20191207082600 +0000" channel="SuperSport HD 1">
+  <programme start="20191207080400 +0700" stop="20191207082600 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai Cup QF2</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Quarter-final 2</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1314,7 +1314,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207082600 +0000" stop="20191207084800 +0000" channel="SuperSport HD 1">
+  <programme start="20191207082600 +0700" stop="20191207084800 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai Cup QF3</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Quarter-final 3</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1323,7 +1323,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207084800 +0000" stop="20191207091000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207084800 +0700" stop="20191207091000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai Cup QF4</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Quarter-final 4</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1332,7 +1332,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207091000 +0000" stop="20191207093400 +0000" channel="SuperSport HD 1">
+  <programme start="20191207091000 +0700" stop="20191207093400 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup QF1</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Quarter-final 1</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1341,7 +1341,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207093400 +0000" stop="20191207095600 +0000" channel="SuperSport HD 1">
+  <programme start="20191207093400 +0700" stop="20191207095600 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup QF2</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Quarter-final 2</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1350,7 +1350,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207095600 +0000" stop="20191207101800 +0000" channel="SuperSport HD 1">
+  <programme start="20191207095600 +0700" stop="20191207101800 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup QF3</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Quarter-final 3</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1359,7 +1359,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207101800 +0000" stop="20191207104500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207101800 +0700" stop="20191207104500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup QF4</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Quarter-final 4</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1368,7 +1368,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207104500 +0000" stop="20191207105100 +0000" channel="SuperSport HD 1">
+  <programme start="20191207104500 +0700" stop="20191207105100 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1377,7 +1377,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207105100 +0000" stop="20191207105700 +0000" channel="SuperSport HD 1">
+  <programme start="20191207105100 +0700" stop="20191207105700 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v ESP</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Spain</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1386,7 +1386,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207105700 +0000" stop="20191207110300 +0000" channel="SuperSport HD 1">
+  <programme start="20191207105700 +0700" stop="20191207110300 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai: RSA v ENG</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs England</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1395,7 +1395,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207110300 +0000" stop="20191207110900 +0000" channel="SuperSport HD 1">
+  <programme start="20191207110300 +0700" stop="20191207110900 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20: Dubai Cup QF1</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai Cup Quarter-final 1</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1404,7 +1404,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207110900 +0000" stop="20191207111500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207110900 +0700" stop="20191207111500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai Cup QF2</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai Cup Quarter-final 2</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1413,7 +1413,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207111500 +0000" stop="20191207112000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207111500 +0700" stop="20191207112000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai Cup QF3</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai Cup Quarter-final 3</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1422,7 +1422,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207112000 +0000" stop="20191207112500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207112000 +0700" stop="20191207112500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai Cup QF4</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai Cup Quarter-final 4</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1431,7 +1431,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207112500 +0000" stop="20191207115000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207112500 +0700" stop="20191207115000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai 15th P/O</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai 15th Place Play-off</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1440,7 +1440,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207115000 +0000" stop="20191207121200 +0000" channel="SuperSport HD 1">
+  <programme start="20191207115000 +0700" stop="20191207121200 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai 13th P/O</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai 13th Place Play-off</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1449,7 +1449,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207121200 +0000" stop="20191207123400 +0000" channel="SuperSport HD 1">
+  <programme start="20191207121200 +0700" stop="20191207123400 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai Cup SF1</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Semi-final 1</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1458,7 +1458,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207123400 +0000" stop="20191207125600 +0000" channel="SuperSport HD 1">
+  <programme start="20191207123400 +0700" stop="20191207125600 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai Cup SF2</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Semi-final 2</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1467,7 +1467,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207125600 +0000" stop="20191207132000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207125600 +0700" stop="20191207132000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup SF1</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Semi-final 1</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1476,7 +1476,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207132000 +0000" stop="20191207134200 +0000" channel="SuperSport HD 1">
+  <programme start="20191207132000 +0700" stop="20191207134200 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup SF2</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Semi-final 2</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1485,7 +1485,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207134200 +0000" stop="20191207140400 +0000" channel="SuperSport HD 1">
+  <programme start="20191207134200 +0700" stop="20191207140400 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai 11th P/O</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai 11th Place Play-off</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1494,7 +1494,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207140400 +0000" stop="20191207143000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207140400 +0700" stop="20191207143000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai 9th P/O</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai 9th Place Play-off</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1503,7 +1503,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207143000 +0000" stop="20191207143500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207143000 +0700" stop="20191207143500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 KEN Final Match</title>
     <sub-title lang="en">Kenya Final match</sub-title>
     <desc lang="en">'Kenya Final match'. World Rugby HSBC Sevens Series Blitz Highlights 2019/20. Kenya Final Match.(n)</desc>
@@ -1512,7 +1512,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207143500 +0000" stop="20191207144000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207143500 +0700" stop="20191207144000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 RSA QF Match</title>
     <sub-title lang="en">South Africa Quarter-final match</sub-title>
     <desc lang="en">'South Africa Quarter-final match'. World Rugby HSBC Sevens Series Blitz Highlights 2019/20. South Africa Quarter-final Match.(n)</desc>
@@ -1521,7 +1521,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207144000 +0000" stop="20191207150500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207144000 +0700" stop="20191207150500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup SF1</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Semi-final 1</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1530,7 +1530,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207150500 +0000" stop="20191207153000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207150500 +0700" stop="20191207153000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup SF2</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Semi-final 2</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1539,7 +1539,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207153000 +0000" stop="20191207155500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207153000 +0700" stop="20191207155500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai Bronze Final</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Bronze Final</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1548,7 +1548,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207155500 +0000" stop="20191207162500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207155500 +0700" stop="20191207162500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Bronze Final</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Bronze Final</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1557,7 +1557,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207162500 +0000" stop="20191207165700 +0000" channel="SuperSport HD 1">
+  <programme start="20191207162500 +0700" stop="20191207165700 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 (W) Dubai Cup Final</title>
     <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Final</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1566,7 +1566,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207165700 +0000" stop="20191207173500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207165700 +0700" stop="20191207173500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup Final</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Final</sub-title>
     <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1575,7 +1575,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207173500 +0000" stop="20191207180500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207173500 +0700" stop="20191207180500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Bronze Final</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Bronze Final</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1584,7 +1584,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207180500 +0000" stop="20191207183500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207180500 +0700" stop="20191207183500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup Final</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Final</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1593,7 +1593,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207183500 +0000" stop="20191207184000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207183500 +0700" stop="20191207184000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai 9th P/O</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai 9th Place Play-off</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1602,7 +1602,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207184000 +0000" stop="20191207184500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207184000 +0700" stop="20191207184500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 Dubai Bronze Final</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai Bronze Final</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1611,7 +1611,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207184500 +0000" stop="20191207191500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207184500 +0700" stop="20191207191500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup Final</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Final</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1620,7 +1620,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207191500 +0000" stop="20191207192000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207191500 +0700" stop="20191207192000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 KEN Final Match</title>
     <sub-title lang="en">Kenya Final match</sub-title>
     <desc lang="en">'Kenya Final match'. World Rugby HSBC Sevens Series Blitz Highlights 2019/20. Kenya Final Match.(n)</desc>
@@ -1629,7 +1629,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207192000 +0000" stop="20191207192500 +0000" channel="SuperSport HD 1">
+  <programme start="20191207192000 +0700" stop="20191207192500 +0700" channel="SuperSport HD 1">
     <title lang="en">7s HL 19/20 RSA Final Match</title>
     <sub-title lang="en">South Africa Final match</sub-title>
     <desc lang="en">'South Africa Final match'. World Rugby HSBC Sevens Series Blitz Highlights 2019/20. South Africa Final Match.(n)</desc>
@@ -1638,7 +1638,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207192500 +0000" stop="20191207213000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207192500 +0700" stop="20191207213000 +0700" channel="SuperSport HD 1">
     <title lang="en">HCC 19/20: Munster v Saracens</title>
     <sub-title lang="en">Heineken Champions Cup - Round 3: Munster Rugby vs Saracens</sub-title>
     <desc lang="en">LIVE from Thomond Park - Limerick, Ireland.(n)</desc>
@@ -1647,7 +1647,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207213000 +0000" stop="20191207220000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207213000 +0700" stop="20191207220000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup Final</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Final</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1656,7 +1656,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207220000 +0000" stop="20191207230000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207220000 +0700" stop="20191207230000 +0700" channel="SuperSport HD 1">
     <title lang="en">The Springboks: Glory in Japan</title>
     <sub-title lang="en">Glory in Japan</sub-title>
     <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
@@ -1665,7 +1665,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207230000 +0000" stop="20191207233000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207230000 +0700" stop="20191207233000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Bronze Final</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Bronze Final</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1674,7 +1674,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207233000 +0000" stop="20191208000000 +0000" channel="SuperSport HD 1">
+  <programme start="20191207233000 +0700" stop="20191208000000 +0700" channel="SuperSport HD 1">
     <title lang="en">7s 19/20 Dubai Cup Final</title>
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Final</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
@@ -1683,7 +1683,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204001500 +0000" stop="20191204010000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204001500 +0700" stop="20191204010000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Wrap</title>
     <sub-title lang="en">Matchday 15: Burnley vs Manchester City</sub-title>
     <desc lang="en">'Matchday 15: Burnley vs Manchester City'. LIVE from Turf Moor - Burnley, England.(n)</desc>
@@ -1692,7 +1692,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204010000 +0000" stop="20191204025000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204010000 +0700" stop="20191204025000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: C Palace v B'mouth</title>
     <sub-title lang="en">Premier League - Matchday 15: Crystal Palace vs AFC Bournemouth</sub-title>
     <desc lang="en">From Selhurst Park - London, England.(n)</desc>
@@ -1701,7 +1701,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204025000 +0000" stop="20191204044000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204025000 +0700" stop="20191204044000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Burnley v Man City</title>
     <sub-title lang="en">Premier League - Matchday 15: Burnley vs Manchester City</sub-title>
     <desc lang="en">From Turf Moor - Burnley, England.(n)</desc>
@@ -1710,7 +1710,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204044000 +0000" stop="20191204060000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204044000 +0700" stop="20191204060000 +0700" channel="SuperSport HD 3">
     <title lang="en">Ballon d'Or 19: Ceremony</title>
     <sub-title lang="en">Ceremony</sub-title>
     <desc lang="en">'Ceremony'. The 2019 Ballon d'Or is the 54th annual award ceremony recognizing the best footballer in the world.(n)</desc>
@@ -1719,7 +1719,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204060000 +0000" stop="20191204063000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204060000 +0700" stop="20191204063000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Latest HL 19/20</title>
     <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
     <desc lang="en">A highlights package from the latest round.(n)</desc>
@@ -1728,7 +1728,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204063000 +0000" stop="20191204083000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204063000 +0700" stop="20191204083000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Burnley v Man City</title>
     <sub-title lang="en">Premier League - Matchday 15: Burnley vs Manchester City</sub-title>
     <desc lang="en">From Turf Moor - Burnley, England.(n)</desc>
@@ -1737,7 +1737,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204083000 +0000" stop="20191204103000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204083000 +0700" stop="20191204103000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: C Palace v B'mouth</title>
     <sub-title lang="en">Premier League - Matchday 15: Crystal Palace vs AFC Bournemouth</sub-title>
     <desc lang="en">From Selhurst Park - London, England.(n)</desc>
@@ -1746,7 +1746,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204103000 +0000" stop="20191204123000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204103000 +0700" stop="20191204123000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Burnley v Man City</title>
     <sub-title lang="en">Premier League - Matchday 15: Burnley vs Manchester City</sub-title>
     <desc lang="en">From Turf Moor - Burnley, England.(n)</desc>
@@ -1755,7 +1755,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204123000 +0000" stop="20191204130000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204123000 +0700" stop="20191204130000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League World</title>
     <sub-title lang="en">20/17</sub-title>
     <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
@@ -1765,7 +1765,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204130000 +0000" stop="20191204133000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204130000 +0700" stop="20191204133000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Today 19/20</title>
     <sub-title lang="en">4 December - Afternoon</sub-title>
     <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
@@ -1774,7 +1774,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204133000 +0000" stop="20191204145000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204133000 +0700" stop="20191204145000 +0700" channel="SuperSport HD 3">
     <title lang="en">Ballon d'Or 19 Ceremony</title>
     <sub-title lang="en">Ceremony</sub-title>
     <desc lang="en">'Ceremony'. The 2019 Ballon d'Or is the 54th annual award ceremony recognizing the best footballer in the world.(n)</desc>
@@ -1783,7 +1783,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204145000 +0000" stop="20191204145500 +0000" channel="SuperSport HD 3">
+  <programme start="20191204145000 +0700" stop="20191204145500 +0700" channel="SuperSport HD 3">
     <title lang="en">PL HL 19/20: Burnley v Man City</title>
     <sub-title lang="en">Premier League Blitz Highlights - Matchday 15: Burnley vs Manchester City</sub-title>
     <desc lang="en">From Turf Moor - Burnley, England.(n)</desc>
@@ -1792,7 +1792,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204145500 +0000" stop="20191204150000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204145500 +0700" stop="20191204150000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL HL 19/20: C Palace v B'mouth</title>
     <sub-title lang="en">Premier League Blitz Highlights - Matchday 15: Crystal Palace vs AFC Bournemouth</sub-title>
     <desc lang="en">From Selhurst Park - London, England.(n)</desc>
@@ -1801,7 +1801,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204150000 +0000" stop="20191204163000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204150000 +0700" stop="20191204163000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: The Analysis Show</title>
     <sub-title lang="en">1/17</sub-title>
     <desc lang="en">Our first look ahead to the weekend's fixtures using detailed analysis and the latest technology, the studio team examine key fixtures, talk tactics and how clubs may approach matches.(n)</desc>
@@ -1811,7 +1811,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204163000 +0000" stop="20191204170000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204163000 +0700" stop="20191204170000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: The Big Interview</title>
     <sub-title lang="en">1/17</sub-title>
     <desc lang="en">A chance to hear from the biggest and most interesting names in the Premier League, in a more considered sit-down interview format.(n)</desc>
@@ -1821,7 +1821,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204170000 +0000" stop="20191204173000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204170000 +0700" stop="20191204173000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Today 19/20</title>
     <sub-title lang="en">4 December - Late Afternoon</sub-title>
     <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
@@ -1830,7 +1830,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204173000 +0000" stop="20191204180000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204173000 +0700" stop="20191204180000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Fan Zone 19/20</title>
     <sub-title lang="en">4 December</sub-title>
     <desc lang="en">'4 December'. Join the debate as we discuss the major news and issues of the day from the Premier League.(n)</desc>
@@ -1839,7 +1839,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204180000 +0000" stop="20191204200000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204180000 +0700" stop="20191204200000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Burnley v Man City</title>
     <sub-title lang="en">Premier League - Matchday 15: Burnley vs Manchester City</sub-title>
     <desc lang="en">From Turf Moor - Burnley, England.(n)</desc>
@@ -1848,7 +1848,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204200000 +0000" stop="20191204203000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204200000 +0700" stop="20191204203000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Today 19/20</title>
     <sub-title lang="en">4 December - Evening</sub-title>
     <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
@@ -1857,7 +1857,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204203000 +0000" stop="20191204212000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204203000 +0700" stop="20191204212000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Build Up</title>
     <sub-title lang="en">Matchday 15: Manchester United vs Tottenham Hotspur</sub-title>
     <desc lang="en">'Matchday 15: Manchester United vs Tottenham Hotspur'. Jose Mourinho makes a return to Old Trafford as Spurs take on United. Will Jose get one over his previous employers or will United continue their 5 game unbeaten home record?(n)</desc>
@@ -1866,7 +1866,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204212000 +0000" stop="20191204233000 +0000" channel="SuperSport HD 3">
+  <programme start="20191204212000 +0700" stop="20191204233000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Man Utd v Tottenham</title>
     <sub-title lang="en">Premier League - Matchday 15: Manchester United vs Tottenham Hotspur</sub-title>
     <desc lang="en">LIVE from Old Trafford - Manchester, England.(n)</desc>
@@ -1875,7 +1875,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191204233000 +0000" stop="20191205001500 +0000" channel="SuperSport HD 3">
+  <programme start="20191204233000 +0700" stop="20191205001500 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Liverpool v Everton</title>
     <sub-title lang="en">Premier League - Matchday 15: Liverpool vs Everton</sub-title>
     <desc lang="en">LIVE from Anfield - Liverpool, England.(n)</desc>
@@ -1884,7 +1884,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205001500 +0000" stop="20191205013000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205001500 +0700" stop="20191205013000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Wrap</title>
     <sub-title lang="en">Matchday 15</sub-title>
     <desc lang="en">'Matchday 15'. A wrap of the Premier league action.(n)</desc>
@@ -1893,7 +1893,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205013000 +0000" stop="20191205020000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205013000 +0700" stop="20191205020000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League World</title>
     <sub-title lang="en">20/18</sub-title>
     <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
@@ -1903,7 +1903,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205020000 +0000" stop="20191205040000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205020000 +0700" stop="20191205040000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Chelsea v A Villa</title>
     <sub-title lang="en">Premier League - Matchday 15: Chelsea vs Aston Villa</sub-title>
     <desc lang="en">From Stamford Bridge - London, England.(n)</desc>
@@ -1912,7 +1912,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205040000 +0000" stop="20191205060000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205040000 +0700" stop="20191205060000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: S'hampton v Norwich</title>
     <sub-title lang="en">Premier League - Matchday 15: Southampton vs Norwich</sub-title>
     <desc lang="en">From St Mary's Stadium - Southampton, England.(n)</desc>
@@ -1921,7 +1921,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205060000 +0000" stop="20191205063000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205060000 +0700" stop="20191205063000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Latest HL 19/20</title>
     <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
     <desc lang="en">A highlights package from the latest round.(n)</desc>
@@ -1930,7 +1930,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205063000 +0000" stop="20191205070000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205063000 +0700" stop="20191205070000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Latest HL 19/20</title>
     <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
     <desc lang="en">A highlights package from the latest round.(n)</desc>
@@ -1939,7 +1939,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205070000 +0000" stop="20191205090000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205070000 +0700" stop="20191205090000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Man Utd v Tottenham</title>
     <sub-title lang="en">Premier League - Matchday 15: Manchester United vs Tottenham Hotspur</sub-title>
     <desc lang="en">From Old Trafford - Manchester, England.(n)</desc>
@@ -1948,7 +1948,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205090000 +0000" stop="20191205110000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205090000 +0700" stop="20191205110000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Liverpool v Everton</title>
     <sub-title lang="en">Premier League - Matchday 15: Liverpool vs Everton</sub-title>
     <desc lang="en">From Anfield - Liverpool, England.(n)</desc>
@@ -1957,7 +1957,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205110000 +0000" stop="20191205130000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205110000 +0700" stop="20191205130000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Leicester v Watford</title>
     <sub-title lang="en">Premier League - Matchday 15: Leicester City vs Watford</sub-title>
     <desc lang="en">From King Power Stadium - Leicester, England.(n)</desc>
@@ -1966,7 +1966,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205130000 +0000" stop="20191205133000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205130000 +0700" stop="20191205133000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Today 19/20</title>
     <sub-title lang="en">5 December - Afternoon</sub-title>
     <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
@@ -1975,7 +1975,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205133000 +0000" stop="20191205140000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205133000 +0700" stop="20191205140000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League World</title>
     <sub-title lang="en">20/18</sub-title>
     <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
@@ -1985,7 +1985,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205140000 +0000" stop="20191205143000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205140000 +0700" stop="20191205143000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Gary Neville's Soccerbox</title>
     <sub-title lang="en">Episode 6 - Jamie Carragher</sub-title>
     <desc lang="en">Soccerbox features Manchester United legend Gary Neville in conversation with a former rival or team-mate, as they watch through some of the most compelling matches they played in.(n)</desc>
@@ -1994,7 +1994,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205143000 +0000" stop="20191205163000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205143000 +0700" stop="20191205163000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Midweek Review 19/20</title>
     <sub-title lang="en">4 December - Wednesday</sub-title>
     <desc lang="en">PLTV: Midweek Review 2019/20.(n)</desc>
@@ -2003,7 +2003,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205163000 +0000" stop="20191205170000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205163000 +0700" stop="20191205170000 +0700" channel="SuperSport HD 3">
     <title lang="en">Pl: 100</title>
     <sub-title lang="en">Owen</sub-title>
     <desc lang="en">A programme that celebrates the elite group of players who have scored more than 100 Premier League goals.(n)</desc>
@@ -2013,7 +2013,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205170000 +0000" stop="20191205173000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205170000 +0700" stop="20191205173000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Today 19/20</title>
     <sub-title lang="en">5 December - Late Afternoon</sub-title>
     <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
@@ -2022,7 +2022,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205173000 +0000" stop="20191205180000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205173000 +0700" stop="20191205180000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Fan Zone 19/20</title>
     <sub-title lang="en">5 December</sub-title>
     <desc lang="en">'5 December'. Join the debate as we discuss the major news and issues of the day from the Premier League.(n)</desc>
@@ -2031,7 +2031,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205180000 +0000" stop="20191205200000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205180000 +0700" stop="20191205200000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Liverpool v Everton</title>
     <sub-title lang="en">Premier League - Matchday 15: Liverpool vs Everton</sub-title>
     <desc lang="en">From Anfield - Liverpool, England.(n)</desc>
@@ -2040,7 +2040,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205200000 +0000" stop="20191205203000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205200000 +0700" stop="20191205203000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Today 19/20</title>
     <sub-title lang="en">5 December - Evening</sub-title>
     <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
@@ -2049,7 +2049,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205203000 +0000" stop="20191205210000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205203000 +0700" stop="20191205210000 +0700" channel="SuperSport HD 3">
     <title lang="en">Pl: 100</title>
     <sub-title lang="en">Owen</sub-title>
     <desc lang="en">A programme that celebrates the elite group of players who have scored more than 100 Premier League goals.(n)</desc>
@@ -2059,7 +2059,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205210000 +0000" stop="20191205213000 +0000" channel="SuperSport HD 3">
+  <programme start="20191205210000 +0700" stop="20191205213000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Latest HL 19/20</title>
     <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
     <desc lang="en">A highlights package from the latest round.(n)</desc>
@@ -2068,7 +2068,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205213000 +0000" stop="20191205220500 +0000" channel="SuperSport HD 3">
+  <programme start="20191205213000 +0700" stop="20191205220500 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Build Up</title>
     <sub-title lang="en">Matchday 15: Arsenal vs Brighton &amp; Hove Albion</sub-title>
     <desc lang="en">'Matchday 15: Arsenal vs Brighton &amp; Hove Albion'. With Ljungberg's first game resulting in a draw, Arsenal are still seeking their first win in 8 matches while Brighton look to change their losing streak since early November.(n)</desc>
@@ -2077,7 +2077,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191205220500 +0000" stop="20191206001500 +0000" channel="SuperSport HD 3">
+  <programme start="20191205220500 +0700" stop="20191206001500 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Arsenal v Brighton</title>
     <sub-title lang="en">Premier League - Matchday 15: Arsenal vs Brighton &amp; Hove Albion</sub-title>
     <desc lang="en">LIVE from Emirates Stadium - London, England.(n)</desc>
@@ -2086,7 +2086,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206001500 +0000" stop="20191206010000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206001500 +0700" stop="20191206010000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Wrap</title>
     <sub-title lang="en">Matchday 15: Arsenal vs Brighton &amp; Hove Albion</sub-title>
     <desc lang="en">'Matchday 15: Arsenal vs Brighton &amp; Hove Albion'. LIVE from Emirates Stadium - London, England.(n)</desc>
@@ -2095,7 +2095,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206010000 +0000" stop="20191206013000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206010000 +0700" stop="20191206013000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League World</title>
     <sub-title lang="en">20/18</sub-title>
     <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
@@ -2105,7 +2105,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206013000 +0000" stop="20191206020000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206013000 +0700" stop="20191206020000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Fantasy Premier League</title>
     <sub-title lang="en">20/18</sub-title>
     <desc lang="en">Be ready for the next fixture as we feature plenty of statistics and tips on which players to add and remove from your fantasy team.(n)</desc>
@@ -2115,7 +2115,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206020000 +0000" stop="20191206040000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206020000 +0700" stop="20191206040000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Sheff United v Newcastle</title>
     <sub-title lang="en">Premier League - Matchday 15: Sheffield United vs Newcastle United</sub-title>
     <desc lang="en">From Bramall Lane - Sheffield, England.(n)</desc>
@@ -2124,7 +2124,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206040000 +0000" stop="20191206060000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206040000 +0700" stop="20191206060000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Wolves v West Ham</title>
     <sub-title lang="en">Premier League - Matchday 15: Wolverhampton Wanderers vs West Ham United</sub-title>
     <desc lang="en">From Molineux Stadium - Wolverhampton, England.(n)</desc>
@@ -2133,7 +2133,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206060000 +0000" stop="20191206063000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206060000 +0700" stop="20191206063000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Latest HL 19/20</title>
     <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
     <desc lang="en">A highlights package from the latest round.(n)</desc>
@@ -2142,7 +2142,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206063000 +0000" stop="20191206070000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206063000 +0700" stop="20191206070000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Latest HL 19/20</title>
     <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
     <desc lang="en">A highlights package from the latest round.(n)</desc>
@@ -2151,7 +2151,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206070000 +0000" stop="20191206090000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206070000 +0700" stop="20191206090000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Arsenal v Brighton</title>
     <sub-title lang="en">Premier League - Matchday 15: Arsenal vs Brighton &amp; Hove Albion</sub-title>
     <desc lang="en">From Emirates Stadium - London, England.(n)</desc>
@@ -2160,7 +2160,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206090000 +0000" stop="20191206110000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206090000 +0700" stop="20191206110000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Sheff United v Newcastle</title>
     <sub-title lang="en">Premier League - Matchday 15: Sheffield United vs Newcastle United</sub-title>
     <desc lang="en">From Bramall Lane - Sheffield, England.(n)</desc>
@@ -2169,7 +2169,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206110000 +0000" stop="20191206113000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206110000 +0700" stop="20191206113000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Latest HL 19/20</title>
     <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
     <desc lang="en">A highlights package from the latest round.(n)</desc>
@@ -2178,7 +2178,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206113000 +0000" stop="20191206123000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206113000 +0700" stop="20191206123000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Midweek Review 19/20</title>
     <sub-title lang="en">5 December - Thursday</sub-title>
     <desc lang="en">PLTV: Midweek Review 2019/20.(n)</desc>
@@ -2187,7 +2187,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206123000 +0000" stop="20191206130000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206123000 +0700" stop="20191206130000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League World</title>
     <sub-title lang="en">20/18</sub-title>
     <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
@@ -2197,7 +2197,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206130000 +0000" stop="20191206133000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206130000 +0700" stop="20191206133000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Today 19/20</title>
     <sub-title lang="en">6 December - Afternoon</sub-title>
     <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
@@ -2206,7 +2206,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206133000 +0000" stop="20191206140000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206133000 +0700" stop="20191206140000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Netbusters</title>
     <sub-title lang="en">20/15</sub-title>
     <desc lang="en">This programme provides an alternative look at the weekend's matches by cutting all of the goals, saves, misses and tackles to music and uses ISO angle footage.(n)</desc>
@@ -2216,7 +2216,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206140000 +0000" stop="20191206150000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206140000 +0700" stop="20191206150000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Midweek Review 19/20</title>
     <sub-title lang="en">5 December - Thursday</sub-title>
     <desc lang="en">PLTV: Midweek Review 2019/20.(n)</desc>
@@ -2225,7 +2225,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206150000 +0000" stop="20191206163000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206150000 +0700" stop="20191206163000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Countdown to Kick Off</title>
     <sub-title lang="en">20/3</sub-title>
     <desc lang="en">PLTV: Countdown to Kick Off 2019/20.(n)</desc>
@@ -2235,7 +2235,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206163000 +0000" stop="20191206170000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206163000 +0700" stop="20191206170000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Match Pack</title>
     <sub-title lang="en">20/15</sub-title>
     <desc lang="en">Unbeatable action deserves unbeatable analysis. Previewing every weekend fixture, This programme offers a statistical pre-game view, high-end graphics and world-class expert insights.(n)</desc>
@@ -2245,7 +2245,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206170000 +0000" stop="20191206173000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206170000 +0700" stop="20191206173000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Today 19/20</title>
     <sub-title lang="en">6 December - Late Afternoon</sub-title>
     <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
@@ -2254,7 +2254,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206173000 +0000" stop="20191206183000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206173000 +0700" stop="20191206183000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Fan Zone 19/20</title>
     <sub-title lang="en">6 December</sub-title>
     <desc lang="en">'6 December'. Join the debate as we discuss the major news and issues of the day from the Premier League.(n)</desc>
@@ -2263,7 +2263,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206183000 +0000" stop="20191206193000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206183000 +0700" stop="20191206193000 +0700" channel="SuperSport HD 3">
     <title lang="en">Euro-Connect</title>
     <sub-title lang="en">20/12</sub-title>
     <desc lang="en">Join Neil Andrews, and his team of correspondents, every Friday for an hour packed show connecting you with the top leagues across Europe. Bringing you all the news, insights and moments of magic.(n)</desc>
@@ -2273,7 +2273,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206193000 +0000" stop="20191206200000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206193000 +0700" stop="20191206200000 +0700" channel="SuperSport HD 3">
     <title lang="en">UCL Magazine</title>
     <sub-title lang="en">20/14</sub-title>
     <desc lang="en">A weekly round-up of the results in the 2019/20 Champions League. We include player profiles from the various teams taking part in the competition.(n)</desc>
@@ -2283,7 +2283,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206200000 +0000" stop="20191206203000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206200000 +0700" stop="20191206203000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Today 19/20</title>
     <sub-title lang="en">6 December - Evening</sub-title>
     <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
@@ -2292,7 +2292,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206203000 +0000" stop="20191206220000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206203000 +0700" stop="20191206220000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Weekend Warm-Up 19/20</title>
     <sub-title lang="en">6 December</sub-title>
     <desc lang="en">'6 December'. PLTV: Weekend Warm-Up 2019/20.(n)</desc>
@@ -2301,7 +2301,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206220000 +0000" stop="20191206230000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206220000 +0700" stop="20191206230000 +0700" channel="SuperSport HD 3">
     <title lang="en">UEL Magazine 19/20</title>
     <sub-title lang="en">Matchday 6 Preview</sub-title>
     <desc lang="en">'Matchday 6 Preview'. A round-up of all the latest action from the UEFA Europa League, plus the latest news, fixtures, and scores updates.(n)</desc>
@@ -2310,7 +2310,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206230000 +0000" stop="20191206233000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206230000 +0700" stop="20191206233000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League World</title>
     <sub-title lang="en">20/18</sub-title>
     <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
@@ -2320,7 +2320,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191206233000 +0000" stop="20191207010000 +0000" channel="SuperSport HD 3">
+  <programme start="20191206233000 +0700" stop="20191207010000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Weekend Warm-Up 19/20</title>
     <sub-title lang="en">6 December</sub-title>
     <desc lang="en">'6 December'. PLTV: Weekend Warm-Up 2019/20.(n)</desc>
@@ -2329,7 +2329,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207010000 +0000" stop="20191207020000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207010000 +0700" stop="20191207020000 +0700" channel="SuperSport HD 3">
     <title lang="en">Euro-Connect</title>
     <sub-title lang="en">20/12</sub-title>
     <desc lang="en">Join Neil Andrews, and his team of correspondents, every Friday for an hour packed show connecting you with the top leagues across Europe. Bringing you all the news, insights and moments of magic.(n)</desc>
@@ -2339,7 +2339,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207020000 +0000" stop="20191207040000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207020000 +0700" stop="20191207040000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: S'hampton v Norwich</title>
     <sub-title lang="en">Premier League - Matchday 15: Southampton vs Norwich</sub-title>
     <desc lang="en">From St Mary's Stadium - Southampton, England.(n)</desc>
@@ -2348,7 +2348,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207040000 +0000" stop="20191207060000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207040000 +0700" stop="20191207060000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Arsenal v Brighton</title>
     <sub-title lang="en">Premier League - Matchday 15: Arsenal vs Brighton &amp; Hove Albion</sub-title>
     <desc lang="en">From Emirates Stadium - London, England.(n)</desc>
@@ -2357,7 +2357,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207060000 +0000" stop="20191207063000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207060000 +0700" stop="20191207063000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Latest HL 19/20</title>
     <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
     <desc lang="en">A highlights package from the latest round.(n)</desc>
@@ -2366,7 +2366,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207063000 +0000" stop="20191207070000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207063000 +0700" stop="20191207070000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Preview</title>
     <sub-title lang="en">20/16</sub-title>
     <desc lang="en">A preview of all the weekend's Premier League action including the latest press conferences, team and injury news.(n)</desc>
@@ -2376,7 +2376,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207070000 +0000" stop="20191207073000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207070000 +0700" stop="20191207073000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Match Pack</title>
     <sub-title lang="en">20/15</sub-title>
     <desc lang="en">Unbeatable action deserves unbeatable analysis. Previewing every weekend fixture, This programme offers a statistical pre-game view, high-end graphics and world-class expert insights.(n)</desc>
@@ -2386,7 +2386,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207073000 +0000" stop="20191207080000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207073000 +0700" stop="20191207080000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Netbusters</title>
     <sub-title lang="en">20/15</sub-title>
     <desc lang="en">This programme provides an alternative look at the weekend's matches by cutting all of the goals, saves, misses and tackles to music and uses ISO angle footage.(n)</desc>
@@ -2396,7 +2396,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207080000 +0000" stop="20191207090000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207080000 +0700" stop="20191207090000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Midweek Review 19/20</title>
     <sub-title lang="en">5 December - Thursday</sub-title>
     <desc lang="en">PLTV: Midweek Review 2019/20.(n)</desc>
@@ -2405,7 +2405,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207090000 +0000" stop="20191207100000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207090000 +0700" stop="20191207100000 +0700" channel="SuperSport HD 3">
     <title lang="en">Euro-Connect</title>
     <sub-title lang="en">20/12</sub-title>
     <desc lang="en">Join Neil Andrews, and his team of correspondents, every Friday for an hour packed show connecting you with the top leagues across Europe. Bringing you all the news, insights and moments of magic.(n)</desc>
@@ -2415,7 +2415,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207100000 +0000" stop="20191207103000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207100000 +0700" stop="20191207103000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Match Pack</title>
     <sub-title lang="en">20/15</sub-title>
     <desc lang="en">Unbeatable action deserves unbeatable analysis. Previewing every weekend fixture, This programme offers a statistical pre-game view, high-end graphics and world-class expert insights.(n)</desc>
@@ -2425,7 +2425,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207103000 +0000" stop="20191207110000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207103000 +0700" stop="20191207110000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Netbusters</title>
     <sub-title lang="en">20/15</sub-title>
     <desc lang="en">This programme provides an alternative look at the weekend's matches by cutting all of the goals, saves, misses and tackles to music and uses ISO angle footage.(n)</desc>
@@ -2435,7 +2435,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207110000 +0000" stop="20191207123000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207110000 +0700" stop="20191207123000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Weekend Warm-Up 19/20</title>
     <sub-title lang="en">6 December</sub-title>
     <desc lang="en">'6 December'. PLTV: Weekend Warm-Up 2019/20.(n)</desc>
@@ -2444,7 +2444,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207123000 +0000" stop="20191207130000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207123000 +0700" stop="20191207130000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Preview</title>
     <sub-title lang="en">20/16</sub-title>
     <desc lang="en">A preview of all the weekend's Premier League action including the latest press conferences, team and injury news.(n)</desc>
@@ -2454,7 +2454,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207130000 +0000" stop="20191207133000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207130000 +0700" stop="20191207133000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Match Pack</title>
     <sub-title lang="en">20/15</sub-title>
     <desc lang="en">Unbeatable action deserves unbeatable analysis. Previewing every weekend fixture, This programme offers a statistical pre-game view, high-end graphics and world-class expert insights.(n)</desc>
@@ -2464,7 +2464,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207133000 +0000" stop="20191207142000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207133000 +0700" stop="20191207142000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Build Up</title>
     <sub-title lang="en">Matchday 16: Everton vs Chelsea</sub-title>
     <desc lang="en">'Matchday 16: Everton vs Chelsea'. LIVE from Goodison Park - Liverpool, England.(n)</desc>
@@ -2473,7 +2473,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207142000 +0000" stop="20191207163000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207142000 +0700" stop="20191207163000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Everton v Chelsea</title>
     <sub-title lang="en">Premier League - Matchday 16: Everton vs Chelsea</sub-title>
     <desc lang="en">LIVE from Goodison Park - Liverpool, England.(n)</desc>
@@ -2482,7 +2482,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207163000 +0000" stop="20191207165000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207163000 +0700" stop="20191207165000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Build Up</title>
     <sub-title lang="en">Matchday 16: AFC Bournemouth vs Liverpool</sub-title>
     <desc lang="en">'Matchday 16: AFC Bournemouth vs Liverpool'. LIVE from Vitality Stadium - Bournemouth, England.(n)</desc>
@@ -2491,7 +2491,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207165000 +0000" stop="20191207190000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207165000 +0700" stop="20191207190000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: B'mouth v Liverpool</title>
     <sub-title lang="en">Premier League - Matchday 16: AFC Bournemouth vs Liverpool</sub-title>
     <desc lang="en">LIVE from Vitality Stadium - Bournemouth, England.(n)</desc>
@@ -2500,7 +2500,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207190000 +0000" stop="20191207192000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207190000 +0700" stop="20191207192000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL Build Up</title>
     <sub-title lang="en">Matchday 16: Manchester City vs Manchester United</sub-title>
     <desc lang="en">'Matchday 16: Manchester City vs Manchester United'. LIVE from Etihad Stadium - Manchester, England.(n)</desc>
@@ -2509,7 +2509,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207192000 +0000" stop="20191207213000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207192000 +0700" stop="20191207213000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL 19/20: Man City v Man Utd</title>
     <sub-title lang="en">Premier League - Matchday 16: Manchester City vs Manchester United</sub-title>
     <desc lang="en">LIVE from Etihad Stadium - Manchester, England.(n)</desc>
@@ -2518,7 +2518,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207213000 +0000" stop="20191207220000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207213000 +0700" stop="20191207220000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League Wrap</title>
     <sub-title lang="en">Matchday 16</sub-title>
     <desc lang="en">'Matchday 16'. A wrap of the Premier league action.(n)</desc>
@@ -2527,7 +2527,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207220000 +0000" stop="20191207230000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207220000 +0700" stop="20191207230000 +0700" channel="SuperSport HD 3">
     <title lang="en">PL: Matchday Extra 19/20</title>
     <sub-title lang="en">7 December</sub-title>
     <desc lang="en">'7 December'. This programme reacts to the action and all of the day's big Premier League stories. Adding context, showing every goal, discussing major talking points, analysing the key incidents and featuring the best interviews.(n)</desc>
@@ -2536,7 +2536,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207230000 +0000" stop="20191207233000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207230000 +0700" stop="20191207233000 +0700" channel="SuperSport HD 3">
     <title lang="en">Premier League World</title>
     <sub-title lang="en">20/18</sub-title>
     <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
@@ -2546,7 +2546,7 @@
       <value>Family</value>
     </rating>
   </programme>
-  <programme start="20191207233000 +0000" stop="20191208000000 +0000" channel="SuperSport HD 3">
+  <programme start="20191207233000 +0700" stop="20191208000000 +0700" channel="SuperSport HD 3">
     <title lang="en">Pl: 100</title>
     <sub-title lang="en">Owen</sub-title>
     <desc lang="en">A programme that celebrates the elite group of players who have scored more than 100 Premier League goals.(n)</desc>
