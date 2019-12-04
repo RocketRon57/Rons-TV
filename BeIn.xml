@@ -1,0 +1,1648 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HD1">
+    <display-name lang="en">HD1</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD2">
+    <display-name lang="en">HD2</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD3">
+    <display-name lang="en">HD3</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD4">
+    <display-name lang="en">HD4</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD5">
+    <display-name lang="en">HD5</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD6">
+    <display-name lang="en">HD6</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD7">
+    <display-name lang="en">HD7</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD8">
+    <display-name lang="en">HD8</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD9">
+    <display-name lang="en">HD9</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD10">
+    <display-name lang="en">HD10</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="SportsHD11">
+    <display-name lang="en">SportsHD11</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="SportsHD12">
+    <display-name lang="en">SportsHD12</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="SportsHD13">
+    <display-name lang="en">SportsHD13</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="SportsHD14">
+    <display-name lang="en">SportsHD14</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="SportsHD15">
+    <display-name lang="en">SportsHD15</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="SportsHD16">
+    <display-name lang="en">SportsHD16</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="SportsHD17">
+    <display-name lang="en">SportsHD17</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <programme start="20191204000000 +0000" stop="20191204010000 +0000" channel="HD1">
+    <title lang="en">Evening Show</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204010000 +0000" stop="20191204013000 +0000" channel="HD1">
+    <title lang="en">NBA Action ep.8 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204013000 +0000" stop="20191204043800 +0000" channel="HD1">
+    <title lang="en">Houston Rockets vs San Antonio Spurs</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204043800 +0000" stop="20191204062500 +0000" channel="HD1">
+    <title lang="en">Crystal Palace vs Bournemouth</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204062500 +0000" stop="20191204082500 +0000" channel="HD1">
+    <title lang="en">Nouadhibou MAU vs.  AL Masry EGY</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 MD1</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20191204082500 +0000" stop="20191204085500 +0000" channel="HD1">
+    <title lang="en">FIFA Women's World Cup France 2019</title>
+    <sub-title lang="en">A Nation's Story</sub-title>
+    <category lang="en">FIFA World Cup (Women)</category>
+  </programme>
+  <programme start="20191204085500 +0000" stop="20191204110000 +0000" channel="HD1">
+    <title lang="en">Houston Rockets vs San Antonio Spurs</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204110000 +0000" stop="20191204113000 +0000" channel="HD1">
+    <title lang="en">New Orleans Saints @ Atalanta Falcons</title>
+    <sub-title lang="en">NFL Highlights  2019/20 Season - Arabic</sub-title>
+    <category lang="en">NFL- National Football League</category>
+  </programme>
+  <programme start="20191204113000 +0000" stop="20191204115800 +0000" channel="HD1">
+    <title lang="en">San Fransico 49ers @ Baltimore Ravens</title>
+    <sub-title lang="en">NFL Highlights  2019/20 Season - Arabic</sub-title>
+    <category lang="en">NFL- National Football League</category>
+  </programme>
+  <programme start="20191204115800 +0000" stop="20191204134500 +0000" channel="HD1">
+    <title lang="en">RSB Berkane MOR vs. ESAE BENIN</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 MD1</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20191204134500 +0000" stop="20191204153200 +0000" channel="HD1">
+    <title lang="en">Crystal Palace vs Bournemouth</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204153200 +0000" stop="20191204155800 +0000" channel="HD1">
+    <title lang="en">Urawa Reds vs Al Hilal</title>
+    <sub-title lang="en">Final 2nd Leg - AFC Champions League 2019</sub-title>
+    <category lang="en">AFC Champions League</category>
+  </programme>
+  <programme start="20191204155800 +0000" stop="20191204180000 +0000" channel="HD1">
+    <title lang="en">Houston Rockets vs San Antonio Spurs</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204180000 +0000" stop="20191204183000 +0000" channel="HD1">
+    <title lang="en">UEFA Europa League</title>
+    <sub-title lang="en">Best GOALS OF MD4</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204183000 +0000" stop="20191204190000 +0000" channel="HD1">
+    <title lang="en">CAF Champions League 2019/20</title>
+    <sub-title lang="en">Best of MD1</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204190000 +0000" stop="20191204193000 +0000" channel="HD1">
+    <title lang="en">Man Utd v Aston Villa</title>
+    <sub-title lang="en">EPL Mini Match 2019/2020</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204193000 +0000" stop="20191204201000 +0000" channel="HD1">
+    <title lang="en">EPL World 100</title>
+    <sub-title lang="en">Robbie Fowler</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204201000 +0000" stop="20191204223000 +0000" channel="HD1">
+    <title lang="en">Liverpool vs Everton</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204223000 +0000" stop="20191204230000 +0000" channel="HD1">
+    <title lang="en">UEFA Europa League</title>
+    <sub-title lang="en">Best GOALS OF MD4</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204230000 +0000" stop="20191204233000 +0000" channel="HD1">
+    <title lang="en">FIFA Women's World Cup France 2019</title>
+    <sub-title lang="en">A Nation's Story</sub-title>
+    <category lang="en">FIFA World Cup (Women)</category>
+  </programme>
+  <programme start="20191204233000 +0000" stop="20191205000000 +0000" channel="HD1">
+    <title lang="en">CAF Champions League 2019/20</title>
+    <sub-title lang="en">Best of MD1</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191205233000 +0000" stop="20191206000000 +0000" channel="HD1">
+    <title lang="en">CAF Champions League 2019/20</title>
+    <sub-title lang="en">Best of MD1</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204011500 +0000" stop="20191204030500 +0000" channel="HD2">
+    <title lang="en">Mamelodi Sundowns South Africa vs. Atlético Petroléos Angola</title>
+    <sub-title lang="en">CAF Champions League 2020-MD1</sub-title>
+    <category lang="en">CAF Champions league</category>
+  </programme>
+  <programme start="20191204030500 +0000" stop="20191204033300 +0000" channel="HD2">
+    <title lang="en">EPL World 100</title>
+    <sub-title lang="en">Michael Owen</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204033300 +0000" stop="20191204070300 +0000" channel="HD2">
+    <title lang="en">Burnley vs Manchester City</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204070300 +0000" stop="20191204075700 +0000" channel="HD2">
+    <title lang="en">EPL Review 2019/2020</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="onscreen">E.14</episode-num>
+  </programme>
+  <programme start="20191204075700 +0000" stop="20191204094500 +0000" channel="HD2">
+    <title lang="en">El Hilal  SUD vs FC Platinum ZIM</title>
+    <sub-title lang="en">CAF Champions League 2020-MD1</sub-title>
+    <category lang="en">CAF Champions league</category>
+  </programme>
+  <programme start="20191204094500 +0000" stop="20191204113000 +0000" channel="HD2">
+    <title lang="en">Burnley vs Manchester City</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204113000 +0000" stop="20191204120000 +0000" channel="HD2">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.13</episode-num>
+  </programme>
+  <programme start="20191204120000 +0000" stop="20191204134700 +0000" channel="HD2">
+    <title lang="en">Crystal Palace vs Bournemouth</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204134700 +0000" stop="20191204141500 +0000" channel="HD2">
+    <title lang="en">Gary Neville's Soccerbox</title>
+    <sub-title lang="en">Thierry Henry</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204141500 +0000" stop="20191204144500 +0000" channel="HD2">
+    <title lang="en">UEFA Europa League</title>
+    <sub-title lang="en">Best GOALS OF MD4</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204144500 +0000" stop="20191204163000 +0000" channel="HD2">
+    <title lang="en">Burnley vs Manchester City</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204163000 +0000" stop="20191204173000 +0000" channel="HD2">
+    <title lang="en">EPL World Special</title>
+    <sub-title lang="en">Ian Wright Meets Dennis Bergkamp</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204173000 +0000" stop="20191204180000 +0000" channel="HD2">
+    <title lang="en">UEFA Europa League</title>
+    <sub-title lang="en">Best GOALS OF MD4</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204180000 +0000" stop="20191204183000 +0000" channel="HD2">
+    <title lang="en">EPL Netbusters 2019/2020</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="onscreen">E.14</episode-num>
+  </programme>
+  <programme start="20191204183000 +0000" stop="20191204223000 +0000" channel="HD2">
+    <title lang="en">Manchester United vs Tottenham</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204223000 +0000" stop="20191204230000 +0000" channel="HD2">
+    <title lang="en">EPL Netbusters 2019/2020</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="onscreen">E.14</episode-num>
+  </programme>
+  <programme start="20191204230000 +0000" stop="20191204233000 +0000" channel="HD2">
+    <title lang="en">UEFA Europa League</title>
+    <sub-title lang="en">Best GOALS OF MD4</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204233000 +0000" stop="20191205011500 +0000" channel="HD2">
+    <title lang="en">Crystal Palace vs Bournemouth</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191205233000 +0000" stop="20191206011500 +0000" channel="HD2">
+    <title lang="en">Crystal Palace vs Bournemouth</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204001000 +0000" stop="20191204020000 +0000" channel="HD3">
+    <title lang="en">Sevilla vs Leganés</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 15</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204020000 +0000" stop="20191204023000 +0000" channel="HD3">
+    <title lang="en">90th Anniversary La Liga</title>
+    <sub-title lang="en">Hugo Sánchez</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204023000 +0000" stop="20191204041500 +0000" channel="HD3">
+    <title lang="en">Real Sociedad vs Eibar</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 15</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204041500 +0000" stop="20191204060000 +0000" channel="HD3">
+    <title lang="en">Mallorca vs Real Betis</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 15</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204060000 +0000" stop="20191204065500 +0000" channel="HD3">
+    <title lang="en">La Liga Highlights 2019/2020</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="onscreen">E.15</episode-num>
+  </programme>
+  <programme start="20191204065500 +0000" stop="20191204084000 +0000" channel="HD3">
+    <title lang="en">Valencia vs Villarreal</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 15</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204084000 +0000" stop="20191204103000 +0000" channel="HD3">
+    <title lang="en">Deportivo Alavés vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 15</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204103000 +0000" stop="20191204105700 +0000" channel="HD3">
+    <title lang="en">Atletico Madrid vs Barcelona</title>
+    <sub-title lang="en">Mini Match - Spanish La Liga 2019/2020</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204105700 +0000" stop="20191204124300 +0000" channel="HD3">
+    <title lang="en">JS Kabylie ALG vs AS Vita Club DRGO</title>
+    <sub-title lang="en">CAF Champions League 2020-MD1</sub-title>
+    <category lang="en">CAF Champions league</category>
+  </programme>
+  <programme start="20191204124300 +0000" stop="20191204143000 +0000" channel="HD3">
+    <title lang="en">Etoile Sportive du Sahel TUN vs  Al Ahli EGY</title>
+    <sub-title lang="en">CAF Champions League 2020-MD1</sub-title>
+    <category lang="en">CAF Champions league</category>
+  </programme>
+  <programme start="20191204143000 +0000" stop="20191204150000 +0000" channel="HD3">
+    <title lang="en">Sevilla vs Leganes</title>
+    <sub-title lang="en">Mini Match - Spanish La Liga 2019/2020</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204150000 +0000" stop="20191204164500 +0000" channel="HD3">
+    <title lang="en">Espanyol vs Osasuna</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 15</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204164500 +0000" stop="20191204183000 +0000" channel="HD3">
+    <title lang="en">Getafe vs Levante</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 15</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204183000 +0000" stop="20191204190000 +0000" channel="HD3">
+    <title lang="en">La Liga World 2019/2020</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="onscreen">E.17</episode-num>
+  </programme>
+  <programme start="20191204190000 +0000" stop="20191204192700 +0000" channel="HD3">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.13</episode-num>
+  </programme>
+  <programme start="20191204192700 +0000" stop="20191204213500 +0000" channel="HD3">
+    <title lang="en">Chelsea vs Aston Villa</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204213500 +0000" stop="20191204223000 +0000" channel="HD3">
+    <title lang="en">La Liga Highlights 2019/2020</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="onscreen">E.15</episode-num>
+  </programme>
+  <programme start="20191204223000 +0000" stop="20191205001500 +0000" channel="HD3">
+    <title lang="en">Real Sociedad vs Eibar</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 15</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191205223000 +0000" stop="20191206001500 +0000" channel="HD3">
+    <title lang="en">Real Sociedad vs Eibar</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 15</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204010000 +0000" stop="20191204020000 +0000" channel="HD4">
+    <title lang="en">Best of UEFA Champions League 2019/2020 Matchday 5</title>
+    <category lang="en">UEFA Champions League</category>
+  </programme>
+  <programme start="20191204020000 +0000" stop="20191204034500 +0000" channel="HD4">
+    <title lang="en">Juventus vs Sassuolo</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 14</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20191204034500 +0000" stop="20191204053000 +0000" channel="HD4">
+    <title lang="en">Internazionale vs SPAL</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 14</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20191204053000 +0000" stop="20191204060000 +0000" channel="HD4">
+    <title lang="en">Football's Greatest</title>
+    <sub-title lang="en">Roberto Baggio</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204060000 +0000" stop="20191204074500 +0000" channel="HD4">
+    <title lang="en">Parma vs Milan</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 14</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20191204074500 +0000" stop="20191204093000 +0000" channel="HD4">
+    <title lang="en">Lazio vs Udinese</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 14</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20191204093000 +0000" stop="20191204102500 +0000" channel="HD4">
+    <title lang="en">Best of UEFA Champions League 2019/2020 Matchday 5</title>
+    <category lang="en">UEFA Champions League</category>
+  </programme>
+  <programme start="20191204102500 +0000" stop="20191204121500 +0000" channel="HD4">
+    <title lang="en">Cagliari vs Sampdoria</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 14</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20191204121500 +0000" stop="20191204140000 +0000" channel="HD4">
+    <title lang="en">Brescia vs Atalanta</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 14</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20191204140000 +0000" stop="20191204143000 +0000" channel="HD4">
+    <title lang="en">FIFA Women's World Cup France 2019</title>
+    <sub-title lang="en">A Nation's Story</sub-title>
+    <category lang="en">FIFA World Cup (Women)</category>
+  </programme>
+  <programme start="20191204143000 +0000" stop="20191204161500 +0000" channel="HD4">
+    <title lang="en">Napoli vs Bologna</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 14</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20191204161500 +0000" stop="20191204180100 +0000" channel="HD4">
+    <title lang="en">Hellas Verona vs Roma</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 14</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20191204180100 +0000" stop="20191204183000 +0000" channel="HD4">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Gianluca Vialli</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204183000 +0000" stop="20191204190000 +0000" channel="HD4">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Full Impact 2019/2020</sub-title>
+    <category lang="en">Sports General</category>
+    <episode-num system="onscreen">E.14</episode-num>
+  </programme>
+  <programme start="20191204190000 +0000" stop="20191204192800 +0000" channel="HD4">
+    <title lang="en">Ronaldo, 700</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20191204192800 +0000" stop="20191204213000 +0000" channel="HD4">
+    <title lang="en">Leicester City vs Watford</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204213000 +0000" stop="20191204220000 +0000" channel="HD4">
+    <title lang="en">Medhi Benatia Interview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204220000 +0000" stop="20191204223000 +0000" channel="HD4">
+    <title lang="en">Football's Greatest</title>
+    <sub-title lang="en">Roberto Baggio</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204223000 +0000" stop="20191204230000 +0000" channel="HD4">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Full Impact 2019/2020</sub-title>
+    <category lang="en">Sports General</category>
+    <episode-num system="onscreen">E.14</episode-num>
+  </programme>
+  <programme start="20191204230000 +0000" stop="20191205004500 +0000" channel="HD4">
+    <title lang="en">Juventus vs Sassuolo</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 14</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20191205230000 +0000" stop="20191206004500 +0000" channel="HD4">
+    <title lang="en">Juventus vs Sassuolo</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 14</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20191204013800 +0000" stop="20191204023000 +0000" channel="HD5">
+    <title lang="en">Bundesliga Highlights 2019/2020 Week 13</title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204023000 +0000" stop="20191204043000 +0000" channel="HD5">
+    <title lang="en">FC Schalke 04 vs 1. FC Union Berlin</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 13</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204043000 +0000" stop="20191204062500 +0000" channel="HD5">
+    <title lang="en">Hertha Berlin vs Borussia Dortmund</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 13</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204062500 +0000" stop="20191204081500 +0000" channel="HD5">
+    <title lang="en">FC Bayern München vs Bayer 04 Leverkusen</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 13</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204081500 +0000" stop="20191204100000 +0000" channel="HD5">
+    <title lang="en">1. FC Köln vs FC Augsburg</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 13</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204100000 +0000" stop="20191204110000 +0000" channel="HD5">
+    <title lang="en">Bundesliga Highlights 2019/2020 Week 13</title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204110000 +0000" stop="20191204124500 +0000" channel="HD5">
+    <title lang="en">TSG 1899 Hoffenheim vs Fortuna Düsseldorf</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 13</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204124500 +0000" stop="20191204143000 +0000" channel="HD5">
+    <title lang="en">SC Paderborn 07 vs RB Leipzig</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 13</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204143000 +0000" stop="20191204145700 +0000" channel="HD5">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.13</episode-num>
+  </programme>
+  <programme start="20191204145700 +0000" stop="20191204164500 +0000" channel="HD5">
+    <title lang="en">Borussia Mönchengladbach vs SportClub Freiburg</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 13</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204164500 +0000" stop="20191204183000 +0000" channel="HD5">
+    <title lang="en">VfL Wolfsburg vs SV Werder Bremen</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 13</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204183000 +0000" stop="20191204192500 +0000" channel="HD5">
+    <title lang="en">Bundesliga Highlights 2019/2020 Week 13</title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204192500 +0000" stop="20191204213000 +0000" channel="HD5">
+    <title lang="en">Southampton vs Norwich City</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204213000 +0000" stop="20191204223000 +0000" channel="HD5">
+    <title lang="en">Bundesliga Highlights 2019/2020 Week 13</title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204223000 +0000" stop="20191205001500 +0000" channel="HD5">
+    <title lang="en">VfL Osnabrück vs Hamburger SV</title>
+    <sub-title lang="en">German Bundesliga 2 2019/2020</sub-title>
+    <category lang="en">German League - Bundesliga 2nd Divsion</category>
+  </programme>
+  <programme start="20191205223000 +0000" stop="20191206001500 +0000" channel="HD5">
+    <title lang="en">VfL Osnabrück vs Hamburger SV</title>
+    <sub-title lang="en">German Bundesliga 2 2019/2020</sub-title>
+    <category lang="en">German League - Bundesliga 2nd Divsion</category>
+  </programme>
+  <programme start="20191204011300 +0000" stop="20191204030000 +0000" channel="HD6">
+    <title lang="en">Etoile Sportive du Sahel TUN vs  Al Ahli EGY</title>
+    <sub-title lang="en">CAF Champions League 2020-MD1</sub-title>
+    <category lang="en">CAF Champions league</category>
+  </programme>
+  <programme start="20191204030000 +0000" stop="20191204040000 +0000" channel="HD6">
+    <title lang="en">Best of UEFA Champions League 2019/2020 Matchday 5</title>
+    <category lang="en">UEFA Champions League</category>
+  </programme>
+  <programme start="20191204040000 +0000" stop="20191204055000 +0000" channel="HD6">
+    <title lang="en">Angers vs Marseille</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204055000 +0000" stop="20191204073300 +0000" channel="HD6">
+    <title lang="en">Lyon vs Lille</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204073300 +0000" stop="20191204080200 +0000" channel="HD6">
+    <title lang="en">UEFA Europa League</title>
+    <sub-title lang="en">Best GOALS OF MD4</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204080200 +0000" stop="20191204094900 +0000" channel="HD6">
+    <title lang="en">San Pedro CIV vs. Paradou A.C. ALG</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 MD1</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20191204094900 +0000" stop="20191204113000 +0000" channel="HD6">
+    <title lang="en">Nouadhibou MAU vs.  AL Masry EGY</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 MD1</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20191204113000 +0000" stop="20191204115700 +0000" channel="HD6">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204115700 +0000" stop="20191204134500 +0000" channel="HD6">
+    <title lang="en">Angers vs Marseille</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204134500 +0000" stop="20191204153000 +0000" channel="HD6">
+    <title lang="en">Lyon vs Lille</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204153000 +0000" stop="20191204160000 +0000" channel="HD6">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.13</episode-num>
+  </programme>
+  <programme start="20191204160000 +0000" stop="20191204163000 +0000" channel="HD6">
+    <title lang="en">Football's Greatest</title>
+    <sub-title lang="en">Patrick Vieira</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204163000 +0000" stop="20191204170000 +0000" channel="HD6">
+    <title lang="en">Pauleta visiting Qatar</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204170000 +0000" stop="20191204173000 +0000" channel="HD6">
+    <title lang="en">This Is Paris 2019/2020</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="onscreen">E.15</episode-num>
+  </programme>
+  <programme start="20191204173000 +0000" stop="20191204200500 +0000" channel="HD6">
+    <title lang="en">SaintÉtienne vs Nice</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204200500 +0000" stop="20191204223000 +0000" channel="HD6">
+    <title lang="en">Paris Saint Germain vs Nantes</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204223000 +0000" stop="20191204230000 +0000" channel="HD6">
+    <title lang="en">Ligue 1 Review 2019/20 Week 16</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204230000 +0000" stop="20191204233000 +0000" channel="HD6">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204233000 +0000" stop="20191205000000 +0000" channel="HD6">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.13</episode-num>
+  </programme>
+  <programme start="20191205233000 +0000" stop="20191206000000 +0000" channel="HD6">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.13</episode-num>
+  </programme>
+  <programme start="20191204000000 +0000" stop="20191204014500 +0000" channel="HD7">
+    <title lang="en">Bordeaux vs Nîmes</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204014500 +0000" stop="20191204033000 +0000" channel="HD7">
+    <title lang="en">Fuenlabrada vs Cadiz</title>
+    <sub-title lang="en">LaLiga SmartBank 2019/2020</sub-title>
+    <category lang="en">Spanish League - Segunda Division</category>
+  </programme>
+  <programme start="20191204033000 +0000" stop="20191204040000 +0000" channel="HD7">
+    <title lang="en">Sahil.. Story of Succes</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204040000 +0000" stop="20191204054500 +0000" channel="HD7">
+    <title lang="en">Alcorcon vs Huesca</title>
+    <sub-title lang="en">LaLiga SmartBank 2019/2020</sub-title>
+    <category lang="en">Spanish League - Segunda Division</category>
+  </programme>
+  <programme start="20191204054500 +0000" stop="20191204073000 +0000" channel="HD7">
+    <title lang="en">Bordeaux vs Nîmes</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204073000 +0000" stop="20191204080000 +0000" channel="HD7">
+    <title lang="en">Salomon Golden Trail Race 7 FINAL – Annapurna Trail Marathon</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204080000 +0000" stop="20191204084500 +0000" channel="HD7">
+    <title lang="en">Andrew Cancio vs Rene Alvarado</title>
+    <sub-title lang="en">WBA Super Featherweight Title</sub-title>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20191204084500 +0000" stop="20191204102000 +0000" channel="HD7">
+    <title lang="en">Zenit St. Petersburg vs Real Madrid</title>
+    <sub-title lang="en">Euroleague Basketball 2019/2020</sub-title>
+    <category lang="en">Basketball - Euroleague - (Women)</category>
+  </programme>
+  <programme start="20191204102000 +0000" stop="20191204120000 +0000" channel="HD7">
+    <title lang="en">Olympiacos Piraeus vs Olimpia Milano</title>
+    <sub-title lang="en">Euroleague Basketball 2019/2020</sub-title>
+    <category lang="en">Basketball - Euroleague - (Women)</category>
+  </programme>
+  <programme start="20191204120000 +0000" stop="20191204123000 +0000" channel="HD7">
+    <title lang="en">Rewind</title>
+    <sub-title lang="en">The Handball Show Round 10</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204123000 +0000" stop="20191204140000 +0000" channel="HD7">
+    <title lang="en">Panathinaikos Athens vs Baskonia Vitoria</title>
+    <sub-title lang="en">Euroleague Basketball 2019/2020</sub-title>
+    <category lang="en">Basketball - Euroleague - (Women)</category>
+  </programme>
+  <programme start="20191204140000 +0000" stop="20191204153000 +0000" channel="HD7">
+    <title lang="en">Fenerbahce Istanbul vs Khimki Moscow</title>
+    <sub-title lang="en">Euroleague Basketball 2019/2020</sub-title>
+    <category lang="en">Basketball - Euroleague - (Women)</category>
+  </programme>
+  <programme start="20191204153000 +0000" stop="20191204163000 +0000" channel="HD7">
+    <title lang="en">À la table de beIN</title>
+    <sub-title lang="en">Fed Cup 2019</sub-title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20191204163000 +0000" stop="20191204174500 +0000" channel="HD7">
+    <title lang="en">Russia vs Japan</title>
+    <sub-title lang="en">3rd Place  - FIFA Beach Soccer World Cup Paraguay 2019</sub-title>
+    <category lang="en">Beach Soccer - FIFA World Cup</category>
+  </programme>
+  <programme start="20191204174500 +0000" stop="20191204192500 +0000" channel="HD7">
+    <title lang="en">Italy vs Portugal</title>
+    <sub-title lang="en">Final - FIFA Beach Soccer World Cup Paraguay 2019</sub-title>
+    <category lang="en">Beach Soccer - FIFA World Cup</category>
+  </programme>
+  <programme start="20191204192500 +0000" stop="20191204213000 +0000" channel="HD7">
+    <title lang="en">Wolverhampton Wanderers vs West Ham</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204213000 +0000" stop="20191204230000 +0000" channel="HD7">
+    <title lang="en">Al Arabi  Qatar vs AL Wehda KSA</title>
+    <sub-title lang="en">Handball  Asian Men's  Club league Championship</sub-title>
+    <category lang="en">Handball</category>
+  </programme>
+  <programme start="20191204230000 +0000" stop="20191205000000 +0000" channel="HD7">
+    <title lang="en">Andrew Cancio vs Rene Alvarado</title>
+    <sub-title lang="en">WBA Super Featherweight Title</sub-title>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20191205230000 +0000" stop="20191206000000 +0000" channel="HD7">
+    <title lang="en">Andrew Cancio vs Rene Alvarado</title>
+    <sub-title lang="en">WBA Super Featherweight Title</sub-title>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20191204013500 +0000" stop="20191204020000 +0000" channel="HD8">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">Thierry Henry &amp; Larry Bird The Conversation - NBA Original Programming 2019/2020</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204020000 +0000" stop="20191204040500 +0000" channel="HD8">
+    <title lang="en">Los Angeles Lakers vs Denver Nuggets</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204040500 +0000" stop="20191204043000 +0000" channel="HD8">
+    <title lang="en">REAL NBA</title>
+    <sub-title lang="en">KOBE BRYANT - NBA Original Programming 2019/2020</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204043000 +0000" stop="20191204073000 +0000" channel="HD8">
+    <title lang="en">Real Madrid TV 2019</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204073000 +0000" stop="20191204080000 +0000" channel="HD8">
+    <title lang="en">Sahil.. Story of Succes</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204080000 +0000" stop="20191204094000 +0000" channel="HD8">
+    <title lang="en">Utah Jazz vs Philadelphia 76ers</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204094000 +0000" stop="20191204115000 +0000" channel="HD8">
+    <title lang="en">Los Angeles Lakers vs Denver Nuggets</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204115000 +0000" stop="20191204134000 +0000" channel="HD8">
+    <title lang="en">Bidvest Wits South Africa vs. Horoya Guinea</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 MD1</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20191204134000 +0000" stop="20191204153000 +0000" channel="HD8">
+    <title lang="en">Al Nasr Libya vs. Djoliba Mali</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 MD1</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20191204153000 +0000" stop="20191204173000 +0000" channel="HD8">
+    <title lang="en">Los Angeles Lakers vs Denver Nuggets</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204173000 +0000" stop="20191204180000 +0000" channel="HD8">
+    <title lang="en">Super League Triathlon</title>
+    <sub-title lang="en">Malta - 2019/2020</sub-title>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20191204180000 +0000" stop="20191204195500 +0000" channel="HD8">
+    <title lang="en">Toulouse vs Monaco</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204195500 +0000" stop="20191204210000 +0000" channel="HD8">
+    <title lang="en">PSA</title>
+    <sub-title lang="en">Men's World Championship 2019/20 - Final</sub-title>
+    <category lang="en">Squash Chamionships</category>
+  </programme>
+  <programme start="20191204210000 +0000" stop="20191204220000 +0000" channel="HD8">
+    <title lang="en">Road to China</title>
+    <sub-title lang="en">Tunisia - 2019 FIBA Basketball World Cup</sub-title>
+    <category lang="en">Basketball - FIBA Championship</category>
+  </programme>
+  <programme start="20191204220000 +0000" stop="20191204234500 +0000" channel="HD8">
+    <title lang="en">Al Nasr Libya vs. Djoliba Mali</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 MD1</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20191204234500 +0000" stop="20191205013000 +0000" channel="HD8">
+    <title lang="en">Toulouse vs Monaco</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191205234500 +0000" stop="20191206013000 +0000" channel="HD8">
+    <title lang="en">Toulouse vs Monaco</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204000500 +0000" stop="20191204025000 +0000" channel="HD9">
+    <title lang="en">A. Barty AUS vs P. Kvitova CZE Final</title>
+    <sub-title lang="en">Tennis WTA Sydney 2019</sub-title>
+    <category lang="en">Tennis - WTA</category>
+  </programme>
+  <programme start="20191204025000 +0000" stop="20191204050500 +0000" channel="HD9">
+    <title lang="en">Spain vs Canada</title>
+    <sub-title lang="en">Singles Match 1 - Final - Centre Court - Davis Cup Madrid Finals 2019</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204050500 +0000" stop="20191204073500 +0000" channel="HD9">
+    <title lang="en">Spain vs Canada</title>
+    <sub-title lang="en">Singles Match 2 - Final - Centre Court - Davis Cup Madrid Finals 2019</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204073500 +0000" stop="20191204094000 +0000" channel="HD9">
+    <title lang="en">Naomi Osaka JPN vs Anastasia Pavlyuchenkova RUS</title>
+    <sub-title lang="en">Final - WTA Osaka- Japan, 2019 - Premier</sub-title>
+    <category lang="en">Tennis - WTA</category>
+  </programme>
+  <programme start="20191204094000 +0000" stop="20191204121500 +0000" channel="HD9">
+    <title lang="en">Karolina Pliskova CZE vs Lesia Tsurenko UKR</title>
+    <sub-title lang="en">Final - Tennis WTA Brisbane 2019</sub-title>
+    <category lang="en">Tennis - WTA</category>
+  </programme>
+  <programme start="20191204121500 +0000" stop="20191204150000 +0000" channel="HD9">
+    <title lang="en">A. Barty AUS vs P. Kvitova CZE Final</title>
+    <sub-title lang="en">Tennis WTA Sydney 2019</sub-title>
+    <category lang="en">Tennis - WTA</category>
+  </programme>
+  <programme start="20191204150000 +0000" stop="20191204160000 +0000" channel="HD9">
+    <title lang="en">ATP 1000 Shanghai Masters 2019 Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204160000 +0000" stop="20191204163000 +0000" channel="HD9">
+    <title lang="en">WTA Wuhan 2019</title>
+    <sub-title lang="en">Highlights</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204163000 +0000" stop="20191204170000 +0000" channel="HD9">
+    <title lang="en">Daniil Medvedev RUS vs Rafael Nadal ESP</title>
+    <sub-title lang="en">Men's Singles Final - Mini Match US Open 2019 - MM2  D</sub-title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20191204170000 +0000" stop="20191204175500 +0000" channel="HD9">
+    <title lang="en">À la table de beIN</title>
+    <sub-title lang="en">Fed Cup 2019</sub-title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20191204175500 +0000" stop="20191204200000 +0000" channel="HD9">
+    <title lang="en">Dijon vs Montpellier</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204200000 +0000" stop="20191204210000 +0000" channel="HD9">
+    <title lang="en">ATP 1000 Paris Masters 2019 Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204210000 +0000" stop="20191204223000 +0000" channel="HD9">
+    <title lang="en">Alex de MinaurAUS vs Jannik SinnerITA</title>
+    <sub-title lang="en">Tennis Next Gen Finals Fiera - Milan Italy 2019 - Final</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204223000 +0000" stop="20191205001000 +0000" channel="HD9">
+    <title lang="en">Novak Djokovic SRB vs Denis Shapovalov CAN</title>
+    <sub-title lang="en">Tennis ATP Masters 1000 Paris  - 2019 Final</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191205223000 +0000" stop="20191206001000 +0000" channel="HD9">
+    <title lang="en">Novak Djokovic SRB vs Denis Shapovalov CAN</title>
+    <sub-title lang="en">Tennis ATP Masters 1000 Paris  - 2019 Final</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204003000 +0000" stop="20191204010000 +0000" channel="HD10">
+    <title lang="en">Land of Legends</title>
+    <sub-title lang="en">Behind the superiority in the Japanese way of Judo</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204010000 +0000" stop="20191204020100 +0000" channel="HD10">
+    <title lang="en">Best of winter olympics / 2018</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204020100 +0000" stop="20191204040000 +0000" channel="HD10">
+    <title lang="en">Lens   vs  Chambly French League 2 /20182019</title>
+    <category lang="en">French League - Ligue 2</category>
+  </programme>
+  <programme start="20191204040000 +0000" stop="20191204050000 +0000" channel="HD10">
+    <title lang="en">Road to Glory Athletics The Sprinters</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204050000 +0000" stop="20191204063000 +0000" channel="HD10">
+    <title lang="en">The Nagano Tapes</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204063000 +0000" stop="20191204070000 +0000" channel="HD10">
+    <title lang="en">Land of Legends</title>
+    <sub-title lang="en">Behind the superiority in the Japanese way of Judo</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204070000 +0000" stop="20191204080000 +0000" channel="HD10">
+    <title lang="en">Best of winter olympics / 2018</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204080000 +0000" stop="20191204090000 +0000" channel="HD10">
+    <title lang="en">Road to Glory Athletics The Sprinters</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204090000 +0000" stop="20191204110000 +0000" channel="HD10">
+    <title lang="en">Lens   vs  Chambly French League 2 /20182019</title>
+    <category lang="en">French League - Ligue 2</category>
+  </programme>
+  <programme start="20191204110000 +0000" stop="20191204120000 +0000" channel="HD10">
+    <title lang="en">Arriba Cuba</title>
+    <sub-title lang="en">Olympic Programs - October 2018</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204120000 +0000" stop="20191204130000 +0000" channel="HD10">
+    <title lang="en">Best of winter olympics / 2018</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204130000 +0000" stop="20191204140000 +0000" channel="HD10">
+    <title lang="en">Road to Glory Athletics The Sprinters</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204140000 +0000" stop="20191204145800 +0000" channel="HD10">
+    <title lang="en">The Z Team 2</title>
+    <sub-title lang="en">Can a Finish Olympic ice hockey legend change this Chinese team’s fortune</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204145800 +0000" stop="20191204155200 +0000" channel="HD10">
+    <title lang="en">Sakshi</title>
+    <sub-title lang="en">India's Super Women Olympic - Documentaries / 2019</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204155200 +0000" stop="20191204164000 +0000" channel="HD10">
+    <title lang="en">Shredding Monsters</title>
+    <sub-title lang="en">Nazaré</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204164000 +0000" stop="20191204170900 +0000" channel="HD10">
+    <title lang="en">Land of Legends</title>
+    <sub-title lang="en">Behind India’s formidable place in field hockey</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204170900 +0000" stop="20191204180000 +0000" channel="HD10">
+    <title lang="en">Best Moment of Rio</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204180000 +0000" stop="20191204200000 +0000" channel="HD10">
+    <title lang="en">Metz vs Rennes</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 16</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204200000 +0000" stop="20191204210000 +0000" channel="HD10">
+    <title lang="en">Winter Tales</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="onscreen">S01E03</episode-num>
+  </programme>
+  <programme start="20191204210000 +0000" stop="20191204213000 +0000" channel="HD10">
+    <title lang="en">London 2012 Olympic Story</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204213000 +0000" stop="20191204223000 +0000" channel="HD10">
+    <title lang="en">Olympic Sports Road to glory</title>
+    <sub-title lang="en">Gymnastics</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204223000 +0000" stop="20191205000000 +0000" channel="HD10">
+    <title lang="en">Kiel vs Montpellier</title>
+    <sub-title lang="en">Handball EHF Champions League Mens 2019</sub-title>
+    <category lang="en">Handball - EHF Champions League</category>
+  </programme>
+  <programme start="20191205223000 +0000" stop="20191206000000 +0000" channel="HD10">
+    <title lang="en">Kiel vs Montpellier</title>
+    <sub-title lang="en">Handball EHF Champions League Mens 2019</sub-title>
+    <category lang="en">Handball - EHF Champions League</category>
+  </programme>
+  <programme start="20191204000000 +0000" stop="20191204002000 +0000" channel="SportsHD11">
+    <title lang="en">La Liga Genuine 2019/20</title>
+    <sub-title lang="en">Nastic de Tarragona</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204002000 +0000" stop="20191204003500 +0000" channel="SportsHD11">
+    <title lang="en">SPFL Scottish Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204003500 +0000" stop="20191204010000 +0000" channel="SportsHD11">
+    <title lang="en">Man Utd v Aston Villa</title>
+    <sub-title lang="en">EPL Mini Match 2019/2020</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204010000 +0000" stop="20191204033000 +0000" channel="SportsHD11">
+    <title lang="en">Burnley vs Manchester City</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204033000 +0000" stop="20191204050000 +0000" channel="SportsHD11">
+    <title lang="en">Viva La Liga 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204050000 +0000" stop="20191204053000 +0000" channel="SportsHD11">
+    <title lang="en">Copa Libertadores Final Highlights 2019</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204053000 +0000" stop="20191204060000 +0000" channel="SportsHD11">
+    <title lang="en">Monchengladbach vs Freiburg</title>
+    <sub-title lang="en">Mini Match - Bundesliga 2019/2020</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204060000 +0000" stop="20191204063000 +0000" channel="SportsHD11">
+    <title lang="en">Sevilla vs Leganes</title>
+    <sub-title lang="en">Mini Match - Spanish La Liga 2019/2020</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204063000 +0000" stop="20191204073000 +0000" channel="SportsHD11">
+    <title lang="en">UEL Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204073000 +0000" stop="20191204080000 +0000" channel="SportsHD11">
+    <title lang="en">Preston vs West Brom</title>
+    <sub-title lang="en">MINI MATCH - EFL-English Football League - 2019/20</sub-title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20191204080000 +0000" stop="20191204083000 +0000" channel="SportsHD11">
+    <title lang="en">Norwich vs Arsenal</title>
+    <sub-title lang="en">EPL Mini Match 2019/2020</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204083000 +0000" stop="20191204090000 +0000" channel="SportsHD11">
+    <title lang="en">EFL Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204090000 +0000" stop="20191204093000 +0000" channel="SportsHD11">
+    <title lang="en">This is Paris 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204093000 +0000" stop="20191204100000 +0000" channel="SportsHD11">
+    <title lang="en">Man Utd v Aston Villa</title>
+    <sub-title lang="en">EPL Mini Match 2019/2020</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204100000 +0000" stop="20191204103000 +0000" channel="SportsHD11">
+    <title lang="en">Juventus vs Sassuolo</title>
+    <sub-title lang="en">Mini Match - Italian Serie A 2019/2020</sub-title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20191204103000 +0000" stop="20191204110000 +0000" channel="SportsHD11">
+    <title lang="en">FA Cup Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204110000 +0000" stop="20191204113000 +0000" channel="SportsHD11">
+    <title lang="en">UCL Magazine 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204113000 +0000" stop="20191204120000 +0000" channel="SportsHD11">
+    <title lang="en">Inter vs Spal</title>
+    <sub-title lang="en">Mini Match - Italian Serie A 2019/2020</sub-title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20191204120000 +0000" stop="20191204123000 +0000" channel="SportsHD11">
+    <title lang="en">FIFA Women's World Cup 2019</title>
+    <sub-title lang="en">A Nation's story</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204123000 +0000" stop="20191204130000 +0000" channel="SportsHD11">
+    <title lang="en">Premier League Today 1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204130000 +0000" stop="20191204133000 +0000" channel="SportsHD11">
+    <title lang="en">EFL Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204133000 +0000" stop="20191204140000 +0000" channel="SportsHD11">
+    <title lang="en">Verona vs Roma</title>
+    <sub-title lang="en">Mini Match - Italian Serie A 2019/2020</sub-title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20191204140000 +0000" stop="20191204143000 +0000" channel="SportsHD11">
+    <title lang="en">Monchengladbach vs Freiburg</title>
+    <sub-title lang="en">Mini Match - Bundesliga 2019/2020</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20191204143000 +0000" stop="20191204150000 +0000" channel="SportsHD11">
+    <title lang="en">La Liga World 2019/20</title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20191204150000 +0000" stop="20191204153000 +0000" channel="SportsHD11">
+    <title lang="en">English News</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20191204153000 +0000" stop="20191204170000 +0000" channel="SportsHD11">
+    <title lang="en">EPL The Analysis Show 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204170000 +0000" stop="20191204173000 +0000" channel="SportsHD11">
+    <title lang="en">English News</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20191204173000 +0000" stop="20191204180000 +0000" channel="SportsHD11">
+    <title lang="en">EFL Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204180000 +0000" stop="20191204183000 +0000" channel="SportsHD11">
+    <title lang="en">Premier League Today 2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204183000 +0000" stop="20191204190000 +0000" channel="SportsHD11">
+    <title lang="en">FA Cup Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204190000 +0000" stop="20191204213000 +0000" channel="SportsHD11">
+    <title lang="en">Manchester United vs Tottenham</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204213000 +0000" stop="20191204230000 +0000" channel="SportsHD11">
+    <title lang="en">Liverpool vs Everton</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204230000 +0000" stop="20191204233000 +0000" channel="SportsHD11">
+    <title lang="en">Angers vs Marseille</title>
+    <sub-title lang="en">Mini Match - French Ligue 1 2019/2020</sub-title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20191204233000 +0000" stop="20191205000000 +0000" channel="SportsHD11">
+    <title lang="en">Lyon vs Lille</title>
+    <sub-title lang="en">Mini Match - French Ligue 1 2019/2020</sub-title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20191205233000 +0000" stop="20191206000000 +0000" channel="SportsHD11">
+    <title lang="en">Lyon vs Lille</title>
+    <sub-title lang="en">Mini Match - French Ligue 1 2019/2020</sub-title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20191204003500 +0000" stop="20191204013000 +0000" channel="SportsHD12">
+    <title lang="en">French Ligue 1 Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204013000 +0000" stop="20191204020000 +0000" channel="SportsHD12">
+    <title lang="en">NBA 90's Volume 2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204020000 +0000" stop="20191204040000 +0000" channel="SportsHD12">
+    <title lang="en">Los Angeles Lakers vs Denver Nuggets</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204040000 +0000" stop="20191204050000 +0000" channel="SportsHD12">
+    <title lang="en">La Liga Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204050000 +0000" stop="20191204060000 +0000" channel="SportsHD12">
+    <title lang="en">Serie A Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204060000 +0000" stop="20191204080000 +0000" channel="SportsHD12">
+    <title lang="en">Crystal Palace vs Bournemouth</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204080000 +0000" stop="20191204100000 +0000" channel="SportsHD12">
+    <title lang="en">Los Angeles Lakers vs Denver Nuggets</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204100000 +0000" stop="20191204115000 +0000" channel="SportsHD12">
+    <title lang="en">Derby County vs QPR</title>
+    <sub-title lang="en">EFL-English Football League - Championship 2019/20</sub-title>
+    <category lang="en">English League - Championship</category>
+  </programme>
+  <programme start="20191204115000 +0000" stop="20191204120500 +0000" channel="SportsHD12">
+    <title lang="en">SPFL Scottish Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204120500 +0000" stop="20191204123000 +0000" channel="SportsHD12">
+    <title lang="en">La Liga Genuine 2019/20</title>
+    <sub-title lang="en">Nastic de Tarragona</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204123000 +0000" stop="20191204153000 +0000" channel="SportsHD12">
+    <title lang="en">Melbourne Stars vs Melbourne Renegades</title>
+    <sub-title lang="en">Women's Big Bash League</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20191204153000 +0000" stop="20191204160000 +0000" channel="SportsHD12">
+    <title lang="en">NFL Gameday 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204160000 +0000" stop="20191204163000 +0000" channel="SportsHD12">
+    <title lang="en">Serie A Full Impact 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204163000 +0000" stop="20191204164500 +0000" channel="SportsHD12">
+    <title lang="en">SPFL Scottish Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204164500 +0000" stop="20191204183100 +0000" channel="SportsHD12">
+    <title lang="en">Bidvest Wits South Africa vs. Horoya Guinea</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 MD1</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20191204183100 +0000" stop="20191204190000 +0000" channel="SportsHD12">
+    <title lang="en">La Liga 90 Anniversary</title>
+    <sub-title lang="en">Andoni Zubizarreta</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204190000 +0000" stop="20191204192000 +0000" channel="SportsHD12">
+    <title lang="en">La Liga Genuine 2019/20</title>
+    <sub-title lang="en">Nastic de Tarragona</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204192000 +0000" stop="20191204213000 +0000" channel="SportsHD12">
+    <title lang="en">Chelsea vs Aston Villa</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 15</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204213000 +0000" stop="20191204223000 +0000" channel="SportsHD12">
+    <title lang="en">La Liga Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204223000 +0000" stop="20191205010500 +0000" channel="SportsHD12">
+    <title lang="en">Minnesota Vikings vs Seattle Seahawks</title>
+    <sub-title lang="en">NFL -National Footbal League Regular Season  - 2019/2020</sub-title>
+    <category lang="en">NFL- National Football League</category>
+  </programme>
+  <programme start="20191205223000 +0000" stop="20191206010500 +0000" channel="SportsHD12">
+    <title lang="en">Minnesota Vikings vs Seattle Seahawks</title>
+    <sub-title lang="en">NFL -National Footbal League Regular Season  - 2019/2020</sub-title>
+    <category lang="en">NFL- National Football League</category>
+  </programme>
+  <programme start="20191204000000 +0000" stop="20191204020000 +0000" channel="SportsHD13">
+    <title lang="en">Dallas Mavericks vs Los Angeles Lakers</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204020000 +0000" stop="20191204034500 +0000" channel="SportsHD13">
+    <title lang="en">Utah Jazz vs Philadelphia 76ers</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204034500 +0000" stop="20191204054000 +0000" channel="SportsHD13">
+    <title lang="en">Wales vs Barbarians  International Rugby</title>
+    <sub-title lang="en">2019</sub-title>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20191204054000 +0000" stop="20191204071200 +0000" channel="SportsHD13">
+    <title lang="en">San Antonio Spurs vs Detroit Pistons</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204071200 +0000" stop="20191204090000 +0000" channel="SportsHD13">
+    <title lang="en">Burnley vs Crystal Palace</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 14</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20191204090000 +0000" stop="20191204093000 +0000" channel="SportsHD13">
+    <title lang="en">Dream Team Catalogue 2019</title>
+    <sub-title lang="en">Welsh Triathlon Super Series Round 1 - Llanelli Triathlon</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204093000 +0000" stop="20191204112000 +0000" channel="SportsHD13">
+    <title lang="en">Bidvest Wits South Africa vs. Horoya Guinea</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 MD1</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20191204112000 +0000" stop="20191204131000 +0000" channel="SportsHD13">
+    <title lang="en">Motema RD Congo vs. Zanaco ZAM</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 MD1</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20191204131000 +0000" stop="20191204141000 +0000" channel="SportsHD13">
+    <title lang="en">La Liga Smart Bank Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204141000 +0000" stop="20191204161500 +0000" channel="SportsHD13">
+    <title lang="en">Dallas Mavericks vs Los Angeles Lakers</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204161500 +0000" stop="20191204180000 +0000" channel="SportsHD13">
+    <title lang="en">Utah Jazz vs Philadelphia 76ers</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+    <episode-num system="onscreen">S2019</episode-num>
+  </programme>
+  <programme start="20191204180000 +0000" stop="20191204183000 +0000" channel="SportsHD13">
+    <title lang="en">Dream Team Catalogue 2019</title>
+    <sub-title lang="en">Welsh Triathlon Super Series Round 2 - Steelman Triathlon</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204183000 +0000" stop="20191204194000 +0000" channel="SportsHD13">
+    <title lang="en">La Liga Smart Bank Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20191204194000 +0000" stop="20191204213000 +0000" channel="SportsHD13">
+    <title lang="en">Aberdeen vs Rangers</title>
+    <sub-title lang="en">Scottish Premiership  2019/2020 SPFL</sub-title>
+    <category lang="en">Scottish Premier League</category>
+  </programme>
+  <programme start="20191204213000 +0000" stop="20191204220000 +0000" channel="SportsHD13">
+    <title lang="en">Bundesliga Special 2019/20</title>
+    <sub-title lang="en">Best of November</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204220000 +0000" stop="20191204234500 +0000" channel="SportsHD13">
+    <title lang="en">Motema RD Congo vs. Zanaco ZAM</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 MD1</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20191204234500 +0000" stop="20191205013000 +0000" channel="SportsHD13">
+    <title lang="en">Montpellier vs Amiens</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 15</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191205234500 +0000" stop="20191206013000 +0000" channel="SportsHD13">
+    <title lang="en">Montpellier vs Amiens</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 15</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20191204001500 +0000" stop="20191204010000 +0000" channel="SportsHD14">
+    <title lang="en">NBA</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204010000 +0000" stop="20191204040000 +0000" channel="SportsHD14">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">LAKERS NUGGETS</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204040000 +0000" stop="20191204051500 +0000" channel="SportsHD14">
+    <title lang="en">OMAR C EST FOOT</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204051500 +0000" stop="20191204071500 +0000" channel="SportsHD14">
+    <title lang="en">LIGUE 1</title>
+    <sub-title lang="en">J16: LYON LILLE</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204071500 +0000" stop="20191204090000 +0000" channel="SportsHD14">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">ROCKETS SPURS</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204090000 +0000" stop="20191204104500 +0000" channel="SportsHD14">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">LAKERS NUGGETS</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204104500 +0000" stop="20191204113000 +0000" channel="SportsHD14">
+    <title lang="en">NBA</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204113000 +0000" stop="20191204132000 +0000" channel="SportsHD14">
+    <title lang="en">SERIE a</title>
+    <sub-title lang="en">J14: JUVENTUS SASSUOLO</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204132000 +0000" stop="20191204133000 +0000" channel="SportsHD14">
+    <title lang="en">CA SE PASSE SUR beIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204133000 +0000" stop="20191204153000 +0000" channel="SportsHD14">
+    <title lang="en">BUNDESLIGA</title>
+    <sub-title lang="en">J13: MUNICH LEVERKUSEN</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204153000 +0000" stop="20191204160000 +0000" channel="SportsHD14">
+    <title lang="en">This Is Paris</title>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20191204160000 +0000" stop="20191204163000 +0000" channel="SportsHD14">
+    <title lang="en">BEIN ESPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204163000 +0000" stop="20191204165500 +0000" channel="SportsHD14">
+    <title lang="en">LIGUE 1</title>
+    <sub-title lang="en">J16: AVANT MATCH MULTILIGUE 1</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204165500 +0000" stop="20191204190500 +0000" channel="SportsHD14">
+    <title lang="en">LIGUE 1</title>
+    <sub-title lang="en">J16: MULTILIGUE 1</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204190500 +0000" stop="20191204200000 +0000" channel="SportsHD14">
+    <title lang="en">MAXI LIGUE 2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204200000 +0000" stop="20191204220000 +0000" channel="SportsHD14">
+    <title lang="en">LIGA</title>
+    <sub-title lang="en">J15: ATLETICO BARCELONE</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204220000 +0000" stop="20191205040000 +0000" channel="SportsHD14">
+    <title lang="en">LIGUE 1</title>
+    <sub-title lang="en">J16: PSG NANTES</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191205220000 +0000" stop="20191206040000 +0000" channel="SportsHD14">
+    <title lang="en">LIGUE 1</title>
+    <sub-title lang="en">J16: PSG NANTES</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204000000 +0000" stop="20191204004500 +0000" channel="SportsHD15">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204004500 +0000" stop="20191204013000 +0000" channel="SportsHD15">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204013000 +0000" stop="20191204021500 +0000" channel="SportsHD15">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204021500 +0000" stop="20191204025500 +0000" channel="SportsHD15">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204025500 +0000" stop="20191204040000 +0000" channel="SportsHD15">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204040000 +0000" stop="20191204050000 +0000" channel="SportsHD15">
+    <title lang="en">Label Boxe</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204050000 +0000" stop="20191204070000 +0000" channel="SportsHD15">
+    <title lang="en">LIGUE 1</title>
+    <sub-title lang="en">J16: ANGERS MARSEILLE</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204070000 +0000" stop="20191204090000 +0000" channel="SportsHD15">
+    <title lang="en">BUNDESLIGA</title>
+    <sub-title lang="en">J13: HERTHA DORTMUND</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204090000 +0000" stop="20191204105000 +0000" channel="SportsHD15">
+    <title lang="en">LIGA</title>
+    <sub-title lang="en">J15: VALENCIA VILLARREAL</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204105000 +0000" stop="20191204110000 +0000" channel="SportsHD15">
+    <title lang="en">CA SE PASSE SUR beIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204110000 +0000" stop="20191204130000 +0000" channel="SportsHD15">
+    <title lang="en">BUNDESLIGA</title>
+    <sub-title lang="en">J13: PADERBORN LEIPZIG</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204130000 +0000" stop="20191204151500 +0000" channel="SportsHD15">
+    <title lang="en">SERIE a</title>
+    <sub-title lang="en">J14: HELLAS ROMA</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204151500 +0000" stop="20191204154500 +0000" channel="SportsHD15">
+    <title lang="en">BEIN ESPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204154500 +0000" stop="20191204165500 +0000" channel="SportsHD15">
+    <title lang="en">OMAR C EST FOOT</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204165500 +0000" stop="20191204190000 +0000" channel="SportsHD15">
+    <title lang="en">LIGUE 1</title>
+    <sub-title lang="en">J16: SAINT ETIENNE NICE</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204190000 +0000" stop="20191204210000 +0000" channel="SportsHD15">
+    <title lang="en">BUNDESLIGA</title>
+    <sub-title lang="en">J13: MUNICH LEVERKUSEN</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204210000 +0000" stop="20191204220000 +0000" channel="SportsHD15">
+    <title lang="en">MAXI LIGUE 2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204220000 +0000" stop="20191205040000 +0000" channel="SportsHD15">
+    <title lang="en">SERIE a</title>
+    <sub-title lang="en">J14: INTER SPAL</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191205220000 +0000" stop="20191206040000 +0000" channel="SportsHD15">
+    <title lang="en">SERIE a</title>
+    <sub-title lang="en">J14: INTER SPAL</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204001000 +0000" stop="20191204005500 +0000" channel="SportsHD16">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204005500 +0000" stop="20191204014000 +0000" channel="SportsHD16">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204014000 +0000" stop="20191204022500 +0000" channel="SportsHD16">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204022500 +0000" stop="20191204031500 +0000" channel="SportsHD16">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204031500 +0000" stop="20191204040000 +0000" channel="SportsHD16">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204040000 +0000" stop="20191204050000 +0000" channel="SportsHD16">
+    <title lang="en">BEIN ESPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204050000 +0000" stop="20191204053000 +0000" channel="SportsHD16">
+    <title lang="en">This Is Paris</title>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20191204053000 +0000" stop="20191204064500 +0000" channel="SportsHD16">
+    <title lang="en">OMAR C EST FOOT</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204064500 +0000" stop="20191204083000 +0000" channel="SportsHD16">
+    <title lang="en">LIGUE DES CHAMPIONS MASCULINE J10</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204083000 +0000" stop="20191204103000 +0000" channel="SportsHD16">
+    <title lang="en">LIGUE 1</title>
+    <sub-title lang="en">J16: LYON LILLE</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204103000 +0000" stop="20191204121500 +0000" channel="SportsHD16">
+    <title lang="en">BEIN ESPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204121500 +0000" stop="20191204135000 +0000" channel="SportsHD16">
+    <title lang="en">LIGUE DES CHAMPIONS MASCULINE J10</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204135000 +0000" stop="20191204140000 +0000" channel="SportsHD16">
+    <title lang="en">CA SE PASSE SUR beIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204140000 +0000" stop="20191204160000 +0000" channel="SportsHD16">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">ROCKETS SPURS</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204160000 +0000" stop="20191204165500 +0000" channel="SportsHD16">
+    <title lang="en">NBA</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204165500 +0000" stop="20191204185500 +0000" channel="SportsHD16">
+    <title lang="en">LIGUE 1</title>
+    <sub-title lang="en">J16: TOULOUSE MONACO</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204185500 +0000" stop="20191204210000 +0000" channel="SportsHD16">
+    <title lang="en">LIGUE 1</title>
+    <sub-title lang="en">J16: PSG NANTES</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204210000 +0000" stop="20191204223000 +0000" channel="SportsHD16">
+    <title lang="en">OMAR C EST FOOT</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204223000 +0000" stop="20191204234500 +0000" channel="SportsHD16">
+    <title lang="en">Label Boxe</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204234500 +0000" stop="20191205040000 +0000" channel="SportsHD16">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191205234500 +0000" stop="20191206040000 +0000" channel="SportsHD16">
+    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20191204000000 +0000" stop="20191204000000 +0000" channel="SportsHD17">
+    <title lang="en">beIN Sports 17HD</title>
+    <category lang="en">Sports General</category>
+  </programme>
+</tv>
