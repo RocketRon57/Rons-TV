@@ -1,0 +1,1682 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SuperSport HD 1">
+    <display-name lang="en">SuperSport HD 1</display-name>
+    <url>http://www.dstv.co.za</url>
+  </channel>
+  <programme start="20191204000000 +0000" stop="20191204015500 +0000" channel="SuperSport HD 1">
+    <title lang="en">Six Nations '19: ITA v FRA</title>
+    <sub-title lang="en">Round 5: Italy vs France</sub-title>
+    <desc lang="en">'Round 5: Italy vs France'. From Stadio Olimpico - Rome, Italy.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/159049_italy_vs_france.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204015500 +0000" stop="20191204035500 +0000" channel="SuperSport HD 1">
+    <title lang="en">Six Nations '19: WAL v IRE</title>
+    <sub-title lang="en">Round 5: Wales vs Ireland</sub-title>
+    <desc lang="en">'Round 5: Wales vs Ireland'. From Principality Stadium - Cardiff, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/159050_wales_vs_ireland.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204035500 +0000" stop="20191204055000 +0000" channel="SuperSport HD 1">
+    <title lang="en">Six Nations '19: ENG v SCO</title>
+    <sub-title lang="en">Round 5: England vs Scotland</sub-title>
+    <desc lang="en">'Round 5: England vs Scotland'. From Twickenham Stadium - London, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/159048_england_vs_scotland.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204055000 +0000" stop="20191204060000 +0000" channel="SuperSport HD 1">
+    <title lang="en">Int Rugby HL '19: WAL v Barbarians</title>
+    <sub-title lang="en">International Rugby Blitz Highlights - Wales vs Barbarians</sub-title>
+    <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/111951_wales_rugby.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204060000 +0000" stop="20191204063000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
+    <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
+    <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112148_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204063000 +0000" stop="20191204070000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112148_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204070000 +0000" stop="20191204084500 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 19/20: Connacht v Kings</title>
+    <sub-title lang="en">GUINNESS PRO14 - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
+    <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/157622_r7_connacht_rugby_v_isuzu_southern_kings.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204084500 +0000" stop="20191204085500 +0000" channel="SuperSport HD 1">
+    <title lang="en">Int Rugby HL '19: WAL v Barbarians</title>
+    <sub-title lang="en">International Rugby Blitz Highlights - Wales vs Barbarians</sub-title>
+    <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/111951_wales_rugby.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204085500 +0000" stop="20191204104000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/157623_r7_ospreys_v_toyota_cheetahs.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204104000 +0000" stop="20191204122500 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 19/20: Munster v Edinburgh</title>
+    <sub-title lang="en">GUINNESS PRO14 - Round 7: Munster Rugby vs Edinburgh Rugby</sub-title>
+    <desc lang="en">From Irish Independent Park - Cork, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/157401_r7_munster_rugby_v_edinburgh_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204122500 +0000" stop="20191204123000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
+    <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
+    <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112140_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204123000 +0000" stop="20191204123500 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112140_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204123500 +0000" stop="20191204142500 +0000" channel="SuperSport HD 1">
+    <title lang="en">Int Rugby '19: WAL v Barbarians</title>
+    <sub-title lang="en">International Rugby - Wales vs Barbarians</sub-title>
+    <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/157634_wales_vs_barbarians.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204142500 +0000" stop="20191204143000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112140_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204143000 +0000" stop="20191204150000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
+    <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
+    <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112148_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204150000 +0000" stop="20191204153000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112148_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204153000 +0000" stop="20191204160000 +0000" channel="SuperSport HD 1">
+    <title lang="en">What a Weekend</title>
+    <sub-title lang="en">19/47</sub-title>
+    <desc lang="en">Missed anything from the past weekend's sports action? We've got all the trending moments and highlights for you right here.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/132316_what_a_weekend_2.png" />
+    <episode-num system="onscreen">S19 E47</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204160000 +0000" stop="20191204170000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Story of Rugby</title>
+    <sub-title lang="en">The Professional Game</sub-title>
+    <desc lang="en">An epic six-part global documentary series that takes a cinematic exploration of the fastest growing major team sport in the word - rugby.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/155129_the_story_of_rugby.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204170000 +0000" stop="20191204173000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Cheetah Chase</title>
+    <sub-title lang="en">19/105</sub-title>
+    <desc lang="en">A behind-the-scenes look at the Toyota Free State Cheetahs.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/133991_the_cheetah_chase.png" />
+    <episode-num system="onscreen">S19 E105</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204173000 +0000" stop="20191204180000 +0000" channel="SuperSport HD 1">
+    <title lang="en">Sharkbite TV</title>
+    <sub-title lang="en">19/12</sub-title>
+    <desc lang="en">A behind-the-scenes look at the Natal Sharks.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/130583_sharkbitetv.png" />
+    <episode-num system="onscreen">S19 E12</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204180000 +0000" stop="20191204190000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Springboks: Glory in Japan</title>
+    <sub-title lang="en">Glory in Japan</sub-title>
+    <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158578_springboks.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204190000 +0000" stop="20191204193000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
+    <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
+    <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112148_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204193000 +0000" stop="20191204200000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112148_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204200000 +0000" stop="20191204230000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PGA 19/20: Hero World Challenge D1</title>
+    <sub-title lang="en">PGA Tour - Hero World Challenge Day 1</sub-title>
+    <desc lang="en">LIVE from Albany - New Providence, Bahamas.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158885_hero_world_challenge.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204230000 +0000" stop="20191205000000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Springboks: Glory in Japan</title>
+    <sub-title lang="en">Glory in Japan</sub-title>
+    <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158578_springboks.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205000000 +0000" stop="20191205010000 +0000" channel="SuperSport HD 1">
+    <title lang="en">Schalk Burger</title>
+    <sub-title lang="en">Documentary</sub-title>
+    <desc lang="en">'Documentary'. Schalk Burger, the legendary Springbok, tells his story.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/145384_supersport.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205010000 +0000" stop="20191205013000 +0000" channel="SuperSport HD 1">
+    <title lang="en">RWC HL '19 QF1: ENG v AUS</title>
+    <sub-title lang="en">Rugby World Cup Highlights - Quarter-final 1: England vs Australia</sub-title>
+    <desc lang="en">From Oita Stadium - Oita, Japan.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/146876_01_rugby_world_cup_2019_logo.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205013000 +0000" stop="20191205020000 +0000" channel="SuperSport HD 1">
+    <title lang="en">RWC HL '19 QF2: NZL v IRE</title>
+    <sub-title lang="en">Rugby World Cup Highlights - Quarter-final 2: New Zealand vs Ireland</sub-title>
+    <desc lang="en">From Tokyo Stadium - Tokyo, Japan.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/146876_01_rugby_world_cup_2019_logo.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205020000 +0000" stop="20191205023000 +0000" channel="SuperSport HD 1">
+    <title lang="en">RWC HL '19 QF3: WAL v FRA</title>
+    <sub-title lang="en">Rugby World Cup Highlights - Quarter-final 3: Wales vs France</sub-title>
+    <desc lang="en">From Oita Stadium - Oita, Japan.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/146876_01_rugby_world_cup_2019_logo.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205023000 +0000" stop="20191205030000 +0000" channel="SuperSport HD 1">
+    <title lang="en">RWC HL '19 QF4: JPN v RSA</title>
+    <sub-title lang="en">Rugby World Cup Highlights - Quarter-final 4: Japan vs South Africa</sub-title>
+    <desc lang="en">From Tokyo Stadium - Tokyo, Japan.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/146876_01_rugby_world_cup_2019_logo.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205030000 +0000" stop="20191205033000 +0000" channel="SuperSport HD 1">
+    <title lang="en">RWC HL '19 SF1: ENG v NZL</title>
+    <sub-title lang="en">Rugby World Cup Highlights - Semi-final 1: England vs New Zealand</sub-title>
+    <desc lang="en">From International Stadium Yokohama - Yokohama, Japan.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/146876_01_rugby_world_cup_2019_logo.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205033000 +0000" stop="20191205040000 +0000" channel="SuperSport HD 1">
+    <title lang="en">RWC HL '19 SF2: WAL v RSA</title>
+    <sub-title lang="en">Rugby World Cup Highlights - Semi-final 2: Wales vs South Africa</sub-title>
+    <desc lang="en">From International Stadium Yokohama - Yokohama, Japan.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/146876_01_rugby_world_cup_2019_logo.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205040000 +0000" stop="20191205043000 +0000" channel="SuperSport HD 1">
+    <title lang="en">RWC HL '19 Bronze Final: NZL v WAL</title>
+    <sub-title lang="en">Rugby World Cup Highlights - Bronze Final: New Zealand vs Wales</sub-title>
+    <desc lang="en">From Tokyo Stadium - Tokyo, Japan.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/146876_01_rugby_world_cup_2019_logo.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205043000 +0000" stop="20191205050000 +0000" channel="SuperSport HD 1">
+    <title lang="en">RWC HL '19 Final: ENG v RSA</title>
+    <sub-title lang="en">Rugby World Cup Highlights - Final: England vs South Africa</sub-title>
+    <desc lang="en">From International Stadium Yokohama - Yokohama, Japan.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/146876_01_rugby_world_cup_2019_logo.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205050000 +0000" stop="20191205060000 +0000" channel="SuperSport HD 1">
+    <title lang="en">Cheslin Kolbe</title>
+    <sub-title lang="en">Documentary</sub-title>
+    <desc lang="en">'Documentary'. Cheslin Kolbe's heartwarming story and journey to the Springboks.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/145310_supersport.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205060000 +0000" stop="20191205070000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Springboks: Glory in Japan</title>
+    <sub-title lang="en">Glory in Japan</sub-title>
+    <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158578_springboks.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205070000 +0000" stop="20191205073000 +0000" channel="SuperSport HD 1">
+    <title lang="en">Sharkbite TV</title>
+    <sub-title lang="en">19/12</sub-title>
+    <desc lang="en">A behind-the-scenes look at the Natal Sharks.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/130583_sharkbitetv.png" />
+    <episode-num system="onscreen">S19 E12</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205073000 +0000" stop="20191205080000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
+    <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
+    <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112148_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205080000 +0000" stop="20191205083000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112148_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205083000 +0000" stop="20191205102000 +0000" channel="SuperSport HD 1">
+    <title lang="en">Int Rugby '19: WAL v Barbarians</title>
+    <sub-title lang="en">International Rugby - Wales vs Barbarians</sub-title>
+    <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/157634_wales_vs_barbarians.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205102000 +0000" stop="20191205102500 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
+    <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
+    <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112140_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205102500 +0000" stop="20191205103000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112140_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205103000 +0000" stop="20191205110000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Cheetah Chase</title>
+    <sub-title lang="en">19/105</sub-title>
+    <desc lang="en">A behind-the-scenes look at the Toyota Free State Cheetahs.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/133991_the_cheetah_chase.png" />
+    <episode-num system="onscreen">S19 E105</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205110000 +0000" stop="20191205120000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Springboks: Glory in Japan</title>
+    <sub-title lang="en">Glory in Japan</sub-title>
+    <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158578_springboks.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205120000 +0000" stop="20191205123000 +0000" channel="SuperSport HD 1">
+    <title lang="en">RWC HL '19 Final: ENG v RSA</title>
+    <sub-title lang="en">Rugby World Cup Highlights - Final: England vs South Africa</sub-title>
+    <desc lang="en">From International Stadium Yokohama - Yokohama, Japan.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/146876_01_rugby_world_cup_2019_logo.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205123000 +0000" stop="20191205124000 +0000" channel="SuperSport HD 1">
+    <title lang="en">Int Rugby HL '19: WAL v Barbarians</title>
+    <sub-title lang="en">International Rugby Blitz Highlights - Wales vs Barbarians</sub-title>
+    <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/111951_wales_rugby.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205124000 +0000" stop="20191205131000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: ESP v IRE</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Spain vs Ireland</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205131000 +0000" stop="20191205133200 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: AUS v FIJ</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Australia vs Fiji</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205133200 +0000" stop="20191205135600 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: CAN v RUS</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Canada vs Russia</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205135600 +0000" stop="20191205141800 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: USA v BRA</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: USA vs Brazil</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205141800 +0000" stop="20191205144000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: FRA v ENG</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: France vs England</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205144000 +0000" stop="20191205150200 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: NZL v JPN</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: New Zealand vs Japan</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205150200 +0000" stop="20191205152600 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: SAM v CAN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Samoa vs Canada</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205152600 +0000" stop="20191205154800 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: NZL v WAL</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: New Zealand vs Wales</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205154800 +0000" stop="20191205161000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: AUS v SCO</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Australia vs Scotland</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205161000 +0000" stop="20191205163800 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: USA v IRE</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: USA vs Ireland</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205163800 +0000" stop="20191205170000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: FRA v ARG</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: France vs Argentina</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205170000 +0000" stop="20191205173000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: FIJ v JPN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Fiji vs Japan</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205173000 +0000" stop="20191205175200 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: ENG v ESP</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: England vs Spain</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205175200 +0000" stop="20191205183000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205183000 +0000" stop="20191205193000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Springboks: Glory in Japan</title>
+    <sub-title lang="en">Glory in Japan</sub-title>
+    <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158578_springboks.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205193000 +0000" stop="20191205195500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205195500 +0000" stop="20191205200000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/112140_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205200000 +0000" stop="20191205210000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Story of Rugby</title>
+    <sub-title lang="en">The Professional Game</sub-title>
+    <desc lang="en">An epic six-part global documentary series that takes a cinematic exploration of the fastest growing major team sport in the word - rugby.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/155129_the_story_of_rugby.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205210000 +0000" stop="20191205212500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205212500 +0000" stop="20191205222500 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Springboks: Glory in Japan</title>
+    <sub-title lang="en">Glory in Japan</sub-title>
+    <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158578_springboks.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205222500 +0000" stop="20191205223000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205223000 +0000" stop="20191205230000 +0000" channel="SuperSport HD 1">
+    <title lang="en">Sharkbite TV</title>
+    <sub-title lang="en">19/12</sub-title>
+    <desc lang="en">A behind-the-scenes look at the Natal Sharks.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/130583_sharkbitetv.png" />
+    <episode-num system="onscreen">S19 E12</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205230000 +0000" stop="20191206000000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Story of Rugby</title>
+    <sub-title lang="en">The Professional Game</sub-title>
+    <desc lang="en">An epic six-part global documentary series that takes a cinematic exploration of the fastest growing major team sport in the word - rugby.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/155129_the_story_of_rugby.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206000000 +0000" stop="20191206014500 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 19/20: Connacht v Kings</title>
+    <sub-title lang="en">GUINNESS PRO14 - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
+    <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/157622_r7_connacht_rugby_v_isuzu_southern_kings.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206014500 +0000" stop="20191206015000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206015000 +0000" stop="20191206033500 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/157623_r7_ospreys_v_toyota_cheetahs.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206033500 +0000" stop="20191206034000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206034000 +0000" stop="20191206052500 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 19/20: Munster v Edinburgh</title>
+    <sub-title lang="en">GUINNESS PRO14 - Round 7: Munster Rugby vs Edinburgh Rugby</sub-title>
+    <desc lang="en">From Irish Independent Park - Cork, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/157401_r7_munster_rugby_v_edinburgh_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206052500 +0000" stop="20191206055000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206055000 +0000" stop="20191206055500 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
+    <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
+    <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/112140_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206055500 +0000" stop="20191206060000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/112140_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206060000 +0000" stop="20191206060500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206060500 +0000" stop="20191206061500 +0000" channel="SuperSport HD 1">
+    <title lang="en">Int Rugby HL '19: WAL v Barbarians</title>
+    <sub-title lang="en">International Rugby Blitz Highlights - Wales vs Barbarians</sub-title>
+    <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/111951_wales_rugby.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206061500 +0000" stop="20191206062000 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Connacht v Kings</title>
+    <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Connacht Rugby vs Isuzu Southern Kings</sub-title>
+    <desc lang="en">From The Sports Ground - Galway, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/112140_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206062000 +0000" stop="20191206062500 +0000" channel="SuperSport HD 1">
+    <title lang="en">PRO14 HL 19/20: Ospreys v Cheetahs</title>
+    <sub-title lang="en">GUINNESS PRO14 Blitz Highlights - Round 7: Ospreys vs Toyota Cheetahs</sub-title>
+    <desc lang="en">From Liberty Stadium - Swansea, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/112140_guinness_pro14.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206062500 +0000" stop="20191206065000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206065000 +0000" stop="20191206072000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: ESP v FIJ</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Spain vs Fiji</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206072000 +0000" stop="20191206074200 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: AUS v IRE</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Australia vs Ireland</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206074200 +0000" stop="20191206080400 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: CAN v BRA</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Canada vs Brazil</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206080400 +0000" stop="20191206082600 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: USA v RUS</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: USA vs Russia</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206082600 +0000" stop="20191206084800 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: FRA v JPN</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: France vs Japan</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206084800 +0000" stop="20191206091000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: NZL v ENG</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: New Zealand vs England</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206091000 +0000" stop="20191206093400 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: SAM v WAL</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Samoa vs Wales</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206093400 +0000" stop="20191206095600 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: NZL v CAN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: New Zealand vs Canada</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206095600 +0000" stop="20191206101800 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: AUS v IRE</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Australia vs Ireland</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206101800 +0000" stop="20191206104000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: USA v SCO</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: USA vs Scotland</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206104000 +0000" stop="20191206110200 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: FRA v JPN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: France vs Japan</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206110200 +0000" stop="20191206112400 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: FIJ v ARG</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Fiji vs Argentina</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206112400 +0000" stop="20191206114600 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: ENG v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: England vs Kenya</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206114600 +0000" stop="20191206121000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206121000 +0000" stop="20191206123200 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: IRE v FIJ</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Ireland vs Fiji</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206123200 +0000" stop="20191206125400 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: AUS v ESP</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Australia vs Spain</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206125400 +0000" stop="20191206131600 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: RUS v BRA</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: Russia vs Brazil</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206131600 +0000" stop="20191206133800 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: USA v CAN</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: USA vs Canada</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206133800 +0000" stop="20191206140000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: ENG v JPN</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: England vs Japan</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206140000 +0000" stop="20191206143000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai: NZL v FRA</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai: New Zealand vs France</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206143000 +0000" stop="20191206145500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206145500 +0000" stop="20191206150000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: ENG v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: England vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206150000 +0000" stop="20191206152600 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: CAN v WAL</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Canada vs Wales</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206152600 +0000" stop="20191206154800 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: NZL v SAM</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: New Zealand vs Samoa</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206154800 +0000" stop="20191206161000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: SCO v IRE</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Scotland vs Ireland</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206161000 +0000" stop="20191206163800 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: USA v AUS</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: USA vs Australia</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206163800 +0000" stop="20191206170000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: ARG v JPN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Argentina vs Japan</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206170000 +0000" stop="20191206172500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: FIJ v FRA</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Fiji vs France</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206172500 +0000" stop="20191206173000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v ESP</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Spain</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206173000 +0000" stop="20191206175200 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: ESP v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Spain vs Kenya</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206175200 +0000" stop="20191206183000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v ENG</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs England</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206183000 +0000" stop="20191206190000 +0000" channel="SuperSport HD 1">
+    <title lang="en">World Rugby Show</title>
+    <sub-title lang="en">19/253</sub-title>
+    <desc lang="en">Keep up to date with all the latest rugby news from World Rugby.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/134421_world_rugby_show.png" />
+    <episode-num system="onscreen">S19 E253</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206190000 +0000" stop="20191206192500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206192500 +0000" stop="20191206195000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206195000 +0000" stop="20191206201500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v ENG</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs England</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206201500 +0000" stop="20191206202000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: ENG v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: England vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206202000 +0000" stop="20191206202500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: ESP v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: Spain vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206202500 +0000" stop="20191206205000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206205000 +0000" stop="20191206211500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206211500 +0000" stop="20191206214000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v ENG</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs England</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206214000 +0000" stop="20191206234500 +0000" channel="SuperSport HD 1">
+    <title lang="en">HCC 19/20: Bath v Clermont</title>
+    <sub-title lang="en">Heineken Champions Cup - Round 3: Bath Rugby vs ASM Clermont Auvergne</sub-title>
+    <desc lang="en">LIVE from Recreation Ground - Bath, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/154401_heineken_champions_cup.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206234500 +0000" stop="20191206235000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206235000 +0000" stop="20191206235500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v ESP</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Spain</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206235500 +0000" stop="20191207000000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v ENG</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs England</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207000000 +0000" stop="20191207015000 +0000" channel="SuperSport HD 1">
+    <title lang="en">Int Rugby '19: WAL v Barbarians</title>
+    <sub-title lang="en">International Rugby - Wales vs Barbarians</sub-title>
+    <desc lang="en">From Principality Stadium - Cardiff, Wales.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/157634_wales_vs_barbarians.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207015000 +0000" stop="20191207015500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207015500 +0000" stop="20191207020000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: ENG v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: England vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207020000 +0000" stop="20191207020500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: ESP v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: Spain vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207020500 +0000" stop="20191207023000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207023000 +0000" stop="20191207025500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207025500 +0000" stop="20191207032000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v ENG</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs England</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207032000 +0000" stop="20191207042000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Springboks: Glory in Japan</title>
+    <sub-title lang="en">Glory in Japan</sub-title>
+    <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/158578_springboks.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207042000 +0000" stop="20191207044500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207044500 +0000" stop="20191207051000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: ENG v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: England vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207051000 +0000" stop="20191207053500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: ESP v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: Spain vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207053500 +0000" stop="20191207060000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207060000 +0000" stop="20191207062500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v ESP</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs Spain</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207062500 +0000" stop="20191207065000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai: RSA v ENG</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai: South Africa vs England</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207065000 +0000" stop="20191207072000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai 11th P/O</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai 11th Place Play-off</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207072000 +0000" stop="20191207074200 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai 9th P/O</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai 9th Place Play-off</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207074200 +0000" stop="20191207080400 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai Cup QF1</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Quarter-final 1</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207080400 +0000" stop="20191207082600 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai Cup QF2</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Quarter-final 2</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207082600 +0000" stop="20191207084800 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai Cup QF3</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Quarter-final 3</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207084800 +0000" stop="20191207091000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai Cup QF4</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Quarter-final 4</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207091000 +0000" stop="20191207093400 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup QF1</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Quarter-final 1</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207093400 +0000" stop="20191207095600 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup QF2</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Quarter-final 2</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207095600 +0000" stop="20191207101800 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup QF3</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Quarter-final 3</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207101800 +0000" stop="20191207104500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup QF4</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Quarter-final 4</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207104500 +0000" stop="20191207105100 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v KEN</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Kenya</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207105100 +0000" stop="20191207105700 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v ESP</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs Spain</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207105700 +0000" stop="20191207110300 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai: RSA v ENG</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai: South Africa vs England</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207110300 +0000" stop="20191207110900 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20: Dubai Cup QF1</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai Cup Quarter-final 1</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207110900 +0000" stop="20191207111500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai Cup QF2</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai Cup Quarter-final 2</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207111500 +0000" stop="20191207112000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai Cup QF3</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai Cup Quarter-final 3</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207112000 +0000" stop="20191207112500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai Cup QF4</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai Cup Quarter-final 4</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207112500 +0000" stop="20191207115000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai 15th P/O</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai 15th Place Play-off</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207115000 +0000" stop="20191207121200 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai 13th P/O</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai 13th Place Play-off</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207121200 +0000" stop="20191207123400 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai Cup SF1</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Semi-final 1</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207123400 +0000" stop="20191207125600 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai Cup SF2</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Semi-final 2</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207125600 +0000" stop="20191207132000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup SF1</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Semi-final 1</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207132000 +0000" stop="20191207134200 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup SF2</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Semi-final 2</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207134200 +0000" stop="20191207140400 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai 11th P/O</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai 11th Place Play-off</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207140400 +0000" stop="20191207143000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai 9th P/O</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai 9th Place Play-off</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207143000 +0000" stop="20191207143500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 KEN Final Match</title>
+    <sub-title lang="en">Kenya Final match</sub-title>
+    <desc lang="en">'Kenya Final match'. World Rugby HSBC Sevens Series Blitz Highlights 2019/20. Kenya Final Match.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207143500 +0000" stop="20191207144000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 RSA QF Match</title>
+    <sub-title lang="en">South Africa Quarter-final match</sub-title>
+    <desc lang="en">'South Africa Quarter-final match'. World Rugby HSBC Sevens Series Blitz Highlights 2019/20. South Africa Quarter-final Match.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207144000 +0000" stop="20191207150500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup SF1</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Semi-final 1</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207150500 +0000" stop="20191207153000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup SF2</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Semi-final 2</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207153000 +0000" stop="20191207155500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai Bronze Final</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Bronze Final</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207155500 +0000" stop="20191207162500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Bronze Final</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Bronze Final</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207162500 +0000" stop="20191207165700 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 (W) Dubai Cup Final</title>
+    <sub-title lang="en">World Rugby HSBC Women's Sevens Series - Round 2: Dubai Cup Final</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125960_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207165700 +0000" stop="20191207173500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup Final</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Final</sub-title>
+    <desc lang="en">LIVE from 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207173500 +0000" stop="20191207180500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Bronze Final</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Bronze Final</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207180500 +0000" stop="20191207183500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup Final</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Final</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207183500 +0000" stop="20191207184000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai 9th P/O</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai 9th Place Play-off</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207184000 +0000" stop="20191207184500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 Dubai Bronze Final</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series Blitz Highlights - Round 1: Dubai Bronze Final</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207184500 +0000" stop="20191207191500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup Final</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Final</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207191500 +0000" stop="20191207192000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 KEN Final Match</title>
+    <sub-title lang="en">Kenya Final match</sub-title>
+    <desc lang="en">'Kenya Final match'. World Rugby HSBC Sevens Series Blitz Highlights 2019/20. Kenya Final Match.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207192000 +0000" stop="20191207192500 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s HL 19/20 RSA Final Match</title>
+    <sub-title lang="en">South Africa Final match</sub-title>
+    <desc lang="en">'South Africa Final match'. World Rugby HSBC Sevens Series Blitz Highlights 2019/20. South Africa Final Match.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125958_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207192500 +0000" stop="20191207213000 +0000" channel="SuperSport HD 1">
+    <title lang="en">HCC 19/20: Munster v Saracens</title>
+    <sub-title lang="en">Heineken Champions Cup - Round 3: Munster Rugby vs Saracens</sub-title>
+    <desc lang="en">LIVE from Thomond Park - Limerick, Ireland.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/154401_heineken_champions_cup.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207213000 +0000" stop="20191207220000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup Final</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Final</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207220000 +0000" stop="20191207230000 +0000" channel="SuperSport HD 1">
+    <title lang="en">The Springboks: Glory in Japan</title>
+    <sub-title lang="en">Glory in Japan</sub-title>
+    <desc lang="en">'Glory in Japan'. We look back at how the Springboks' won their 3rd World Cup, recovering from an early disappointment and growing in stature en-route to claiming rugby's ultimate prize.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/158578_springboks.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207230000 +0000" stop="20191207233000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Bronze Final</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Bronze Final</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207233000 +0000" stop="20191208000000 +0000" channel="SuperSport HD 1">
+    <title lang="en">7s 19/20 Dubai Cup Final</title>
+    <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Final</sub-title>
+    <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+</tv>
