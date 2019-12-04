@@ -4,6 +4,10 @@
     <display-name lang="en">SuperSport HD 1</display-name>
     <url>http://www.dstv.co.za</url>
   </channel>
+  <channel id="SuperSport HD 3">
+    <display-name lang="en">SuperSport HD 3</display-name>
+    <url>http://www.dstv.co.za</url>
+  </channel>
   <programme start="20191204000000 +0000" stop="20191204015500 +0000" channel="SuperSport HD 1">
     <title lang="en">Six Nations '19: ITA v FRA</title>
     <sub-title lang="en">Round 5: Italy vs France</sub-title>
@@ -1675,6 +1679,879 @@
     <sub-title lang="en">World Rugby HSBC Sevens Series - Round 1: Dubai Cup Final</sub-title>
     <desc lang="en">From 7he Sevens - Dubai, UAE.(n)</desc>
     <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/125957_new_-_hsbc_sevens_rugby.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204001500 +0000" stop="20191204010000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Wrap</title>
+    <sub-title lang="en">Matchday 15: Burnley vs Manchester City</sub-title>
+    <desc lang="en">'Matchday 15: Burnley vs Manchester City'. LIVE from Turf Moor - Burnley, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140567_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204010000 +0000" stop="20191204025000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: C Palace v B'mouth</title>
+    <sub-title lang="en">Premier League - Matchday 15: Crystal Palace vs AFC Bournemouth</sub-title>
+    <desc lang="en">From Selhurst Park - London, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158261_md15_crystal_palace_v_afc_bournemouth.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204025000 +0000" stop="20191204044000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Burnley v Man City</title>
+    <sub-title lang="en">Premier League - Matchday 15: Burnley vs Manchester City</sub-title>
+    <desc lang="en">From Turf Moor - Burnley, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158259_md15_burnley_v_manchester_city.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204044000 +0000" stop="20191204060000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Ballon d'Or 19: Ceremony</title>
+    <sub-title lang="en">Ceremony</sub-title>
+    <desc lang="en">'Ceremony'. The 2019 Ballon d'Or is the 54th annual award ceremony recognizing the best footballer in the world.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158160_ballon_d_or.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204060000 +0000" stop="20191204063000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Latest HL 19/20</title>
+    <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
+    <desc lang="en">A highlights package from the latest round.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/128614_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204063000 +0000" stop="20191204083000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Burnley v Man City</title>
+    <sub-title lang="en">Premier League - Matchday 15: Burnley vs Manchester City</sub-title>
+    <desc lang="en">From Turf Moor - Burnley, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158259_md15_burnley_v_manchester_city.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204083000 +0000" stop="20191204103000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: C Palace v B'mouth</title>
+    <sub-title lang="en">Premier League - Matchday 15: Crystal Palace vs AFC Bournemouth</sub-title>
+    <desc lang="en">From Selhurst Park - London, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158261_md15_crystal_palace_v_afc_bournemouth.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204103000 +0000" stop="20191204123000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Burnley v Man City</title>
+    <sub-title lang="en">Premier League - Matchday 15: Burnley vs Manchester City</sub-title>
+    <desc lang="en">From Turf Moor - Burnley, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158259_md15_burnley_v_manchester_city.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204123000 +0000" stop="20191204130000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League World</title>
+    <sub-title lang="en">20/17</sub-title>
+    <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140844_title_placeholder_world.png" />
+    <episode-num system="onscreen">S20 E17</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204130000 +0000" stop="20191204133000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Today 19/20</title>
+    <sub-title lang="en">4 December - Afternoon</sub-title>
+    <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140847_title_placeholder_pl_today.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204133000 +0000" stop="20191204145000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Ballon d'Or 19 Ceremony</title>
+    <sub-title lang="en">Ceremony</sub-title>
+    <desc lang="en">'Ceremony'. The 2019 Ballon d'Or is the 54th annual award ceremony recognizing the best footballer in the world.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158160_ballon_d_or.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204145000 +0000" stop="20191204145500 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL HL 19/20: Burnley v Man City</title>
+    <sub-title lang="en">Premier League Blitz Highlights - Matchday 15: Burnley vs Manchester City</sub-title>
+    <desc lang="en">From Turf Moor - Burnley, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/128614_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204145500 +0000" stop="20191204150000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL HL 19/20: C Palace v B'mouth</title>
+    <sub-title lang="en">Premier League Blitz Highlights - Matchday 15: Crystal Palace vs AFC Bournemouth</sub-title>
+    <desc lang="en">From Selhurst Park - London, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/128614_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204150000 +0000" stop="20191204163000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: The Analysis Show</title>
+    <sub-title lang="en">1/17</sub-title>
+    <desc lang="en">Our first look ahead to the weekend's fixtures using detailed analysis and the latest technology, the studio team examine key fixtures, talk tactics and how clubs may approach matches.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140895_title_placeholder_the_analysis_show.png" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204163000 +0000" stop="20191204170000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: The Big Interview</title>
+    <sub-title lang="en">1/17</sub-title>
+    <desc lang="en">A chance to hear from the biggest and most interesting names in the Premier League, in a more considered sit-down interview format.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140894_title_placeholder_the_big_interview.png" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204170000 +0000" stop="20191204173000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Today 19/20</title>
+    <sub-title lang="en">4 December - Late Afternoon</sub-title>
+    <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140847_title_placeholder_pl_today.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204173000 +0000" stop="20191204180000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Fan Zone 19/20</title>
+    <sub-title lang="en">4 December</sub-title>
+    <desc lang="en">'4 December'. Join the debate as we discuss the major news and issues of the day from the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140902_premierleague-fanzone-pink.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204180000 +0000" stop="20191204200000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Burnley v Man City</title>
+    <sub-title lang="en">Premier League - Matchday 15: Burnley vs Manchester City</sub-title>
+    <desc lang="en">From Turf Moor - Burnley, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158259_md15_burnley_v_manchester_city.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204200000 +0000" stop="20191204203000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Today 19/20</title>
+    <sub-title lang="en">4 December - Evening</sub-title>
+    <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140847_title_placeholder_pl_today.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204203000 +0000" stop="20191204212000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Build Up</title>
+    <sub-title lang="en">Matchday 15: Manchester United vs Tottenham Hotspur</sub-title>
+    <desc lang="en">'Matchday 15: Manchester United vs Tottenham Hotspur'. Jose Mourinho makes a return to Old Trafford as Spurs take on United. Will Jose get one over his previous employers or will United continue their 5 game unbeaten home record?(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/128615_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204212000 +0000" stop="20191204233000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Man Utd v Tottenham</title>
+    <sub-title lang="en">Premier League - Matchday 15: Manchester United vs Tottenham Hotspur</sub-title>
+    <desc lang="en">LIVE from Old Trafford - Manchester, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158264_md15_manchester_united_v_tottenham_hotspur.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191204233000 +0000" stop="20191205001500 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Liverpool v Everton</title>
+    <sub-title lang="en">Premier League - Matchday 15: Liverpool vs Everton</sub-title>
+    <desc lang="en">LIVE from Anfield - Liverpool, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158263_md15_liverpool_v_everton.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205001500 +0000" stop="20191205013000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Wrap</title>
+    <sub-title lang="en">Matchday 15</sub-title>
+    <desc lang="en">'Matchday 15'. A wrap of the Premier league action.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140567_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205013000 +0000" stop="20191205020000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League World</title>
+    <sub-title lang="en">20/18</sub-title>
+    <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140844_title_placeholder_world.png" />
+    <episode-num system="onscreen">S20 E18</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205020000 +0000" stop="20191205040000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Chelsea v A Villa</title>
+    <sub-title lang="en">Premier League - Matchday 15: Chelsea vs Aston Villa</sub-title>
+    <desc lang="en">From Stamford Bridge - London, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158260_md15_chelsea_v_aston_villa.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205040000 +0000" stop="20191205060000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: S'hampton v Norwich</title>
+    <sub-title lang="en">Premier League - Matchday 15: Southampton vs Norwich</sub-title>
+    <desc lang="en">From St Mary's Stadium - Southampton, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158266_md15_southampton_v_norwich_city.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205060000 +0000" stop="20191205063000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Latest HL 19/20</title>
+    <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
+    <desc lang="en">A highlights package from the latest round.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/128614_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205063000 +0000" stop="20191205070000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Latest HL 19/20</title>
+    <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
+    <desc lang="en">A highlights package from the latest round.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/128614_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205070000 +0000" stop="20191205090000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Man Utd v Tottenham</title>
+    <sub-title lang="en">Premier League - Matchday 15: Manchester United vs Tottenham Hotspur</sub-title>
+    <desc lang="en">From Old Trafford - Manchester, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158264_md15_manchester_united_v_tottenham_hotspur.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205090000 +0000" stop="20191205110000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Liverpool v Everton</title>
+    <sub-title lang="en">Premier League - Matchday 15: Liverpool vs Everton</sub-title>
+    <desc lang="en">From Anfield - Liverpool, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158263_md15_liverpool_v_everton.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205110000 +0000" stop="20191205130000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Leicester v Watford</title>
+    <sub-title lang="en">Premier League - Matchday 15: Leicester City vs Watford</sub-title>
+    <desc lang="en">From King Power Stadium - Leicester, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158262_md15_leicester_city_v_watford.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205130000 +0000" stop="20191205133000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Today 19/20</title>
+    <sub-title lang="en">5 December - Afternoon</sub-title>
+    <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140847_title_placeholder_pl_today.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205133000 +0000" stop="20191205140000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League World</title>
+    <sub-title lang="en">20/18</sub-title>
+    <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140844_title_placeholder_world.png" />
+    <episode-num system="onscreen">S20 E18</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205140000 +0000" stop="20191205143000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Gary Neville's Soccerbox</title>
+    <sub-title lang="en">Episode 6 - Jamie Carragher</sub-title>
+    <desc lang="en">Soccerbox features Manchester United legend Gary Neville in conversation with a former rival or team-mate, as they watch through some of the most compelling matches they played in.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/111868_premier_league_blue_background.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205143000 +0000" stop="20191205163000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Midweek Review 19/20</title>
+    <sub-title lang="en">4 December - Wednesday</sub-title>
+    <desc lang="en">PLTV: Midweek Review 2019/20.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/119073_premier_league_green_background.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205163000 +0000" stop="20191205170000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Pl: 100</title>
+    <sub-title lang="en">Owen</sub-title>
+    <desc lang="en">A programme that celebrates the elite group of players who have scored more than 100 Premier League goals.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/135751_new_-_premierleague.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205170000 +0000" stop="20191205173000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Today 19/20</title>
+    <sub-title lang="en">5 December - Late Afternoon</sub-title>
+    <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140847_title_placeholder_pl_today.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205173000 +0000" stop="20191205180000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Fan Zone 19/20</title>
+    <sub-title lang="en">5 December</sub-title>
+    <desc lang="en">'5 December'. Join the debate as we discuss the major news and issues of the day from the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140902_premierleague-fanzone-pink.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205180000 +0000" stop="20191205200000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Liverpool v Everton</title>
+    <sub-title lang="en">Premier League - Matchday 15: Liverpool vs Everton</sub-title>
+    <desc lang="en">From Anfield - Liverpool, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158263_md15_liverpool_v_everton.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205200000 +0000" stop="20191205203000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Today 19/20</title>
+    <sub-title lang="en">5 December - Evening</sub-title>
+    <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/140847_title_placeholder_pl_today.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205203000 +0000" stop="20191205210000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Pl: 100</title>
+    <sub-title lang="en">Owen</sub-title>
+    <desc lang="en">A programme that celebrates the elite group of players who have scored more than 100 Premier League goals.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/135751_new_-_premierleague.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205210000 +0000" stop="20191205213000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Latest HL 19/20</title>
+    <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
+    <desc lang="en">A highlights package from the latest round.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/128614_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205213000 +0000" stop="20191205220500 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Build Up</title>
+    <sub-title lang="en">Matchday 15: Arsenal vs Brighton &amp; Hove Albion</sub-title>
+    <desc lang="en">'Matchday 15: Arsenal vs Brighton &amp; Hove Albion'. With Ljungberg's first game resulting in a draw, Arsenal are still seeking their first win in 8 matches while Brighton look to change their losing streak since early November.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/128615_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191205220500 +0000" stop="20191206001500 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Arsenal v Brighton</title>
+    <sub-title lang="en">Premier League - Matchday 15: Arsenal vs Brighton &amp; Hove Albion</sub-title>
+    <desc lang="en">LIVE from Emirates Stadium - London, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_12/158258_md15_arsenal_v_brighton_hove_albion.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206001500 +0000" stop="20191206010000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Wrap</title>
+    <sub-title lang="en">Matchday 15: Arsenal vs Brighton &amp; Hove Albion</sub-title>
+    <desc lang="en">'Matchday 15: Arsenal vs Brighton &amp; Hove Albion'. LIVE from Emirates Stadium - London, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140567_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206010000 +0000" stop="20191206013000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League World</title>
+    <sub-title lang="en">20/18</sub-title>
+    <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140844_title_placeholder_world.png" />
+    <episode-num system="onscreen">S20 E18</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206013000 +0000" stop="20191206020000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Fantasy Premier League</title>
+    <sub-title lang="en">20/18</sub-title>
+    <desc lang="en">Be ready for the next fixture as we feature plenty of statistics and tips on which players to add and remove from your fantasy team.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140846_title_placeholder_fantasy_pl.png" />
+    <episode-num system="onscreen">S20 E18</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206020000 +0000" stop="20191206040000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Sheff United v Newcastle</title>
+    <sub-title lang="en">Premier League - Matchday 15: Sheffield United vs Newcastle United</sub-title>
+    <desc lang="en">From Bramall Lane - Sheffield, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/158265_md15_sheffield_united_v_newcastle_united.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206040000 +0000" stop="20191206060000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Wolves v West Ham</title>
+    <sub-title lang="en">Premier League - Matchday 15: Wolverhampton Wanderers vs West Ham United</sub-title>
+    <desc lang="en">From Molineux Stadium - Wolverhampton, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/158267_md15_wolverhampton_wanderers_v_west_ham_united.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206060000 +0000" stop="20191206063000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Latest HL 19/20</title>
+    <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
+    <desc lang="en">A highlights package from the latest round.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/128614_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206063000 +0000" stop="20191206070000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Latest HL 19/20</title>
+    <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
+    <desc lang="en">A highlights package from the latest round.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/128614_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206070000 +0000" stop="20191206090000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Arsenal v Brighton</title>
+    <sub-title lang="en">Premier League - Matchday 15: Arsenal vs Brighton &amp; Hove Albion</sub-title>
+    <desc lang="en">From Emirates Stadium - London, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/158258_md15_arsenal_v_brighton_hove_albion.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206090000 +0000" stop="20191206110000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Sheff United v Newcastle</title>
+    <sub-title lang="en">Premier League - Matchday 15: Sheffield United vs Newcastle United</sub-title>
+    <desc lang="en">From Bramall Lane - Sheffield, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/158265_md15_sheffield_united_v_newcastle_united.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206110000 +0000" stop="20191206113000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Latest HL 19/20</title>
+    <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
+    <desc lang="en">A highlights package from the latest round.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/128614_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206113000 +0000" stop="20191206123000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Midweek Review 19/20</title>
+    <sub-title lang="en">5 December - Thursday</sub-title>
+    <desc lang="en">PLTV: Midweek Review 2019/20.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/119073_premier_league_green_background.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206123000 +0000" stop="20191206130000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League World</title>
+    <sub-title lang="en">20/18</sub-title>
+    <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140844_title_placeholder_world.png" />
+    <episode-num system="onscreen">S20 E18</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206130000 +0000" stop="20191206133000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Today 19/20</title>
+    <sub-title lang="en">6 December - Afternoon</sub-title>
+    <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140847_title_placeholder_pl_today.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206133000 +0000" stop="20191206140000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Netbusters</title>
+    <sub-title lang="en">20/15</sub-title>
+    <desc lang="en">This programme provides an alternative look at the weekend's matches by cutting all of the goals, saves, misses and tackles to music and uses ISO angle footage.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140888_title_placeholder_netbsuters.png" />
+    <episode-num system="onscreen">S20 E15</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206140000 +0000" stop="20191206150000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Midweek Review 19/20</title>
+    <sub-title lang="en">5 December - Thursday</sub-title>
+    <desc lang="en">PLTV: Midweek Review 2019/20.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/119073_premier_league_green_background.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206150000 +0000" stop="20191206163000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Countdown to Kick Off</title>
+    <sub-title lang="en">20/3</sub-title>
+    <desc lang="en">PLTV: Countdown to Kick Off 2019/20.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/157952_new_-_premierleague.jpg" />
+    <episode-num system="onscreen">S20 E3</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206163000 +0000" stop="20191206170000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Match Pack</title>
+    <sub-title lang="en">20/15</sub-title>
+    <desc lang="en">Unbeatable action deserves unbeatable analysis. Previewing every weekend fixture, This programme offers a statistical pre-game view, high-end graphics and world-class expert insights.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140845_title_placeholder_match_pack.png" />
+    <episode-num system="onscreen">S20 E15</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206170000 +0000" stop="20191206173000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Today 19/20</title>
+    <sub-title lang="en">6 December - Late Afternoon</sub-title>
+    <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140847_title_placeholder_pl_today.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206173000 +0000" stop="20191206183000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Fan Zone 19/20</title>
+    <sub-title lang="en">6 December</sub-title>
+    <desc lang="en">'6 December'. Join the debate as we discuss the major news and issues of the day from the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140902_premierleague-fanzone-pink.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206183000 +0000" stop="20191206193000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Euro-Connect</title>
+    <sub-title lang="en">20/12</sub-title>
+    <desc lang="en">Join Neil Andrews, and his team of correspondents, every Friday for an hour packed show connecting you with the top leagues across Europe. Bringing you all the news, insights and moments of magic.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/143743_euro-connect.png" />
+    <episode-num system="onscreen">S20 E12</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206193000 +0000" stop="20191206200000 +0000" channel="SuperSport HD 3">
+    <title lang="en">UCL Magazine</title>
+    <sub-title lang="en">20/14</sub-title>
+    <desc lang="en">A weekly round-up of the results in the 2019/20 Champions League. We include player profiles from the various teams taking part in the competition.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/126046_new_-_uefachampionsleague.jpg" />
+    <episode-num system="onscreen">S20 E14</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206200000 +0000" stop="20191206203000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Today 19/20</title>
+    <sub-title lang="en">6 December - Evening</sub-title>
+    <desc lang="en">This show provides an incisive and comprehensive take on stories doing the rounds in the Premier League.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140847_title_placeholder_pl_today.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206203000 +0000" stop="20191206220000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Weekend Warm-Up 19/20</title>
+    <sub-title lang="en">6 December</sub-title>
+    <desc lang="en">'6 December'. PLTV: Weekend Warm-Up 2019/20.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140872_title_placeholder_weekend_warm_up.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206220000 +0000" stop="20191206230000 +0000" channel="SuperSport HD 3">
+    <title lang="en">UEL Magazine 19/20</title>
+    <sub-title lang="en">Matchday 6 Preview</sub-title>
+    <desc lang="en">'Matchday 6 Preview'. A round-up of all the latest action from the UEFA Europa League, plus the latest news, fixtures, and scores updates.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/112151_uefa_europa_-_black.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206230000 +0000" stop="20191206233000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League World</title>
+    <sub-title lang="en">20/18</sub-title>
+    <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140844_title_placeholder_world.png" />
+    <episode-num system="onscreen">S20 E18</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191206233000 +0000" stop="20191207010000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Weekend Warm-Up 19/20</title>
+    <sub-title lang="en">6 December</sub-title>
+    <desc lang="en">'6 December'. PLTV: Weekend Warm-Up 2019/20.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140872_title_placeholder_weekend_warm_up.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207010000 +0000" stop="20191207020000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Euro-Connect</title>
+    <sub-title lang="en">20/12</sub-title>
+    <desc lang="en">Join Neil Andrews, and his team of correspondents, every Friday for an hour packed show connecting you with the top leagues across Europe. Bringing you all the news, insights and moments of magic.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/143743_euro-connect.png" />
+    <episode-num system="onscreen">S20 E12</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207020000 +0000" stop="20191207040000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: S'hampton v Norwich</title>
+    <sub-title lang="en">Premier League - Matchday 15: Southampton vs Norwich</sub-title>
+    <desc lang="en">From St Mary's Stadium - Southampton, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/158266_md15_southampton_v_norwich_city.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207040000 +0000" stop="20191207060000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Arsenal v Brighton</title>
+    <sub-title lang="en">Premier League - Matchday 15: Arsenal vs Brighton &amp; Hove Albion</sub-title>
+    <desc lang="en">From Emirates Stadium - London, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/158258_md15_arsenal_v_brighton_hove_albion.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207060000 +0000" stop="20191207063000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Latest HL 19/20</title>
+    <sub-title lang="en">Premier League Blitz Highlights - Matchday 15</sub-title>
+    <desc lang="en">A highlights package from the latest round.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/128614_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207063000 +0000" stop="20191207070000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Preview</title>
+    <sub-title lang="en">20/16</sub-title>
+    <desc lang="en">A preview of all the weekend's Premier League action including the latest press conferences, team and injury news.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140897_title_placeholder_preview.png" />
+    <episode-num system="onscreen">S20 E16</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207070000 +0000" stop="20191207073000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Match Pack</title>
+    <sub-title lang="en">20/15</sub-title>
+    <desc lang="en">Unbeatable action deserves unbeatable analysis. Previewing every weekend fixture, This programme offers a statistical pre-game view, high-end graphics and world-class expert insights.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140845_title_placeholder_match_pack.png" />
+    <episode-num system="onscreen">S20 E15</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207073000 +0000" stop="20191207080000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Netbusters</title>
+    <sub-title lang="en">20/15</sub-title>
+    <desc lang="en">This programme provides an alternative look at the weekend's matches by cutting all of the goals, saves, misses and tackles to music and uses ISO angle footage.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140888_title_placeholder_netbsuters.png" />
+    <episode-num system="onscreen">S20 E15</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207080000 +0000" stop="20191207090000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Midweek Review 19/20</title>
+    <sub-title lang="en">5 December - Thursday</sub-title>
+    <desc lang="en">PLTV: Midweek Review 2019/20.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/119073_premier_league_green_background.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207090000 +0000" stop="20191207100000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Euro-Connect</title>
+    <sub-title lang="en">20/12</sub-title>
+    <desc lang="en">Join Neil Andrews, and his team of correspondents, every Friday for an hour packed show connecting you with the top leagues across Europe. Bringing you all the news, insights and moments of magic.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/143743_euro-connect.png" />
+    <episode-num system="onscreen">S20 E12</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207100000 +0000" stop="20191207103000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Match Pack</title>
+    <sub-title lang="en">20/15</sub-title>
+    <desc lang="en">Unbeatable action deserves unbeatable analysis. Previewing every weekend fixture, This programme offers a statistical pre-game view, high-end graphics and world-class expert insights.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140845_title_placeholder_match_pack.png" />
+    <episode-num system="onscreen">S20 E15</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207103000 +0000" stop="20191207110000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Netbusters</title>
+    <sub-title lang="en">20/15</sub-title>
+    <desc lang="en">This programme provides an alternative look at the weekend's matches by cutting all of the goals, saves, misses and tackles to music and uses ISO angle footage.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140888_title_placeholder_netbsuters.png" />
+    <episode-num system="onscreen">S20 E15</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207110000 +0000" stop="20191207123000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Weekend Warm-Up 19/20</title>
+    <sub-title lang="en">6 December</sub-title>
+    <desc lang="en">'6 December'. PLTV: Weekend Warm-Up 2019/20.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140872_title_placeholder_weekend_warm_up.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207123000 +0000" stop="20191207130000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Preview</title>
+    <sub-title lang="en">20/16</sub-title>
+    <desc lang="en">A preview of all the weekend's Premier League action including the latest press conferences, team and injury news.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140897_title_placeholder_preview.png" />
+    <episode-num system="onscreen">S20 E16</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207130000 +0000" stop="20191207133000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Match Pack</title>
+    <sub-title lang="en">20/15</sub-title>
+    <desc lang="en">Unbeatable action deserves unbeatable analysis. Previewing every weekend fixture, This programme offers a statistical pre-game view, high-end graphics and world-class expert insights.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140845_title_placeholder_match_pack.png" />
+    <episode-num system="onscreen">S20 E15</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207133000 +0000" stop="20191207142000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Build Up</title>
+    <sub-title lang="en">Matchday 16: Everton vs Chelsea</sub-title>
+    <desc lang="en">'Matchday 16: Everton vs Chelsea'. LIVE from Goodison Park - Liverpool, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/128615_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207142000 +0000" stop="20191207163000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Everton v Chelsea</title>
+    <sub-title lang="en">Premier League - Matchday 16: Everton vs Chelsea</sub-title>
+    <desc lang="en">LIVE from Goodison Park - Liverpool, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/158272_md16_everton_v_chelsea.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207163000 +0000" stop="20191207165000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Build Up</title>
+    <sub-title lang="en">Matchday 16: AFC Bournemouth vs Liverpool</sub-title>
+    <desc lang="en">'Matchday 16: AFC Bournemouth vs Liverpool'. LIVE from Vitality Stadium - Bournemouth, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/128615_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207165000 +0000" stop="20191207190000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: B'mouth v Liverpool</title>
+    <sub-title lang="en">Premier League - Matchday 16: AFC Bournemouth vs Liverpool</sub-title>
+    <desc lang="en">LIVE from Vitality Stadium - Bournemouth, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/158269_md16_afc_bournemouth_v_liverpool.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207190000 +0000" stop="20191207192000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL Build Up</title>
+    <sub-title lang="en">Matchday 16: Manchester City vs Manchester United</sub-title>
+    <desc lang="en">'Matchday 16: Manchester City vs Manchester United'. LIVE from Etihad Stadium - Manchester, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/128615_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207192000 +0000" stop="20191207213000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL 19/20: Man City v Man Utd</title>
+    <sub-title lang="en">Premier League - Matchday 16: Manchester City vs Manchester United</sub-title>
+    <desc lang="en">LIVE from Etihad Stadium - Manchester, England.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/158273_md16_manchester_city_v_manchester_united.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207213000 +0000" stop="20191207220000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League Wrap</title>
+    <sub-title lang="en">Matchday 16</sub-title>
+    <desc lang="en">'Matchday 16'. A wrap of the Premier league action.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140567_new_-_premierleague.jpg" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207220000 +0000" stop="20191207230000 +0000" channel="SuperSport HD 3">
+    <title lang="en">PL: Matchday Extra 19/20</title>
+    <sub-title lang="en">7 December</sub-title>
+    <desc lang="en">'7 December'. This programme reacts to the action and all of the day's big Premier League stories. Adding context, showing every goal, discussing major talking points, analysing the key incidents and featuring the best interviews.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140873_title_placeholder_mdl_extra.png" />
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207230000 +0000" stop="20191207233000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Premier League World</title>
+    <sub-title lang="en">20/18</sub-title>
+    <desc lang="en">A weekly magazine show offering an insight into the Premier League on a global scale, from in-depth interviews with current stars to investigating life after football with former players.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/140844_title_placeholder_world.png" />
+    <episode-num system="onscreen">S20 E18</episode-num>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme>
+  <programme start="20191207233000 +0000" stop="20191208000000 +0000" channel="SuperSport HD 3">
+    <title lang="en">Pl: 100</title>
+    <sub-title lang="en">Owen</sub-title>
+    <desc lang="en">A programme that celebrates the elite group of players who have scored more than 100 Premier League goals.(n)</desc>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/2019_11/135751_new_-_premierleague.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
     <rating>
       <value>Family</value>
     </rating>
